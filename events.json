@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27 09:23",
+  "updated": "2026-03-28 09:23",
   "events": [
     {
       "member": "nabe",
@@ -1090,6 +1090,16 @@
       "allDay": false,
       "location": "",
       "eventId": "5DC97276-0284-4D6E-8D43-9EADE9FBF1C8"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】徹底比較ウェビナー XServer レンタルサーバー VS XServer Business",
+      "date": "2026-03-31",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "37D064B5-A30D-40DD-977D-50A32978729A"
     },
     {
       "member": "kondo",
