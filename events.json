@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29 09:23",
+  "updated": "2026-03-30 09:23",
   "events": [
     {
       "member": "nabe",
@@ -1002,6 +1002,56 @@
       "eventId": "6pmb242ulqc9n69q119dfq2hvh@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-03-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3733uarbnalhqf4md3q55pr6e6@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-03-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3733uarbnalhqf4md3q55pr6e6@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-03-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3733uarbnalhqf4md3q55pr6e6@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-03-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3733uarbnalhqf4md3q55pr6e6@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-03-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3733uarbnalhqf4md3q55pr6e6@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "【橋本】出社",
       "date": "2026-03-30",
@@ -1020,6 +1070,26 @@
       "allDay": true,
       "location": "",
       "eventId": "7v08jfv5j6hkige9il8b746r9g@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-03-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3733uarbnalhqf4md3q55pr6e6@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-03-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3733uarbnalhqf4md3q55pr6e6@google.com"
     },
     {
       "member": "nabe",
