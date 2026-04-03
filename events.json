@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02 09:23",
+  "updated": "2026-04-03 09:23",
   "events": [
     {
       "member": "nabe",
@@ -122,6 +122,16 @@
       "eventId": "206ceobed6k1vuhrmfo33ebdqm@google.com"
     },
     {
+      "member": "moriya",
+      "title": "【森屋】有給 (1/28)",
+      "date": "2026-04-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "BF11823B-1F9D-4E57-9BE2-D093F96002D7"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】有休（1/18.5）",
       "date": "2026-04-06",
@@ -160,6 +170,16 @@
       "allDay": true,
       "location": "",
       "eventId": "366qkjm0calc9tbesnq5tm71uu@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "コミックキュリア：初稿デザイン提出",
+      "date": "2026-04-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2hbjvv7qc6jii4cgv6opc54g0f@google.com"
     },
     {
       "member": "nabe",
