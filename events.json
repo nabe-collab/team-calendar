@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03 09:23",
+  "updated": "2026-04-04 09:23",
   "events": [
     {
       "member": "nabe",
@@ -105,9 +105,9 @@
       "member": "nabe",
       "title": "【渡邉】COVER_holoLIve EN 4th ライブサイト本番公開",
       "date": "2026-04-06",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "allDay": false,
       "location": "",
       "eventId": "2jqsk10j0311bgtr38rc06meh3@google.com"
     },
@@ -115,8 +115,8 @@
       "member": "nabe",
       "title": " 【渡邉】ホロックスライブ_WEB施策本番公開",
       "date": "2026-04-06",
-      "startTime": "11:30",
-      "endTime": "12:00",
+      "startTime": "18:00",
+      "endTime": "18:30",
       "allDay": false,
       "location": "",
       "eventId": "206ceobed6k1vuhrmfo33ebdqm@google.com"
@@ -140,6 +140,76 @@
       "allDay": true,
       "location": "",
       "eventId": "B74594F5-27F0-4F4E-BBD1-BF2277C7A4E8"
+    },
+    {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-07",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-07",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-07",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-07",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-07",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-07",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-07",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
     },
     {
       "member": "hashimoto",
