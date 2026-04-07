@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06 09:23",
+  "updated": "2026-04-07 09:23",
   "events": [
     {
       "member": "nabe",
@@ -150,6 +150,16 @@
       "allDay": false,
       "location": "",
       "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "スタートライン電話",
+      "date": "2026-04-07",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "21FB2115-0F04-4C6A-B563-B52E3419E49A"
     },
     {
       "member": "imai",
