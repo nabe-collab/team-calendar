@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07 09:23",
+  "updated": "2026-04-08 09:23",
   "events": [
     {
       "member": "nabe",
@@ -153,16 +153,6 @@
     },
     {
       "member": "imai",
-      "title": "スタートライン電話",
-      "date": "2026-04-07",
-      "startTime": "11:00",
-      "endTime": "11:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "21FB2115-0F04-4C6A-B563-B52E3419E49A"
-    },
-    {
-      "member": "imai",
       "title": " 定例打ち合わせ",
       "date": "2026-04-07",
       "startTime": "11:30",
@@ -222,6 +212,46 @@
       "eventId": "1c3th9slbt18l2oqssko0ecpev@google.com"
     },
     {
+      "member": "imai",
+      "title": "スタートライン電話",
+      "date": "2026-04-08",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "21FB2115-0F04-4C6A-B563-B52E3419E49A"
+    },
+    {
+      "member": "maruyama",
+      "title": "リップティント：デザインお戻し締切",
+      "date": "2026-04-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4fl9q3ipppjg6rmqslojmr1t11@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "LIXIL 事前MTG",
+      "date": "2026-04-09",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "A74DFA38-6A75-40E2-AAE4-126D31EA440E"
+    },
+    {
+      "member": "moriya",
+      "title": "新規予定",
+      "date": "2026-04-09",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "8C1EA8EC-BAD2-44FF-877E-C88F25C4FFE9"
+    },
+    {
       "member": "hashimoto",
       "title": "リップ大越さんテストアップ",
       "date": "2026-04-09",
@@ -230,6 +260,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6s8u9gm0j272394rvdvrah2l9q@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "第32回電撃大賞インデックス：デザイン提出",
+      "date": "2026-04-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3pc3gf5c3k7r5n12m3ifg4cud7@google.com"
     },
     {
       "member": "hashimoto",
@@ -252,6 +292,16 @@
       "eventId": "366qkjm0calc9tbesnq5tm71uu@google.com"
     },
     {
+      "member": "moriya",
+      "title": "TBD [Client] LIXIL - 2026/04/13 (月) 13:00 ～ 14:00 (JST)",
+      "date": "2026-04-13",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "9479CED6-B06B-41A4-9F60-135C6857E795"
+    },
+    {
       "member": "maruyama",
       "title": "コミックキュリア：初稿デザイン提出",
       "date": "2026-04-13",
@@ -262,6 +312,46 @@
       "eventId": "2hbjvv7qc6jii4cgv6opc54g0f@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "見本誌くる",
+      "date": "2026-04-13",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "4l2v4rmn0d9b9sjn742soo29fd@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 【稲嶺】代休",
+      "date": "2026-04-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0krs5mcd2cg073gtt8d43k98p8@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG本誌テスト",
+      "date": "2026-04-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4ou8l3bimubneth3gscihq159p@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "第32回電撃大賞銀賞：デザイン提出",
+      "date": "2026-04-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6i6tfdd1t8fstrlsj38p4k1220@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】有休17/18（前期繰越3日＋15日）",
       "date": "2026-04-20",
@@ -270,6 +360,26 @@
       "allDay": true,
       "location": "",
       "eventId": "0ervf116mb4kt72nq1e0rt0a90@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG10-11合併号発売",
+      "date": "2026-04-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5h45e63ft9c5a4535fhkimfhs1@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "コミックステスト",
+      "date": "2026-04-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4thq059g1vtj94l81l519o22qb@google.com"
     },
     {
       "member": "nabe",
@@ -290,6 +400,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4rtagt4eotdopckgn578urj30o@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "集英社コミックス発売",
+      "date": "2026-04-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "73p3fencno1u3of6tdrkfiup6g@google.com"
     },
     {
       "member": "hashimoto",
@@ -322,6 +442,16 @@
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "ココハナ本誌テスト",
+      "date": "2026-04-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4tarlai9gp1r631mheicsupd58@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】法事",
       "date": "2026-04-26",
@@ -332,6 +462,26 @@
       "eventId": "5ll2rgdhkqpjqch1hu5j824oqb@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "ココハナ本誌発売",
+      "date": "2026-04-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "63gav71dehe26m0efdfu2dqnut@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "ココハナ1日更新",
+      "date": "2026-05-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1tl7i6jj09obdp7d7h8rgeoub8@google.com"
+    },
+    {
       "member": "inamine",
       "title": "【稲嶺】有給 1/19",
       "date": "2026-05-07",
@@ -340,6 +490,16 @@
       "allDay": true,
       "location": "",
       "eventId": "413seobo26cu0729j9nm4764hg@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "電撃大賞更新",
+      "date": "2026-05-08",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "6F5EE659-437D-458D-AD31-3BE2816CFB10"
     },
     {
       "member": "inamine",
@@ -370,6 +530,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-05-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
       "member": "imai",
@@ -423,6 +593,16 @@
     },
     {
       "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-06-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "imai",
       "title": "仮）今井休み",
       "date": "2026-07-01",
       "startTime": "終日",
@@ -442,6 +622,16 @@
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-07-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】プルメデザイン保守対応費毎月請求",
       "date": "2026-08-28",
@@ -450,6 +640,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-08-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
       "member": "nabe",
@@ -472,6 +672,16 @@
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-09-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】プルメデザイン保守対応費毎月請求",
       "date": "2026-10-30",
@@ -480,6 +690,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-10-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
       "member": "nabe",
@@ -492,6 +712,16 @@
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-11-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】プルメデザイン保守対応費毎月請求",
       "date": "2026-12-25",
@@ -500,6 +730,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2026-12-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
       "member": "nabe",
@@ -512,6 +752,16 @@
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2027-01-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】プルメデザイン保守対応費毎月請求",
       "date": "2027-02-26",
@@ -520,6 +770,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2027-02-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
       "member": "nabe",
@@ -532,6 +792,16 @@
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2027-03-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】プルメデザイン保守対応費毎月請求",
       "date": "2027-04-30",
@@ -540,6 +810,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2027-04-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     }
   ]
 }
