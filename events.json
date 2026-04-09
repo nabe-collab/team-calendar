@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08 09:23",
+  "updated": "2026-04-09 09:23",
   "events": [
     {
       "member": "nabe",
@@ -332,6 +332,16 @@
       "eventId": "0krs5mcd2cg073gtt8d43k98p8@google.com"
     },
     {
+      "member": "imai",
+      "title": "会社食事会",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "C12B61C3-6DE0-4E3C-A654-F887FF2DB5F7"
+    },
+    {
       "member": "hashimoto",
       "title": "MG本誌テスト",
       "date": "2026-04-16",
@@ -340,6 +350,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4ou8l3bimubneth3gscihq159p@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "角川漫画新人大賞：4/24更新版テストアップ",
+      "date": "2026-04-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3h4jh67nlo6s1c90leg3vvro4o@google.com"
     },
     {
       "member": "maruyama",
@@ -500,6 +520,16 @@
       "allDay": false,
       "location": "",
       "eventId": "6F5EE659-437D-458D-AD31-3BE2816CFB10"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【公開】電撃砂上メイド初回",
+      "date": "2026-05-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4je4uv9vfekdssqoes2si55583@google.com"
     },
     {
       "member": "inamine",
