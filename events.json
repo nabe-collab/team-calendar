@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10 09:23",
+  "updated": "2026-04-11 09:23",
   "events": [
     {
       "member": "nabe",
@@ -262,6 +262,16 @@
       "eventId": "6s8u9gm0j272394rvdvrah2l9q@google.com"
     },
     {
+      "member": "moriya",
+      "title": "【森屋】半給 (1.5/28)",
+      "date": "2026-04-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "A475D1FE-5967-47A5-9028-53528542FCA3"
+    },
+    {
       "member": "maruyama",
       "title": "第32回電撃大賞インデックス：デザイン提出",
       "date": "2026-04-10",
@@ -273,7 +283,7 @@
     },
     {
       "member": "hashimoto",
-      "title": "狼サイト更新",
+      "title": "狼サイト更新済",
       "date": "2026-04-10",
       "startTime": "終日",
       "endTime": "終日",
@@ -292,6 +302,26 @@
       "eventId": "366qkjm0calc9tbesnq5tm71uu@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
+    },
+    {
       "member": "moriya",
       "title": "TBD [Client] LIXIL - 2026/04/13 (月) 13:00 ～ 14:00 (JST)",
       "date": "2026-04-13",
@@ -300,6 +330,26 @@
       "allDay": false,
       "location": "",
       "eventId": "9479CED6-B06B-41A4-9F60-135C6857E795"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
     },
     {
       "member": "maruyama",
@@ -312,6 +362,16 @@
       "eventId": "2hbjvv7qc6jii4cgv6opc54g0f@google.com"
     },
     {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "見本誌くる",
       "date": "2026-04-13",
@@ -320,6 +380,26 @@
       "allDay": false,
       "location": "",
       "eventId": "4l2v4rmn0d9b9sjn742soo29fd@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
     },
     {
       "member": "inamine",
@@ -332,13 +412,23 @@
       "eventId": "0krs5mcd2cg073gtt8d43k98p8@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】会社食事会_焼肉バズーカF 東中野駅前店",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7tr0au69oeou8sthqd3sb9qtif@google.com"
+    },
+    {
       "member": "imai",
       "title": "会社食事会",
       "date": "2026-04-15",
       "startTime": "19:00",
       "endTime": "21:00",
       "allDay": false,
-      "location": "",
+      "location": "焼肉バズーカF 東中野駅前店",
       "eventId": "C12B61C3-6DE0-4E3C-A654-F887FF2DB5F7"
     },
     {
@@ -520,6 +610,16 @@
       "allDay": false,
       "location": "",
       "eventId": "6F5EE659-437D-458D-AD31-3BE2816CFB10"
+    },
+    {
+      "member": "hashimoto",
+      "title": "狼本番",
+      "date": "2026-05-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7q4b5jd257p87g264ktrhdnj27@google.com"
     },
     {
       "member": "hashimoto",
