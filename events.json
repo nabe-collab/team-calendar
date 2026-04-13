@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12 09:23",
+  "updated": "2026-04-13 09:23",
   "events": [
     {
       "member": "nabe",
@@ -320,6 +320,16 @@
       "allDay": false,
       "location": "",
       "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "イラストのアレンジ＆レイアウトを考慮した背景画像の生成に役立つ新機能！| Firefly Camp",
+      "date": "2026-04-13",
+      "startTime": "20:00",
+      "endTime": "21:00",
+      "allDay": false,
+      "location": "オンライン (Firefly Camp)",
+      "eventId": "8F58D5C520654F9E84FA21C762AB559CD2F2E79F_0"
     },
     {
       "member": "moriya",
