@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13 09:23",
+  "updated": "2026-04-14 09:23",
   "events": [
     {
       "member": "nabe",
@@ -383,16 +383,6 @@
     },
     {
       "member": "hashimoto",
-      "title": "見本誌くる",
-      "date": "2026-04-13",
-      "startTime": "10:00",
-      "endTime": "10:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "4l2v4rmn0d9b9sjn742soo29fd@google.com"
-    },
-    {
-      "member": "hashimoto",
       "title": " 定例打ち合わせ",
       "date": "2026-04-13",
       "startTime": "16:00",
@@ -410,6 +400,16 @@
       "allDay": false,
       "location": "",
       "eventId": "037584rj3ublueqnocq8js2j8t@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "見本誌くる",
+      "date": "2026-04-14",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "4l2v4rmn0d9b9sjn742soo29fd@google.com"
     },
     {
       "member": "inamine",
@@ -442,6 +442,46 @@
       "eventId": "C12B61C3-6DE0-4E3C-A654-F887FF2DB5F7"
     },
     {
+      "member": "maruyama",
+      "title": "会社：全体食事会",
+      "date": "2026-04-15",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "11gamakp4ligke0sr0b74olc0n@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】東中野19時",
+      "date": "2026-04-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "43k2js3fs61hrvb426obot7q77@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "ホロックスサイトのカウントダウンライブ当日演出MTG",
+      "date": "2026-04-16",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3p6c7eti8s003v78m7gmss1kvc@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "ホロックスサイトのカウントダウンライブ当日演出MTG",
+      "date": "2026-04-16",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3p6c7eti8s003v78m7gmss1kvc@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "MG本誌テスト",
       "date": "2026-04-16",
@@ -450,6 +490,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4ou8l3bimubneth3gscihq159p@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "ホロックスサイトのカウントダウンライブ当日演出MTG",
+      "date": "2026-04-16",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3p6c7eti8s003v78m7gmss1kvc@google.com"
     },
     {
       "member": "maruyama",
@@ -500,6 +550,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4thq059g1vtj94l81l519o22qb@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "＜よう実＞有償特典更新",
+      "date": "2026-04-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7ll0thsnum9lar1p1a1slc11vp@google.com"
     },
     {
       "member": "nabe",
@@ -592,6 +652,26 @@
       "eventId": "63gav71dehe26m0efdfu2dqnut@google.com"
     },
     {
+      "member": "nabe",
+      "title": "小鳥遊キアラ, 一伊那尓栖ライブ視聴最終日",
+      "date": "2026-04-29",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "6akl0h7em42bl6q714asfjs3ei@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "holoX ライブ当日",
+      "date": "2026-04-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "10jrslo715u9nl3mv486c4gml7@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "ココハナ1日更新",
       "date": "2026-05-01",
@@ -660,6 +740,26 @@
       "allDay": true,
       "location": "",
       "eventId": "51b6g2dblprp78af0na6s8b7oq@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "＜よう実＞店舗特典更新（5月中旬）",
+      "date": "2026-05-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1pvuo47kopsp7lsn075ftrvdhr@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "＜よう実＞４巻発売日更新",
+      "date": "2026-05-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4tu102godipfk9fkqo4k15knok@google.com"
     },
     {
       "member": "nabe",
