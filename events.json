@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14 09:23",
+  "updated": "2026-04-15 09:23",
   "events": [
     {
       "member": "nabe",
@@ -403,6 +403,16 @@
     },
     {
       "member": "hashimoto",
+      "title": "【橋本】出社",
+      "date": "2026-04-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6sdgpp3k3av7rpn81bebpqcgj5@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "見本誌くる",
       "date": "2026-04-14",
       "startTime": "10:00",
@@ -502,6 +512,16 @@
       "eventId": "3p6c7eti8s003v78m7gmss1kvc@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】プルメデザインサイト保守作業引継ぎMTG",
+      "date": "2026-04-17",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "https://meet.google.com/eqz-wgfn-otv",
+      "eventId": "249p3md8e58dihaieg8bj8p519@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "角川漫画新人大賞：4/24更新版テストアップ",
       "date": "2026-04-17",
@@ -540,6 +560,26 @@
       "allDay": true,
       "location": "",
       "eventId": "5h45e63ft9c5a4535fhkimfhs1@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "スタートライン連絡",
+      "date": "2026-04-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "F34B2237-50E9-4A12-B205-2304D4653B2B"
+    },
+    {
+      "member": "maruyama",
+      "title": "LUNA文庫：4/24（金）納品作品 初稿",
+      "date": "2026-04-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "469bhu601f02t5b49qceh9le2e@google.com"
     },
     {
       "member": "hashimoto",
