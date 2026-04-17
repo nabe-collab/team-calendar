@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16 09:24",
+  "updated": "2026-04-17 09:23",
   "events": [
     {
       "member": "nabe",
@@ -482,6 +482,16 @@
       "eventId": "3p6c7eti8s003v78m7gmss1kvc@google.com"
     },
     {
+      "member": "nabe",
+      "title": "COVER_ホロックスサイト武器紹介追加版本番公開",
+      "date": "2026-04-16",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "29tejvobu8plf3rbo69gdem13s@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "ホロックスサイトのカウントダウンライブ当日演出MTG",
       "date": "2026-04-16",
@@ -520,6 +530,16 @@
       "allDay": false,
       "location": "https://meet.google.com/eqz-wgfn-otv",
       "eventId": "249p3md8e58dihaieg8bj8p519@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "Holox4thLIVE：カウントダウン当日絵コンテ",
+      "date": "2026-04-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0ln59hka1p9cd963emj4ajs656@google.com"
     },
     {
       "member": "maruyama",
@@ -680,6 +700,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5ll2rgdhkqpjqch1hu5j824oqb@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】ウェルエット",
+      "date": "2026-04-27",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "オンライン",
+      "eventId": "4CAF5745-E29F-40EE-83B9-719E10F7B945"
     },
     {
       "member": "hashimoto",
