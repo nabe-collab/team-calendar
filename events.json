@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 09:23",
+  "updated": "2026-04-18 09:23",
   "events": [
     {
       "member": "nabe",
@@ -523,6 +523,16 @@
     },
     {
       "member": "nabe",
+      "title": "テストテスト",
+      "date": "2026-04-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5vn3iofim2k294eofik7pqonad@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "【ON渡邉】プルメデザインサイト保守作業引継ぎMTG",
       "date": "2026-04-17",
       "startTime": "14:00",
@@ -582,6 +592,16 @@
       "eventId": "5h45e63ft9c5a4535fhkimfhs1@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-21",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6klgb170dhjaaqbr96054c2i76@google.com"
+    },
+    {
       "member": "imai",
       "title": "スタートライン連絡",
       "date": "2026-04-21",
@@ -590,6 +610,36 @@
       "allDay": true,
       "location": "",
       "eventId": "F34B2237-50E9-4A12-B205-2304D4653B2B"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-21",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6klgb170dhjaaqbr96054c2i76@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-21",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6klgb170dhjaaqbr96054c2i76@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-21",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6klgb170dhjaaqbr96054c2i76@google.com"
     },
     {
       "member": "maruyama",
@@ -602,6 +652,16 @@
       "eventId": "469bhu601f02t5b49qceh9le2e@google.com"
     },
     {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-21",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6klgb170dhjaaqbr96054c2i76@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "コミックステスト",
       "date": "2026-04-21",
@@ -610,6 +670,26 @@
       "allDay": true,
       "location": "",
       "eventId": "4thq059g1vtj94l81l519o22qb@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-21",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6klgb170dhjaaqbr96054c2i76@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-21",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6klgb170dhjaaqbr96054c2i76@google.com"
     },
     {
       "member": "hashimoto",
@@ -710,6 +790,16 @@
       "allDay": false,
       "location": "オンライン",
       "eventId": "4CAF5745-E29F-40EE-83B9-719E10F7B945"
+    },
+    {
+      "member": "hashimoto",
+      "title": "電撃テストアップ",
+      "date": "2026-04-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0n9g534tmbhdefj9a9mdoueof4@google.com"
     },
     {
       "member": "hashimoto",
