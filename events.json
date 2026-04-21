@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20 09:23",
+  "updated": "2026-04-21 09:24",
   "events": [
     {
       "member": "nabe",
@@ -643,6 +643,16 @@
     },
     {
       "member": "maruyama",
+      "title": "第32回電撃大賞インデックス：修正デザイン提出",
+      "date": "2026-04-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7qs2u6g81o6jacc6nkjethp3fo@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "LUNA文庫：4/24（金）納品作品 初稿",
       "date": "2026-04-21",
       "startTime": "終日",
@@ -723,6 +733,16 @@
     },
     {
       "member": "hashimoto",
+      "title": "MGリップ公開（昼12時）",
+      "date": "2026-04-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6i6feiq571687gffbj0me6b7b0@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "集英社コミックス発売",
       "date": "2026-04-23",
       "startTime": "終日",
@@ -730,16 +750,6 @@
       "allDay": true,
       "location": "",
       "eventId": "73p3fencno1u3of6tdrkfiup6g@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "MGリップ公開",
-      "date": "2026-04-23",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6i6feiq571687gffbj0me6b7b0@google.com"
     },
     {
       "member": "nabe",
@@ -760,6 +770,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "角川漫画新人大賞：更新",
+      "date": "2026-04-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4j50ij7h82hedlhu6nlueoshgu@google.com"
     },
     {
       "member": "hashimoto",
@@ -790,6 +810,26 @@
       "allDay": false,
       "location": "オンライン",
       "eventId": "4CAF5745-E29F-40EE-83B9-719E10F7B945"
+    },
+    {
+      "member": "maruyama",
+      "title": "電撃大賞32回特設：初回テストアップ",
+      "date": "2026-04-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7ceemrhcv4tl95ovl3e4jk1d6u@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】有休 1/20.5",
+      "date": "2026-04-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3fhhmqq41ji1apo72hhuuluu94@google.com"
     },
     {
       "member": "hashimoto",
