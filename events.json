@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21 09:24",
+  "updated": "2026-04-22 09:23",
   "events": [
     {
       "member": "nabe",
@@ -703,7 +703,7 @@
     },
     {
       "member": "hashimoto",
-      "title": "＜よう実＞有償特典更新",
+      "title": "＜よう実＞有償特典更新16時",
       "date": "2026-04-22",
       "startTime": "終日",
       "endTime": "終日",
@@ -713,7 +713,7 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】有休16.5/18（前期繰越3日＋15日）",
+      "title": "【渡邉】午後半休16.5/18（前期繰越3日＋15日）",
       "date": "2026-04-23",
       "startTime": "終日",
       "endTime": "終日",
@@ -810,6 +810,16 @@
       "allDay": false,
       "location": "オンライン",
       "eventId": "4CAF5745-E29F-40EE-83B9-719E10F7B945"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】スタートライン打ち合わせ",
+      "date": "2026-04-27",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "大崎",
+      "eventId": "89520753-7432-4BD2-8CB9-F7FAC6F732C1"
     },
     {
       "member": "maruyama",
