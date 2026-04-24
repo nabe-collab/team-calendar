@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 09:23",
+  "updated": "2026-04-24 09:24",
   "events": [
     {
       "member": "nabe",
@@ -753,16 +753,6 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】COVER_CCMCサイト4月改修版公開",
-      "date": "2026-04-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "kd65ip5ujmajd41tq3nuift2gg@google.com"
-    },
-    {
-      "member": "nabe",
       "title": "【渡邉】プルメデザイン保守対応費毎月請求",
       "date": "2026-04-24",
       "startTime": "終日",
@@ -770,6 +760,26 @@
       "allDay": true,
       "location": "",
       "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "集クリ・オフィスユー更新作業",
+      "date": "2026-04-24",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3BCF49A6-55B4-4011-88BC-273D54D386A9"
+    },
+    {
+      "member": "maruyama",
+      "title": "みらい文庫：「戦国オンライン」デザイン作る",
+      "date": "2026-04-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4qurdcomc3etbs6ic9dvs70mu5@google.com"
     },
     {
       "member": "maruyama",
@@ -800,6 +810,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5ll2rgdhkqpjqch1hu5j824oqb@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_CCMCサイト4月改修版公開",
+      "date": "2026-04-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "kd65ip5ujmajd41tq3nuift2gg@google.com"
     },
     {
       "member": "imai",
@@ -880,6 +900,26 @@
       "allDay": true,
       "location": "",
       "eventId": "10jrslo715u9nl3mv486c4gml7@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "【森屋】有給 (2.5/28)",
+      "date": "2026-04-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "77C4B073-96D4-40B9-A4DD-C7C1EBA186C4"
+    },
+    {
+      "member": "moriya",
+      "title": "【森屋】有給 (3.5/28)",
+      "date": "2026-05-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4335783D-CDCF-4A2F-8BBF-3E1663D1AD44"
     },
     {
       "member": "hashimoto",
