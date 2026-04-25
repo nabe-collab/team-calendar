@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24 09:24",
+  "updated": "2026-04-25 09:23",
   "events": [
     {
       "member": "nabe",
@@ -812,16 +812,6 @@
       "eventId": "5ll2rgdhkqpjqch1hu5j824oqb@google.com"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】COVER_CCMCサイト4月改修版公開",
-      "date": "2026-04-27",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "kd65ip5ujmajd41tq3nuift2gg@google.com"
-    },
-    {
       "member": "imai",
       "title": "【今井】ウェルエット",
       "date": "2026-04-27",
@@ -872,6 +862,76 @@
       "eventId": "0n9g534tmbhdefj9a9mdoueof4@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】COVER_CCMCサイト4月改修版公開",
+      "date": "2026-04-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "kd65ip5ujmajd41tq3nuift2gg@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-28",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rppd7j96628l7l4h9kgm6ena7@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-28",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rppd7j96628l7l4h9kgm6ena7@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-28",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rppd7j96628l7l4h9kgm6ena7@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-28",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rppd7j96628l7l4h9kgm6ena7@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「お姉ちゃんの翠くん」LP報告書作成",
+      "date": "2026-04-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4smbah9clhm93hupjbuvn5c3uq@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-28",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rppd7j96628l7l4h9kgm6ena7@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "ココハナ本誌発売",
       "date": "2026-04-28",
@@ -880,6 +940,26 @@
       "allDay": true,
       "location": "",
       "eventId": "63gav71dehe26m0efdfu2dqnut@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-28",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rppd7j96628l7l4h9kgm6ena7@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-04-28",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rppd7j96628l7l4h9kgm6ena7@google.com"
     },
     {
       "member": "nabe",
@@ -1100,6 +1180,16 @@
       "allDay": true,
       "location": "",
       "eventId": "48521288-8F5C-49D3-842C-2B09BF5449CF"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】有休",
+      "date": "2026-07-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
     },
     {
       "member": "nabe",
