@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27 09:23",
+  "updated": "2026-04-28 09:23",
   "events": [
     {
       "member": "nabe",
@@ -863,16 +863,6 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】COVER_CCMCサイト4月改修版公開",
-      "date": "2026-04-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "kd65ip5ujmajd41tq3nuift2gg@google.com"
-    },
-    {
-      "member": "nabe",
       "title": " 定例打ち合わせ",
       "date": "2026-04-28",
       "startTime": "11:30",
@@ -982,6 +972,16 @@
       "eventId": "10jrslo715u9nl3mv486c4gml7@google.com"
     },
     {
+      "member": "imai",
+      "title": "【今井】午前休：長津田病院",
+      "date": "2026-04-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "9445F3BD-49DF-4B51-A56E-1F83069563C1"
+    },
+    {
       "member": "moriya",
       "title": "【森屋】有給 (2.5/28)",
       "date": "2026-04-30",
@@ -990,6 +990,26 @@
       "allDay": true,
       "location": "",
       "eventId": "77C4B073-96D4-40B9-A4DD-C7C1EBA186C4"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_CCMCサイト4月改修版公開",
+      "date": "2026-05-01",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "kd65ip5ujmajd41tq3nuift2gg@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER _CCMC4月更新版公開",
+      "date": "2026-05-01",
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "4djdgitles1p54u2suu4od0df0@google.com"
     },
     {
       "member": "moriya",
@@ -1020,6 +1040,16 @@
       "allDay": true,
       "location": "",
       "eventId": "413seobo26cu0729j9nm4764hg@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "TOYOTAテスト",
+      "date": "2026-05-08",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "D83EAEB4-0749-4D22-A886-CFF463D6D895"
     },
     {
       "member": "moriya",
@@ -1133,7 +1163,7 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】 【渡邉】有休16/18（前期繰越3日＋15日）",
+      "title": "【渡邉】 【渡邉】有休15/18（前期繰越3日＋15日）",
       "date": "2026-06-04",
       "startTime": "終日",
       "endTime": "終日",
