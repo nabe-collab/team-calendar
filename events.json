@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28 09:23",
+  "updated": "2026-04-29 09:23",
   "events": [
     {
       "member": "nabe",
@@ -133,7 +133,7 @@
     },
     {
       "member": "kondo",
-      "title": "【近藤】有休（1/18.5）",
+      "title": "【近藤】有休（1/18）",
       "date": "2026-04-06",
       "startTime": "終日",
       "endTime": "終日",
@@ -1043,6 +1043,16 @@
     },
     {
       "member": "moriya",
+      "title": "グランドパレス相模原",
+      "date": "2026-05-08",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7CDFC131-F4EE-4D7A-ADA8-E2DFEBF4954B"
+    },
+    {
+      "member": "moriya",
       "title": "TOYOTAテスト",
       "date": "2026-05-08",
       "startTime": "09:00",
@@ -1100,6 +1110,16 @@
       "allDay": true,
       "location": "",
       "eventId": "51b6g2dblprp78af0na6s8b7oq@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "コンテンツクリエーションにおけるAI活用の最前線",
+      "date": "2026-05-14",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "78C419E9-23C3-426D-A24B-861F76C50A03"
     },
     {
       "member": "hashimoto",
