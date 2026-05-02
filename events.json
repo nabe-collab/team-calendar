@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01 09:23",
+  "updated": "2026-05-02 09:23",
   "events": [
     {
       "member": "nabe",
@@ -100,6 +100,16 @@
       "allDay": false,
       "location": "",
       "eventId": "6F5EE659-437D-458D-AD31-3BE2816CFB10"
+    },
+    {
+      "member": "maruyama",
+      "title": "【12:00】電撃大賞32回：公開",
+      "date": "2026-05-08",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "6mu8o2oaf89l16bqon1t6sqj0b@google.com"
     },
     {
       "member": "hashimoto",
