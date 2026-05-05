@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04 09:23",
+  "updated": "2026-05-05 09:23",
   "events": [
     {
       "member": "nabe",
@@ -242,6 +242,26 @@
       "eventId": "i4qglvdt8jdk23vhpln0vlg33c@google.com"
     },
     {
+      "member": "kondo",
+      "title": "【近藤】有休（3/18.5）",
+      "date": "2026-06-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "9682B413-5E02-4128-AE04-36C4D0ECC389"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】有休 （4/18.5）",
+      "date": "2026-06-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "FAA30EAC-8C94-4F27-8959-B1F419DD0DFD"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】プルメデザイン保守対応費毎月請求",
       "date": "2026-06-26",
@@ -263,7 +283,7 @@
     },
     {
       "member": "kondo",
-      "title": "【近藤】前半休（2.5/18.5）",
+      "title": "【近藤】前半休（4.5/18.5）",
       "date": "2026-06-29",
       "startTime": "終日",
       "endTime": "終日",
