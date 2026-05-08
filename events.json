@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07 09:23",
+  "updated": "2026-05-08 09:23",
   "events": [
     {
       "member": "nabe",
@@ -73,16 +73,6 @@
     },
     {
       "member": "moriya",
-      "title": "グランドパレス相模原",
-      "date": "2026-05-08",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "7CDFC131-F4EE-4D7A-ADA8-E2DFEBF4954B"
-    },
-    {
-      "member": "moriya",
       "title": "TOYOTAテスト",
       "date": "2026-05-08",
       "startTime": "09:00",
@@ -93,10 +83,20 @@
     },
     {
       "member": "moriya",
-      "title": "電撃大賞更新",
+      "title": "グランドパレス相模原",
       "date": "2026-05-08",
       "startTime": "09:00",
       "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7CDFC131-F4EE-4D7A-ADA8-E2DFEBF4954B"
+    },
+    {
+      "member": "moriya",
+      "title": "電撃大賞更新",
+      "date": "2026-05-08",
+      "startTime": "12:00",
+      "endTime": "13:00",
       "allDay": false,
       "location": "",
       "eventId": "6F5EE659-437D-458D-AD31-3BE2816CFB10"
@@ -110,6 +110,16 @@
       "allDay": false,
       "location": "",
       "eventId": "6mu8o2oaf89l16bqon1t6sqj0b@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】午後半休15（0.5／40)",
+      "date": "2026-05-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1fs5v8p6ac4mfs9r2069liue24@google.com"
     },
     {
       "member": "hashimoto",
@@ -153,6 +163,16 @@
     },
     {
       "member": "imai",
+      "title": "今井】午前休み:長津田病院",
+      "date": "2026-05-13",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "51488162-FFEE-45FD-A894-3EC86F2CC399"
+    },
+    {
+      "member": "imai",
       "title": "コンテンツクリエーションにおけるAI活用の最前線",
       "date": "2026-05-14",
       "startTime": "12:00",
@@ -160,6 +180,16 @@
       "allDay": false,
       "location": "",
       "eventId": "78C419E9-23C3-426D-A24B-861F76C50A03"
+    },
+    {
+      "member": "hashimoto",
+      "title": "＜よう実＞店舗特典更新（5月中旬）",
+      "date": "2026-05-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1pvuo47kopsp7lsn075ftrvdhr@google.com"
     },
     {
       "member": "imai",
@@ -173,13 +203,53 @@
     },
     {
       "member": "hashimoto",
-      "title": "＜よう実＞店舗特典更新（5月中旬）",
-      "date": "2026-05-15",
+      "title": "MG12テスト",
+      "date": "2026-05-18",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "1pvuo47kopsp7lsn075ftrvdhr@google.com"
+      "eventId": "275k7ib1fl4lebbok418n9qcj5@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG12発売",
+      "date": "2026-05-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2101qpi4uvgh8nmnf44shhnnkk@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "長津田病院結果9:30",
+      "date": "2026-05-21",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5FC1B394-01F3-407C-80DB-5F33702147F2"
+    },
+    {
+      "member": "hashimoto",
+      "title": "コミックステスト",
+      "date": "2026-05-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5to739kh0fhje8i7k25tq3tepv@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "集英社コミックス発売",
+      "date": "2026-05-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "56npv3somghokj8raocqooap2t@google.com"
     },
     {
       "member": "hashimoto",
