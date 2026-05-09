@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08 09:23",
+  "updated": "2026-05-09 09:23",
   "events": [
     {
       "member": "nabe",
@@ -160,6 +160,76 @@
       "allDay": true,
       "location": "",
       "eventId": "51b6g2dblprp78af0na6s8b7oq@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-05-12",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "542km7b6s5gogde36ce1nm9ppb@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-05-12",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "542km7b6s5gogde36ce1nm9ppb@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-05-12",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "542km7b6s5gogde36ce1nm9ppb@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-05-12",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "542km7b6s5gogde36ce1nm9ppb@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-05-12",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "542km7b6s5gogde36ce1nm9ppb@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-05-12",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "542km7b6s5gogde36ce1nm9ppb@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-05-12",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "542km7b6s5gogde36ce1nm9ppb@google.com"
     },
     {
       "member": "imai",
