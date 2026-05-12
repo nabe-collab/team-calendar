@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11 09:23",
+  "updated": "2026-05-12 09:23",
   "events": [
     {
       "member": "nabe",
@@ -152,6 +152,36 @@
       "eventId": "7anagm3b4n9otvkd0adj0mcdbc@google.com"
     },
     {
+      "member": "moriya",
+      "title": "住友商事MTG",
+      "date": "2026-05-11",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "5C8EAE24-411B-44F3-8BBC-B89F4DAFB402"
+    },
+    {
+      "member": "maruyama",
+      "title": "『作りたい女食べたい女』特設サイト見積もり作成",
+      "date": "2026-05-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5k67h33ss1kv93o1ss7mih6ltd@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "MC『Re:blue』投票施策LP見積もり作成",
+      "date": "2026-05-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6l10qr92q9d1t6il7io1bhmgjn@google.com"
+    },
+    {
       "member": "inamine",
       "title": "【稲嶺】有給 3/19",
       "date": "2026-05-11",
@@ -252,6 +282,16 @@
       "eventId": "78C419E9-23C3-426D-A24B-861F76C50A03"
     },
     {
+      "member": "maruyama",
+      "title": "天海社『あなたの隣で、春を待つ』表紙デザイン、横組ロゴ初稿",
+      "date": "2026-05-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5efjrehkfbgufrv6k62paif58a@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "＜よう実＞店舗特典更新（5月中旬）",
       "date": "2026-05-14",
@@ -332,16 +372,6 @@
       "eventId": "4tu102godipfk9fkqo4k15knok@google.com"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-05-29",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-05-29",
@@ -402,16 +432,6 @@
       "eventId": "FAA30EAC-8C94-4F27-8959-B1F419DD0DFD"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-06-26",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "hashimoto",
       "title": "ココハナ本誌発売",
       "date": "2026-06-26",
@@ -462,16 +482,6 @@
       "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-07-31",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-07-31",
@@ -480,16 +490,6 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
-    },
-    {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-08-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
       "member": "imai",
@@ -512,16 +512,6 @@
       "eventId": "sce6onbk6mn1r9r53lkh1epbvk@google.com"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-09-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-09-30",
@@ -532,16 +522,6 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-10-30",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-10-30",
@@ -550,16 +530,6 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
-    },
-    {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-11-27",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
       "member": "imai",
@@ -572,16 +542,6 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2026-12-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-12-30",
@@ -592,16 +552,6 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2027-01-29",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2027-01-29",
@@ -612,16 +562,6 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2027-02-26",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2027-02-26",
@@ -630,16 +570,6 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
-    },
-    {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2027-03-26",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     },
     {
       "member": "imai",
@@ -652,16 +582,6 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2027-04-30",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
-    },
-    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2027-04-30",
@@ -670,16 +590,6 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
-    },
-    {
-      "member": "nabe",
-      "title": "【渡邉】プルメデザイン保守対応費毎月請求",
-      "date": "2027-05-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7d504h80hvko6ajp9647bsvb4i@google.com"
     }
   ]
 }
