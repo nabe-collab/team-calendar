@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12 09:23",
+  "updated": "2026-05-13 09:23",
   "events": [
     {
       "member": "nabe",
@@ -272,6 +272,16 @@
       "eventId": "51488162-FFEE-45FD-A894-3EC86F2CC399"
     },
     {
+      "member": "hashimoto",
+      "title": " 【橋本】出社",
+      "date": "2026-05-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1i3qbcahs9q5f0j7jiv9svdoah@google.com"
+    },
+    {
       "member": "imai",
       "title": "コンテンツクリエーションにおけるAI活用の最前線",
       "date": "2026-05-14",
@@ -293,7 +303,7 @@
     },
     {
       "member": "hashimoto",
-      "title": "＜よう実＞店舗特典更新（5月中旬）",
+      "title": "16時＜よう実＞店舗特典更新",
       "date": "2026-05-14",
       "startTime": "終日",
       "endTime": "終日",
@@ -350,6 +360,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5to739kh0fhje8i7k25tq3tepv@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "秋の学園祭：ﾃｨｻﾞｰ初回公開",
+      "date": "2026-05-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "714du67hevodj9qk6l6l12007l@google.com"
     },
     {
       "member": "hashimoto",
@@ -430,6 +450,16 @@
       "allDay": true,
       "location": "",
       "eventId": "FAA30EAC-8C94-4F27-8959-B1F419DD0DFD"
+    },
+    {
+      "member": "hashimoto",
+      "title": "秋の学園祭【初回公開】",
+      "date": "2026-06-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4rqb6dpkl5amj7dd8m821ogilq@google.com"
     },
     {
       "member": "hashimoto",
