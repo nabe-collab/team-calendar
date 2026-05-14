@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13 09:23",
+  "updated": "2026-05-14 09:23",
   "events": [
     {
       "member": "nabe",
@@ -272,16 +272,6 @@
       "eventId": "51488162-FFEE-45FD-A894-3EC86F2CC399"
     },
     {
-      "member": "hashimoto",
-      "title": " 【橋本】出社",
-      "date": "2026-05-13",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1i3qbcahs9q5f0j7jiv9svdoah@google.com"
-    },
-    {
       "member": "imai",
       "title": "コンテンツクリエーションにおけるAI活用の最前線",
       "date": "2026-05-14",
@@ -292,6 +282,16 @@
       "eventId": "78C419E9-23C3-426D-A24B-861F76C50A03"
     },
     {
+      "member": "imai",
+      "title": "仮)メクリメクル",
+      "date": "2026-05-14",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "BD0B6D85-DCF2-4B33-8413-F3E1CE81D7BC"
+    },
+    {
       "member": "maruyama",
       "title": "天海社『あなたの隣で、春を待つ』表紙デザイン、横組ロゴ初稿",
       "date": "2026-05-14",
@@ -300,6 +300,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5efjrehkfbgufrv6k62paif58a@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 【橋本】出社",
+      "date": "2026-05-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1i3qbcahs9q5f0j7jiv9svdoah@google.com"
     },
     {
       "member": "hashimoto",
@@ -343,7 +353,7 @@
     },
     {
       "member": "imai",
-      "title": "長津田病院結果9:30",
+      "title": "【今井】長津田病院結果",
       "date": "2026-05-21",
       "startTime": "09:30",
       "endTime": "10:30",
@@ -430,6 +440,26 @@
       "allDay": true,
       "location": "",
       "eventId": "i4qglvdt8jdk23vhpln0vlg33c@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "Illustratorのベクター造形深掘り",
+      "date": "2026-06-04",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "〒141-0032　東京都品川区大崎1-11-2",
+      "eventId": "F956B71D-F191-4309-A2C5-93E48D91EE62"
+    },
+    {
+      "member": "maruyama",
+      "title": "金賞「さよならアイリスウィッチ」公開",
+      "date": "2026-06-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4vrq3bf95d8v1enmjkfqh5fvop@google.com"
     },
     {
       "member": "kondo",
