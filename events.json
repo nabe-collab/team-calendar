@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14 09:23",
+  "updated": "2026-05-15 09:23",
   "events": [
     {
       "member": "nabe",
@@ -162,26 +162,6 @@
       "eventId": "5C8EAE24-411B-44F3-8BBC-B89F4DAFB402"
     },
     {
-      "member": "maruyama",
-      "title": "『作りたい女食べたい女』特設サイト見積もり作成",
-      "date": "2026-05-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5k67h33ss1kv93o1ss7mih6ltd@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "MC『Re:blue』投票施策LP見積もり作成",
-      "date": "2026-05-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6l10qr92q9d1t6il7io1bhmgjn@google.com"
-    },
-    {
       "member": "inamine",
       "title": "【稲嶺】有給 3/19",
       "date": "2026-05-11",
@@ -283,13 +263,23 @@
     },
     {
       "member": "imai",
-      "title": "仮)メクリメクル",
+      "title": "【今井】メクリメクル：CMSパーツ",
       "date": "2026-05-14",
       "startTime": "13:00",
       "endTime": "14:00",
       "allDay": false,
       "location": "",
       "eventId": "BD0B6D85-DCF2-4B33-8413-F3E1CE81D7BC"
+    },
+    {
+      "member": "imai",
+      "title": "今井様",
+      "date": "2026-05-14",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3rr2evmpaorpqm808mks03up39@google.com"
     },
     {
       "member": "maruyama",
@@ -300,6 +290,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5efjrehkfbgufrv6k62paif58a@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "つくたべmeeting",
+      "date": "2026-05-14",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3dkg4v9305geoe71245mbkmif3@google.com"
     },
     {
       "member": "hashimoto",
@@ -322,14 +322,14 @@
       "eventId": "1pvuo47kopsp7lsn075ftrvdhr@google.com"
     },
     {
-      "member": "imai",
-      "title": "付属乳児院：採用情報カテゴリー追加",
+      "member": "maruyama",
+      "title": "【丸山】有休 2/20.5",
       "date": "2026-05-15",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "AFCF81BB-0241-4BD8-B748-3BB00FE557F0"
+      "eventId": "7mqj2q8lf9u0r2qovfdj9kmtr1@google.com"
     },
     {
       "member": "hashimoto",
@@ -362,6 +362,26 @@
       "eventId": "5FC1B394-01F3-407C-80DB-5F33702147F2"
     },
     {
+      "member": "maruyama",
+      "title": "「つくたべ」100万部記念サイト初稿",
+      "date": "2026-05-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "55bquadf0f54m06390gos3omqk@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "金賞「さよならアイリスウィッチ」デザイン初稿",
+      "date": "2026-05-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "19raef8dr5m75eopirm9n9nd5n@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "コミックステスト",
       "date": "2026-05-21",
@@ -373,13 +393,13 @@
     },
     {
       "member": "hashimoto",
-      "title": "秋の学園祭：ﾃｨｻﾞｰ初回公開",
-      "date": "2026-05-25",
+      "title": "【橋本】午前半休15（1／40)",
+      "date": "2026-05-22",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "714du67hevodj9qk6l6l12007l@google.com"
+      "eventId": "69uf9g90oqt2sd8h5eb6smrqca@google.com"
     },
     {
       "member": "hashimoto",
@@ -422,6 +442,16 @@
       "eventId": "B11F0BB8-7C63-48F7-A3AD-346B17A7020A"
     },
     {
+      "member": "maruyama",
+      "title": " 金賞「さよならアイリスウィッチ」テストアップ",
+      "date": "2026-05-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "02brhl56eslfvngupbmu4b8tlv@google.com"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】有休（2/18.5）",
       "date": "2026-06-02",
@@ -430,6 +460,16 @@
       "allDay": true,
       "location": "",
       "eventId": "DCC6E353-A075-4FDB-B436-FA76796C8B08"
+    },
+    {
+      "member": "maruyama",
+      "title": "「つくたべ」100万部記念サイト公開",
+      "date": "2026-06-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6vb50k17pr4jh7rn2b85lunn1b@google.com"
     },
     {
       "member": "nabe",
