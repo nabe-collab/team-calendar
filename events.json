@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15 09:23",
+  "updated": "2026-05-16 09:23",
   "events": [
     {
       "member": "nabe",
@@ -322,6 +322,16 @@
       "eventId": "1pvuo47kopsp7lsn075ftrvdhr@google.com"
     },
     {
+      "member": "inamine",
+      "title": " 【稲嶺】半給 3.5/19",
+      "date": "2026-05-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7t23i1q8npeofnccv8qql7ia1n@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "【丸山】有休 2/20.5",
       "date": "2026-05-15",
@@ -330,6 +340,56 @@
       "allDay": true,
       "location": "",
       "eventId": "7mqj2q8lf9u0r2qovfdj9kmtr1@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "定例打ち合わせ",
+      "date": "2026-05-18",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ilhb72v2sumlgcaj5gprbcbnd@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "定例打ち合わせ",
+      "date": "2026-05-18",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ilhb72v2sumlgcaj5gprbcbnd@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "定例打ち合わせ",
+      "date": "2026-05-18",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ilhb72v2sumlgcaj5gprbcbnd@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": "定例打ち合わせ",
+      "date": "2026-05-18",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ilhb72v2sumlgcaj5gprbcbnd@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "定例打ち合わせ",
+      "date": "2026-05-18",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ilhb72v2sumlgcaj5gprbcbnd@google.com"
     },
     {
       "member": "hashimoto",
@@ -343,6 +403,26 @@
     },
     {
       "member": "hashimoto",
+      "title": "定例打ち合わせ",
+      "date": "2026-05-18",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ilhb72v2sumlgcaj5gprbcbnd@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "定例打ち合わせ",
+      "date": "2026-05-18",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ilhb72v2sumlgcaj5gprbcbnd@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "MG12発売",
       "date": "2026-05-20",
       "startTime": "終日",
@@ -350,6 +430,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2101qpi4uvgh8nmnf44shhnnkk@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "スタートライン連絡",
+      "date": "2026-05-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "D297F643-B08C-4A4C-AA01-5558A817BBB8"
     },
     {
       "member": "imai",
