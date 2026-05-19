@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18 09:23",
+  "updated": "2026-05-19 09:23",
   "events": [
     {
       "member": "nabe",
@@ -482,14 +482,14 @@
       "eventId": "5to739kh0fhje8i7k25tq3tepv@google.com"
     },
     {
-      "member": "hashimoto",
-      "title": "【橋本】午前半休15（1／40)",
+      "member": "moriya",
+      "title": "【森屋】有給 (4.5/28)",
       "date": "2026-05-22",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "69uf9g90oqt2sd8h5eb6smrqca@google.com"
+      "eventId": "940E4F06-36A2-4F57-B2B3-A20B948C689E"
     },
     {
       "member": "hashimoto",
@@ -510,6 +510,36 @@
       "allDay": true,
       "location": "",
       "eventId": "4tu102godipfk9fkqo4k15knok@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "秋の学園祭提出",
+      "date": "2026-05-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "415m6tefsg36hcpkcbgmdlc4pl@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "ココハナ発売日",
+      "date": "2026-05-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0eu25gd9vi6f1kfsk6a688tjfk@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】有休15（1.5／40)",
+      "date": "2026-05-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "69uf9g90oqt2sd8h5eb6smrqca@google.com"
     },
     {
       "member": "imai",
@@ -542,6 +572,26 @@
       "eventId": "02brhl56eslfvngupbmu4b8tlv@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "【橋本】有休15（2.5／40)",
+      "date": "2026-05-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4nm9o3c3ueiiiha5qij49mas7d@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 【橋本】有休15（3.5／40)",
+      "date": "2026-06-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2scbo5gqr6mdqvt1vjjafsr3fb@google.com"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】有休（2/18.5）",
       "date": "2026-06-02",
@@ -552,6 +602,16 @@
       "eventId": "DCC6E353-A075-4FDB-B436-FA76796C8B08"
     },
     {
+      "member": "hashimoto",
+      "title": " 【橋本】午前半休15（4／40)",
+      "date": "2026-06-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "48qchruv1bu2f1mdbbsvtcah3j@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "「つくたべ」100万部記念サイト公開",
       "date": "2026-06-03",
@@ -560,6 +620,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6vb50k17pr4jh7rn2b85lunn1b@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "集英社ｻｰﾊﾞｰﾒﾝﾃﾅﾝｽ18時-21時",
+      "date": "2026-06-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2gdv7k3paksg3e2k0d4pain5lv@google.com"
     },
     {
       "member": "nabe",
@@ -580,6 +650,16 @@
       "allDay": false,
       "location": "〒141-0032　東京都品川区大崎1-11-2",
       "eventId": "F956B71D-F191-4309-A2C5-93E48D91EE62"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG13号発売",
+      "date": "2026-06-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6schlsa5quov94faune8of35m1@google.com"
     },
     {
       "member": "maruyama",
