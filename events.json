@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19 09:23",
+  "updated": "2026-05-20 09:23",
   "events": [
     {
       "member": "nabe",
@@ -432,12 +432,22 @@
       "eventId": "2101qpi4uvgh8nmnf44shhnnkk@google.com"
     },
     {
-      "member": "imai",
-      "title": "スタートライン連絡",
-      "date": "2026-05-21",
+      "member": "inamine",
+      "title": " 【稲嶺】代休",
+      "date": "2026-05-20",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
+      "location": "",
+      "eventId": "6o50d5i1ik2qbu2mcthlho4adg@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "スタートライン:午前中連絡",
+      "date": "2026-05-21",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "allDay": false,
       "location": "",
       "eventId": "D297F643-B08C-4A4C-AA01-5558A817BBB8"
     },
@@ -450,16 +460,6 @@
       "allDay": false,
       "location": "",
       "eventId": "5FC1B394-01F3-407C-80DB-5F33702147F2"
-    },
-    {
-      "member": "maruyama",
-      "title": "「つくたべ」100万部記念サイト初稿",
-      "date": "2026-05-21",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "55bquadf0f54m06390gos3omqk@google.com"
     },
     {
       "member": "maruyama",
@@ -492,6 +492,16 @@
       "eventId": "940E4F06-36A2-4F57-B2B3-A20B948C689E"
     },
     {
+      "member": "maruyama",
+      "title": "「つくたべ」100万部記念サイト初稿",
+      "date": "2026-05-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "55bquadf0f54m06390gos3omqk@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "集英社コミックス発売",
       "date": "2026-05-25",
@@ -520,6 +530,16 @@
       "allDay": true,
       "location": "",
       "eventId": "415m6tefsg36hcpkcbgmdlc4pl@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "天海社LUNA文庫ロゴ：納品予定",
+      "date": "2026-05-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "45r17igr65qb5s2jr17ph6hqoj@google.com"
     },
     {
       "member": "hashimoto",
@@ -560,6 +580,16 @@
       "allDay": true,
       "location": "",
       "eventId": "B11F0BB8-7C63-48F7-A3AD-346B17A7020A"
+    },
+    {
+      "member": "maruyama",
+      "title": " 「つくたべ」100万部記念サイト：初回テストアップ",
+      "date": "2026-05-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "66965rdcm7puskqp2vqd5lj9ud@google.com"
     },
     {
       "member": "maruyama",
@@ -660,6 +690,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6schlsa5quov94faune8of35m1@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【12:00】EN４thライブサイトKV公開",
+      "date": "2026-06-06",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "424u25vtu5r1ehr33ntifkttk2@google.com"
     },
     {
       "member": "maruyama",
