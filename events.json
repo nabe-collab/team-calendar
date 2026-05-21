@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20 09:23",
+  "updated": "2026-05-21 09:23",
   "events": [
     {
       "member": "nabe",
@@ -493,6 +493,16 @@
     },
     {
       "member": "maruyama",
+      "title": " 天海社LUNA文庫ロゴ：初稿出し",
+      "date": "2026-05-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0v7rqath7cl76o5o91508500uh@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "「つくたべ」100万部記念サイト初稿",
       "date": "2026-05-22",
       "startTime": "終日",
@@ -530,6 +540,16 @@
       "allDay": true,
       "location": "",
       "eventId": "415m6tefsg36hcpkcbgmdlc4pl@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "生成AIをすぐ試す業務改善PoC ～エンジニアが語るクラウド活用の最前線～",
+      "date": "2026-05-28",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "〒160-0023 東京都新宿区西新宿7-20-1 住友不動産西新宿ビル32F",
+      "eventId": "7007E876-0AAA-4454-8B0E-071A6B3F4688"
     },
     {
       "member": "maruyama",
@@ -632,6 +652,16 @@
       "eventId": "DCC6E353-A075-4FDB-B436-FA76796C8B08"
     },
     {
+      "member": "maruyama",
+      "title": "「つくたべ」100万部記念サイト公開",
+      "date": "2026-06-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6vb50k17pr4jh7rn2b85lunn1b@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": " 【橋本】午前半休15（4／40)",
       "date": "2026-06-02",
@@ -640,16 +670,6 @@
       "allDay": true,
       "location": "",
       "eventId": "48qchruv1bu2f1mdbbsvtcah3j@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "「つくたべ」100万部記念サイト公開",
-      "date": "2026-06-03",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6vb50k17pr4jh7rn2b85lunn1b@google.com"
     },
     {
       "member": "hashimoto",
