@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21 09:23",
+  "updated": "2026-05-22 09:23",
   "events": [
     {
       "member": "nabe",
@@ -63,7 +63,7 @@
     },
     {
       "member": "inamine",
-      "title": "【稲嶺】有給 1/19",
+      "title": " 【稲嶺】代休",
       "date": "2026-05-07",
       "startTime": "終日",
       "endTime": "終日",
@@ -143,7 +143,7 @@
     },
     {
       "member": "inamine",
-      "title": "【稲嶺】有給 2/19",
+      "title": " 【稲嶺】代休",
       "date": "2026-05-08",
       "startTime": "終日",
       "endTime": "終日",
@@ -163,7 +163,7 @@
     },
     {
       "member": "inamine",
-      "title": "【稲嶺】有給 3/19",
+      "title": "【稲嶺】有給 1/19",
       "date": "2026-05-11",
       "startTime": "終日",
       "endTime": "終日",
@@ -323,7 +323,7 @@
     },
     {
       "member": "inamine",
-      "title": " 【稲嶺】半給 3.5/19",
+      "title": " 【稲嶺】半給 1.5/19",
       "date": "2026-05-14",
       "startTime": "終日",
       "endTime": "終日",
@@ -433,7 +433,7 @@
     },
     {
       "member": "inamine",
-      "title": " 【稲嶺】代休",
+      "title": " 【稲嶺】有給 2.5/19",
       "date": "2026-05-20",
       "startTime": "終日",
       "endTime": "終日",
@@ -483,7 +483,7 @@
     },
     {
       "member": "moriya",
-      "title": "【森屋】有給 (4.5/28)",
+      "title": "【森屋】有給 (1.5/28)　※有休日数訂正",
       "date": "2026-05-22",
       "startTime": "終日",
       "endTime": "終日",
@@ -493,7 +493,17 @@
     },
     {
       "member": "maruyama",
-      "title": " 天海社LUNA文庫ロゴ：初稿出し",
+      "title": "「つくたべ」100万部記念サイト初稿（〜月曜早め）、内部チェック",
+      "date": "2026-05-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "55bquadf0f54m06390gos3omqk@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 天海社LUNA文庫ロゴ：初稿出し（〜月曜早め）",
       "date": "2026-05-22",
       "startTime": "終日",
       "endTime": "終日",
@@ -502,14 +512,34 @@
       "eventId": "0v7rqath7cl76o5o91508500uh@google.com"
     },
     {
-      "member": "maruyama",
-      "title": "「つくたべ」100万部記念サイト初稿",
-      "date": "2026-05-22",
+      "member": "nabe",
+      "title": "【渡邉】有休15/18（前期繰越3日＋15日）",
+      "date": "2026-05-25",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "55bquadf0f54m06390gos3omqk@google.com"
+      "eventId": "7scmvvt5eigjlrsm2jupe866ke@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】メクリメクル：CMSパーツ松林さん",
+      "date": "2026-05-25",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "35A0D94C-F02A-4E7C-B9DE-C787F92893B6"
+    },
+    {
+      "member": "imai",
+      "title": "C＆Sさま",
+      "date": "2026-05-25",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7rv31odfkvlndprtjvbrcbi2ar@google.com"
     },
     {
       "member": "hashimoto",
@@ -530,6 +560,26 @@
       "allDay": true,
       "location": "",
       "eventId": "4tu102godipfk9fkqo4k15knok@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【ON渡邉】ホロアツWEB_MTG",
+      "date": "2026-05-26",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "https://meet.google.com/oeu-scse-hik",
+      "eventId": "1c3ik37q71j7bhj93k40eb819b@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "COVER MTG",
+      "date": "2026-05-26",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "kd9u0p50gi63fir15fcf07a81c@google.com"
     },
     {
       "member": "hashimoto",
@@ -683,7 +733,7 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】 【渡邉】有休15/18（前期繰越3日＋15日）",
+      "title": "【渡邉】 【渡邉】有休14/18（前期繰越3日＋15日）",
       "date": "2026-06-04",
       "startTime": "終日",
       "endTime": "終日",
@@ -833,7 +883,7 @@
     },
     {
       "member": "nabe",
-      "title": " 【渡邉】有休15/18（前期繰越3日＋15日）",
+      "title": " 【渡邉】有休13/18（前期繰越3日＋15日）",
       "date": "2026-09-04",
       "startTime": "終日",
       "endTime": "終日",
