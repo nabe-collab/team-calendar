@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23 09:23",
+  "updated": "2026-05-24 09:23",
   "events": [
     {
       "member": "nabe",
@@ -523,16 +523,6 @@
     },
     {
       "member": "imai",
-      "title": "【今井】メクリメクル：CMSパーツ松林さん",
-      "date": "2026-05-25",
-      "startTime": "16:00",
-      "endTime": "17:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "35A0D94C-F02A-4E7C-B9DE-C787F92893B6"
-    },
-    {
-      "member": "imai",
       "title": "C＆Sさま",
       "date": "2026-05-25",
       "startTime": "16:00",
@@ -540,6 +530,16 @@
       "allDay": false,
       "location": "",
       "eventId": "7rv31odfkvlndprtjvbrcbi2ar@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】メクリメクル：CMSパーツ松林さん",
+      "date": "2026-05-25",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "35A0D94C-F02A-4E7C-B9DE-C787F92893B6"
     },
     {
       "member": "hashimoto",
@@ -930,6 +930,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】後半休（5/18.5）",
+      "date": "2026-07-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "D14A0F64-F6DB-4337-8AB6-58B1EE71D7CE"
     },
     {
       "member": "imai",
