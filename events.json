@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26 09:23",
+  "updated": "2026-05-27 09:23",
   "events": [
     {
       "member": "nabe",
@@ -623,16 +623,6 @@
     },
     {
       "member": "maruyama",
-      "title": "『お姉ちゃんの翠くん』最終見積もり出す",
-      "date": "2026-05-26",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0cgarv44c70u4up72gdnsru8cd@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": " 定例打ち合わせ",
       "date": "2026-05-26",
       "startTime": "11:30",
@@ -672,6 +662,26 @@
       "eventId": "61539k870hcaoi4jffg7fnhv3m@google.com"
     },
     {
+      "member": "nabe",
+      "title": "ホロアツ見積もり出し",
+      "date": "2026-05-27",
+      "startTime": "16:45",
+      "endTime": "17:15",
+      "allDay": false,
+      "location": "",
+      "eventId": "a454cae22cd1452197be17c8420da7b3@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "『お姉ちゃんの翠くん』最終見積もり出す",
+      "date": "2026-05-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0cgarv44c70u4up72gdnsru8cd@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "秋の学園祭提出",
       "date": "2026-05-27",
@@ -680,6 +690,26 @@
       "allDay": true,
       "location": "",
       "eventId": "415m6tefsg36hcpkcbgmdlc4pl@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "今井さま",
+      "date": "2026-05-28",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7cvqu4gfcv380uru0galncdkg0@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】メクリメクル：1周年",
+      "date": "2026-05-28",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7FC5D22B-BD6F-441C-8914-EF135E58C1D2"
     },
     {
       "member": "imai",
@@ -743,6 +773,16 @@
     },
     {
       "member": "maruyama",
+      "title": " ＜仮＞金賞「さよならアイリスウィッチ」テストアップ",
+      "date": "2026-05-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "02brhl56eslfvngupbmu4b8tlv@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "天海社DIANA文庫ロゴ：初稿出し（〜月曜早め）",
       "date": "2026-05-29",
       "startTime": "終日",
@@ -760,16 +800,6 @@
       "allDay": true,
       "location": "",
       "eventId": "66965rdcm7puskqp2vqd5lj9ud@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": " 金賞「さよならアイリスウィッチ」テストアップ",
-      "date": "2026-05-29",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "02brhl56eslfvngupbmu4b8tlv@google.com"
     },
     {
       "member": "hashimoto",
@@ -820,6 +850,16 @@
       "allDay": true,
       "location": "",
       "eventId": "48qchruv1bu2f1mdbbsvtcah3j@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_ホロアツサイト_デザイン初稿",
+      "date": "2026-06-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "68vuekg5koeag6eqm2i5u72e86@google.com"
     },
     {
       "member": "hashimoto",
@@ -882,6 +922,16 @@
       "eventId": "424u25vtu5r1ehr33ntifkttk2@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】COVER_ホロアツサイト_静的コーディング開始",
+      "date": "2026-06-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4l662ae1ihm9o6679i9h5v1l3g@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "金賞「さよならアイリスウィッチ」公開",
       "date": "2026-06-10",
@@ -890,6 +940,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4vrq3bf95d8v1enmjkfqh5fvop@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_ホロアツサイト_静的初回テスト",
+      "date": "2026-06-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "50tj43ggqpmbaa5qi9pa2ftr9c@google.com"
     },
     {
       "member": "kondo",
@@ -912,6 +972,36 @@
       "eventId": "FAA30EAC-8C94-4F27-8959-B1F419DD0DFD"
     },
     {
+      "member": "nabe",
+      "title": " 【渡邉】COVER_ホロアツサイト_静的最終テスト",
+      "date": "2026-06-18",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2d52kol241o1kmq072ppoi4a4u@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】COVER_ホロアツサイト_WP化スタート",
+      "date": "2026-06-19",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "16od8p0p223ak47bnqq64b3srg@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_ホロアツサイト_WP初回テスト",
+      "date": "2026-06-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "70rgemmngiu29t1eka9b7pe6gl@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "秋の学園祭【初回公開】",
       "date": "2026-06-25",
@@ -920,6 +1010,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4rqb6dpkl5amj7dd8m821ogilq@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_ホロアツサイト_WP最終テスト",
+      "date": "2026-06-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1ld0k6f5oeqtb7v17nihpghsuk@google.com"
     },
     {
       "member": "hashimoto",
@@ -962,6 +1062,16 @@
       "eventId": "48521288-8F5C-49D3-842C-2B09BF5449CF"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】COVER_ホロアツサイト_WP入力作業",
+      "date": "2026-07-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2rshad5ohkholavf15unpck59m@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "【丸山】有休",
       "date": "2026-07-03",
@@ -970,6 +1080,26 @@
       "allDay": true,
       "location": "",
       "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】COVER_ホロアツサイト_全体デバック",
+      "date": "2026-07-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2fp2b260qd32i5gcaidpe8oeqp@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】COVER_ホロアツサイト_本番公開",
+      "date": "2026-07-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6o1gggtsfq3b05nh9k4hs9o642@google.com"
     },
     {
       "member": "kondo",
