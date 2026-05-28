@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27 09:23",
+  "updated": "2026-05-28 09:23",
   "events": [
     {
       "member": "nabe",
@@ -662,16 +662,6 @@
       "eventId": "61539k870hcaoi4jffg7fnhv3m@google.com"
     },
     {
-      "member": "nabe",
-      "title": "ホロアツ見積もり出し",
-      "date": "2026-05-27",
-      "startTime": "16:45",
-      "endTime": "17:15",
-      "allDay": false,
-      "location": "",
-      "eventId": "a454cae22cd1452197be17c8420da7b3@google.com"
-    },
-    {
       "member": "maruyama",
       "title": "『お姉ちゃんの翠くん』最終見積もり出す",
       "date": "2026-05-27",
@@ -720,6 +710,16 @@
       "allDay": false,
       "location": "〒160-0023 東京都新宿区西新宿7-20-1 住友不動産西新宿ビル32F",
       "eventId": "7007E876-0AAA-4454-8B0E-071A6B3F4688"
+    },
+    {
+      "member": "moriya",
+      "title": "集英社クリエイティブ",
+      "date": "2026-05-28",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "849D75A8-A577-4153-AE50-D3641095F893"
     },
     {
       "member": "maruyama",
