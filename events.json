@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30 09:23",
+  "updated": "2026-05-31 09:23",
   "events": [
     {
       "member": "nabe",
@@ -810,6 +810,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4nm9o3c3ueiiiha5qij49mas7d@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】有給 (2.5/28)",
+      "date": "2026-06-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7o6nn0n2etr71guivghf96uehl@google.com"
     },
     {
       "member": "hashimoto",
