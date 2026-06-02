@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01 09:23",
+  "updated": "2026-06-02 09:23",
   "events": [
     {
       "member": "moriya",
@@ -220,6 +220,16 @@
       "allDay": true,
       "location": "",
       "eventId": "70rgemmngiu29t1eka9b7pe6gl@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "おまかせサイバーみまもりの便利な使い方",
+      "date": "2026-06-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "24C128D8-C9A9-4441-BD23-2784F5029018"
     },
     {
       "member": "hashimoto",
