@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03 09:23",
+  "updated": "2026-06-04 09:23",
   "events": [
     {
       "member": "moriya",
@@ -43,6 +43,16 @@
     },
     {
       "member": "hashimoto",
+      "title": " 【橋本】出社",
+      "date": "2026-06-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6aj9ei89ht3aek1l84qgggppnr@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": " 【橋本】午前半休15（4／40)",
       "date": "2026-06-02",
       "startTime": "終日",
@@ -70,6 +80,26 @@
       "allDay": false,
       "location": "",
       "eventId": "645o5238k1u18n08qmr720ivgm@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【ON渡邉】AD_デジタル献花サイトMTG",
+      "date": "2026-06-03",
+      "startTime": "17:30",
+      "endTime": "18:30",
+      "allDay": false,
+      "location": "https://meet.google.com/jqq-bmef-dmu",
+      "eventId": "7kt8hmi32i1u9iit53fu8nbj3r@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】午後半休",
+      "date": "2026-06-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "230880BF-2ABD-4FB3-BBBF-42795CE7F82E"
     },
     {
       "member": "imai",
@@ -113,6 +143,16 @@
     },
     {
       "member": "maruyama",
+      "title": " ＜仮＞金賞「さよならアイリスウィッチ」テストアップ",
+      "date": "2026-06-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "02brhl56eslfvngupbmu4b8tlv@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": " 定例打ち合わせ",
       "date": "2026-06-03",
       "startTime": "11:30",
@@ -153,13 +193,23 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】 【渡邉】有休14/18（前期繰越3日＋15日）",
+      "title": "【渡邉】有休14/18（前期繰越3日＋15日）",
       "date": "2026-06-04",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
       "eventId": "i4qglvdt8jdk23vhpln0vlg33c@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "渡邉_支払内容確認書を共有",
+      "date": "2026-06-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2p7pijgdqtm1q3j11tu77fdcft@google.com"
     },
     {
       "member": "imai",
@@ -183,13 +233,33 @@
     },
     {
       "member": "maruyama",
-      "title": " ＜仮＞金賞「さよならアイリスウィッチ」テストアップ",
+      "title": "ホロライブEN 4th 6/6更新：テストアップ",
+      "date": "2026-06-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4dgq2itdicc23a8sfv3ar0jaqs@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "今井病院11:00",
+      "date": "2026-06-05",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1D8784F4-ECE6-490A-8F50-296B38539C49"
+    },
+    {
+      "member": "maruyama",
+      "title": "「第32回電撃大賞特設」6/10更新 インデックス：テストアップ",
       "date": "2026-06-05",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "02brhl56eslfvngupbmu4b8tlv@google.com"
+      "eventId": "2lq37uqsd741urcmnpbdqvj9d9@google.com"
     },
     {
       "member": "hashimoto",
@@ -262,6 +332,16 @@
       "eventId": "3md2sbs3ugm1doven4a4fmv884@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "死亡遊戯更新",
+      "date": "2026-06-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2r9a82c5mc62bgch1fgnl0dkoa@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】COVER_ホロアツサイト_静的初回テスト",
       "date": "2026-06-15",
@@ -320,6 +400,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2d52kol241o1kmq072ppoi4a4u@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "今井病院9:00",
+      "date": "2026-06-18",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "0875A76C-BBD5-48C4-8BEB-4D801389F854"
     },
     {
       "member": "nabe",
@@ -392,6 +482,26 @@
       "eventId": "1ld0k6f5oeqtb7v17nihpghsuk@google.com"
     },
     {
+      "member": "moriya",
+      "title": "献花初稿",
+      "date": "2026-06-26",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "54837FAD-578E-418F-BB2B-DA761FF2183F"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 【橋本】有休15（5／40)",
+      "date": "2026-06-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1ci1asif6060830j61fuvjptro@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "ココハナ本誌発売",
       "date": "2026-06-26",
@@ -430,6 +540,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "imai",
+      "title": "今井病院13:00",
+      "date": "2026-06-30",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "17D91C6F-E65B-47F1-B8C9-FDC1C5B0FA87"
     },
     {
       "member": "imai",
