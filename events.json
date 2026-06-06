@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05 09:23",
+  "updated": "2026-06-06 09:23",
   "events": [
     {
       "member": "moriya",
@@ -272,11 +272,21 @@
       "eventId": "6schlsa5quov94faune8of35m1@google.com"
     },
     {
-      "member": "maruyama",
-      "title": "【12:00】EN４thライブサイトKV公開",
+      "member": "nabe",
+      "title": "【渡邉】EN４thライブサイトKV公開",
       "date": "2026-06-06",
-      "startTime": "11:00",
-      "endTime": "12:00",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "6nrjmuv9ok2076j1drgc1p5n6u@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【13:00】EN４thライブサイトKV公開",
+      "date": "2026-06-06",
+      "startTime": "12:00",
+      "endTime": "13:00",
       "allDay": false,
       "location": "",
       "eventId": "424u25vtu5r1ehr33ntifkttk2@google.com"
@@ -302,6 +312,16 @@
       "eventId": "6BC0B176-1456-4D21-B5F3-7483144A4CD1"
     },
     {
+      "member": "moriya",
+      "title": "丸亀定例",
+      "date": "2026-06-09",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "C99F73F9-35C0-44C2-99B6-A2B44CCBDBC4"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】COVER_ホロアツサイト_静的コーディング開始",
       "date": "2026-06-10",
@@ -320,6 +340,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4vrq3bf95d8v1enmjkfqh5fvop@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「亡国の花は狼の腕の中で甘く咲く」初稿ロゴ提出",
+      "date": "2026-06-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3uglnn0ql64ojplg29ru7ji9cl@google.com"
     },
     {
       "member": "nabe",
@@ -412,6 +442,16 @@
       "eventId": "0875A76C-BBD5-48C4-8BEB-4D801389F854"
     },
     {
+      "member": "maruyama",
+      "title": "天海社LUNA文庫「亡国の花は狼の腕の中で甘く咲く」ロゴ：納品予定",
+      "date": "2026-06-18",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1ibu42us81hkdadafh8tmcg2vb@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】KADOKAWA_ガンダムエイト更新版公開",
       "date": "2026-06-19",
@@ -450,6 +490,16 @@
       "allDay": true,
       "location": "",
       "eventId": "24C128D8-C9A9-4441-BD23-2784F5029018"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】午後半休15（4.5／40)",
+      "date": "2026-06-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "05kvcs280bbe25ev1ks5m3dlia@google.com"
     },
     {
       "member": "imai",
@@ -493,7 +543,7 @@
     },
     {
       "member": "hashimoto",
-      "title": " 【橋本】有休15（5／40)",
+      "title": " 【橋本】有休15（5.5／40)",
       "date": "2026-06-26",
       "startTime": "終日",
       "endTime": "終日",
