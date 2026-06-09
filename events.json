@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08 09:23",
+  "updated": "2026-06-09 09:23",
   "events": [
     {
       "member": "moriya",
@@ -312,6 +312,36 @@
       "eventId": "6BC0B176-1456-4D21-B5F3-7483144A4CD1"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-09",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "517r2e6f5f0mvusgmcf9fcsbeu@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-09",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "517r2e6f5f0mvusgmcf9fcsbeu@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-09",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "517r2e6f5f0mvusgmcf9fcsbeu@google.com"
+    },
+    {
       "member": "moriya",
       "title": "丸亀定例",
       "date": "2026-06-09",
@@ -320,6 +350,46 @@
       "allDay": false,
       "location": "",
       "eventId": "C99F73F9-35C0-44C2-99B6-A2B44CCBDBC4"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-09",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "517r2e6f5f0mvusgmcf9fcsbeu@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-09",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "517r2e6f5f0mvusgmcf9fcsbeu@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-09",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "517r2e6f5f0mvusgmcf9fcsbeu@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-09",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "517r2e6f5f0mvusgmcf9fcsbeu@google.com"
     },
     {
       "member": "nabe",
@@ -373,6 +443,16 @@
     },
     {
       "member": "nabe",
+      "title": " 【渡邉】午前半休13.5/18（前期繰越3日＋15日）",
+      "date": "2026-06-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4vhj2gbk2q5oso97ppucn5t3uj@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "【渡邉】COVER_ホロアツサイト_静的初回テスト",
       "date": "2026-06-15",
       "startTime": "終日",
@@ -402,6 +482,16 @@
       "eventId": "FAA30EAC-8C94-4F27-8959-B1F419DD0DFD"
     },
     {
+      "member": "maruyama",
+      "title": "超感謝フェア 夏2026：社内チェック",
+      "date": "2026-06-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "04gcs33jad9opgoo1ouk2ngs3c@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】KADOKAWA_ガンダムエイト更新版最終テストアップ",
       "date": "2026-06-17",
@@ -412,14 +502,14 @@
       "eventId": "7ej6mveqg4oj85d6s02gr2j9b7@google.com"
     },
     {
-      "member": "imai",
-      "title": "メクリメクル1周年：素材いただく",
+      "member": "maruyama",
+      "title": "超感謝フェア 夏2026：初稿提出",
       "date": "2026-06-17",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "5462F640-F58B-4532-9B6C-0DB5FDED3E35"
+      "eventId": "5fr9kbidousmhblq99isvsj1i7@google.com"
     },
     {
       "member": "nabe",
@@ -502,16 +592,6 @@
       "eventId": "05kvcs280bbe25ev1ks5m3dlia@google.com"
     },
     {
-      "member": "imai",
-      "title": "メクリメクル1周年：デザイン初稿",
-      "date": "2026-06-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2811437E-2A5C-4CC4-9D3E-9B04BD5E2799"
-    },
-    {
       "member": "hashimoto",
       "title": "秋の学園祭【初回公開】",
       "date": "2026-06-25",
@@ -560,16 +640,6 @@
       "allDay": true,
       "location": "",
       "eventId": "4nou6pkikfuunjaduc40nmelmt@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "メクリメクル1周年：デザインFIX",
-      "date": "2026-06-29",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "4649C9DA-05EC-4801-B747-762B936197BB"
     },
     {
       "member": "kondo",
@@ -632,16 +702,6 @@
       "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
     },
     {
-      "member": "imai",
-      "title": "メクリメクル1周年：テストアップ",
-      "date": "2026-07-07",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6FA5E8ED-977A-4D88-AD59-F55F2EECA5DC"
-    },
-    {
       "member": "nabe",
       "title": " 【渡邉】COVER_ホロアツサイト_全体デバック",
       "date": "2026-07-08",
@@ -650,16 +710,6 @@
       "allDay": true,
       "location": "",
       "eventId": "2fp2b260qd32i5gcaidpe8oeqp@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "メクリメクル1周年：KADOプレスUP＆KADOKAWAで量産",
-      "date": "2026-07-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "E1A03619-223B-4BC0-A7B9-542810E76335"
     },
     {
       "member": "nabe",
@@ -713,7 +763,7 @@
     },
     {
       "member": "nabe",
-      "title": " 【渡邉】有休13/18（前期繰越3日＋15日）",
+      "title": " 【渡邉】有休12.5/18（前期繰越3日＋15日）",
       "date": "2026-09-04",
       "startTime": "終日",
       "endTime": "終日",
