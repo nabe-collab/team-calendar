@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09 09:23",
+  "updated": "2026-06-10 09:23",
   "events": [
     {
       "member": "moriya",
@@ -512,6 +512,16 @@
       "eventId": "5fr9kbidousmhblq99isvsj1i7@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "MGテスト",
+      "date": "2026-06-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1a2bksk7oqorjv5gt1nckivoni@google.com"
+    },
+    {
       "member": "nabe",
       "title": " 【渡邉】COVER_ホロアツサイト_静的最終テスト",
       "date": "2026-06-18",
@@ -560,6 +570,16 @@
       "allDay": true,
       "location": "",
       "eventId": "16od8p0p223ak47bnqq64b3srg@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG14発売",
+      "date": "2026-06-19",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "39onv3ur485jkj8mn63as63l53@google.com"
     },
     {
       "member": "nabe",
