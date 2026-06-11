@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10 09:23",
+  "updated": "2026-06-11 09:24",
   "events": [
     {
       "member": "moriya",
@@ -402,6 +402,16 @@
       "eventId": "4l662ae1ihm9o6679i9h5v1l3g@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】ホロアツサイトデザインMTG",
+      "date": "2026-06-10",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "https://meet.google.com/eih-tiyj-qzr",
+      "eventId": "3i5gkndibu52f2tr3in6o25bio@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "インデックス、金賞「さよならアイリスウィッチ」、金賞「歌姫を殺したい」公開",
       "date": "2026-06-10",
@@ -410,6 +420,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4vrq3bf95d8v1enmjkfqh5fvop@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "砂上メイド1200更新",
+      "date": "2026-06-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "778j1drcccdbiide82p3glkbld@google.com"
     },
     {
       "member": "maruyama",
@@ -430,6 +450,16 @@
       "allDay": true,
       "location": "",
       "eventId": "3md2sbs3ugm1doven4a4fmv884@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】午後休 2.5/20.5",
+      "date": "2026-06-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "00mnne2520ajggv7gsr4023m56@google.com"
     },
     {
       "member": "hashimoto",
@@ -482,16 +512,6 @@
       "eventId": "FAA30EAC-8C94-4F27-8959-B1F419DD0DFD"
     },
     {
-      "member": "maruyama",
-      "title": "超感謝フェア 夏2026：社内チェック",
-      "date": "2026-06-16",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "04gcs33jad9opgoo1ouk2ngs3c@google.com"
-    },
-    {
       "member": "nabe",
       "title": "【渡邉】KADOKAWA_ガンダムエイト更新版最終テストアップ",
       "date": "2026-06-17",
@@ -503,13 +523,13 @@
     },
     {
       "member": "maruyama",
-      "title": "超感謝フェア 夏2026：初稿提出",
+      "title": "超感謝フェア 夏2026：社内チェック",
       "date": "2026-06-17",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "5fr9kbidousmhblq99isvsj1i7@google.com"
+      "eventId": "04gcs33jad9opgoo1ouk2ngs3c@google.com"
     },
     {
       "member": "hashimoto",
@@ -540,6 +560,16 @@
       "allDay": false,
       "location": "",
       "eventId": "0875A76C-BBD5-48C4-8BEB-4D801389F854"
+    },
+    {
+      "member": "maruyama",
+      "title": "超感謝フェア 夏2026：初稿提出",
+      "date": "2026-06-18",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5fr9kbidousmhblq99isvsj1i7@google.com"
     },
     {
       "member": "maruyama",
@@ -642,6 +672,16 @@
       "eventId": "54837FAD-578E-418F-BB2B-DA761FF2183F"
     },
     {
+      "member": "maruyama",
+      "title": "【丸山】午後休 3/20.5",
+      "date": "2026-06-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2gq36dhc2v91rb06fco9ge52rt@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": " 【橋本】有休15（5.5／40)",
       "date": "2026-06-26",
@@ -713,13 +753,23 @@
     },
     {
       "member": "maruyama",
-      "title": "【丸山】有休",
+      "title": "【丸山】有休 4/20.5",
       "date": "2026-07-03",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
       "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】有休 5/20.5",
+      "date": "2026-07-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7682k5531c8ordcqj1talps1cs@google.com"
     },
     {
       "member": "nabe",
@@ -770,6 +820,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】有休 6/20.5",
+      "date": "2026-07-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2jp2ntiun5bspn6s796gn0cbk2@google.com"
     },
     {
       "member": "imai",
