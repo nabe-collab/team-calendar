@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11 09:24",
+  "updated": "2026-06-12 09:23",
   "events": [
     {
       "member": "moriya",
@@ -432,6 +432,36 @@
       "eventId": "778j1drcccdbiide82p3glkbld@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】ホロアツサイトの内部MTG",
+      "date": "2026-06-11",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "09bmboh3i05u8gqthpou6p4ihi@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "メクリメクルCMSパーツ内部MTG",
+      "date": "2026-06-11",
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "7tu0bim4rkatsrccgoss8ekru9@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "メクリメクルCMSパーツ内部MTG",
+      "date": "2026-06-11",
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "7tu0bim4rkatsrccgoss8ekru9@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "「亡国の花は狼の腕の中で甘く咲く」初稿ロゴ提出",
       "date": "2026-06-11",
@@ -440,6 +470,16 @@
       "allDay": true,
       "location": "",
       "eventId": "3uglnn0ql64ojplg29ru7ji9cl@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "【ON渡邉】ホロアツサイトの内部MTG",
+      "date": "2026-06-11",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "09bmboh3i05u8gqthpou6p4ihi@google.com"
     },
     {
       "member": "nabe",
@@ -472,6 +512,16 @@
       "eventId": "2r9a82c5mc62bgch1fgnl0dkoa@google.com"
     },
     {
+      "member": "inamine",
+      "title": "【稲嶺】半給 3/19",
+      "date": "2026-06-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "367101jo7tl3le5urf1evfa1rd@google.com"
+    },
+    {
       "member": "nabe",
       "title": " 【渡邉】午前半休13.5/18（前期繰越3日＋15日）",
       "date": "2026-06-15",
@@ -500,6 +550,16 @@
       "allDay": true,
       "location": "",
       "eventId": "9682B413-5E02-4128-AE04-36C4D0ECC389"
+    },
+    {
+      "member": "moriya",
+      "title": "丸亀定例",
+      "date": "2026-06-16",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "4D7DB7A3-636E-42F2-9E67-ED23B138DBEE"
     },
     {
       "member": "kondo",
