@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12 09:23",
+  "updated": "2026-06-13 09:23",
   "events": [
     {
       "member": "moriya",
@@ -472,6 +472,16 @@
       "eventId": "3uglnn0ql64ojplg29ru7ji9cl@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "死亡遊戯更新",
+      "date": "2026-06-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2r9a82c5mc62bgch1fgnl0dkoa@google.com"
+    },
+    {
       "member": "inamine",
       "title": "【ON渡邉】ホロアツサイトの内部MTG",
       "date": "2026-06-11",
@@ -492,6 +502,16 @@
       "eventId": "3md2sbs3ugm1doven4a4fmv884@google.com"
     },
     {
+      "member": "moriya",
+      "title": "丸亀MTG",
+      "date": "2026-06-12",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "29019153-8F39-4EBF-BDCD-AE1C6FAA3FB9"
+    },
+    {
       "member": "maruyama",
       "title": "【丸山】午後休 2.5/20.5",
       "date": "2026-06-12",
@@ -500,16 +520,6 @@
       "allDay": true,
       "location": "",
       "eventId": "00mnne2520ajggv7gsr4023m56@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "死亡遊戯更新",
-      "date": "2026-06-12",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2r9a82c5mc62bgch1fgnl0dkoa@google.com"
     },
     {
       "member": "inamine",
@@ -643,16 +653,6 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】KADOKAWA_ガンダムエイト更新版公開",
-      "date": "2026-06-19",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2fs26m7b7hd721258e2b56l9rs@google.com"
-    },
-    {
-      "member": "nabe",
       "title": " 【渡邉】COVER_ホロアツサイト_WP化スタート",
       "date": "2026-06-19",
       "startTime": "終日",
@@ -660,6 +660,26 @@
       "allDay": true,
       "location": "",
       "eventId": "16od8p0p223ak47bnqq64b3srg@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】KADOKAWA_ガンダムエイト更新版公開",
+      "date": "2026-06-19",
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2fs26m7b7hd721258e2b56l9rs@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "ガンダム公開",
+      "date": "2026-06-19",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "68AC30EE-4EB3-4266-B13F-296A404B4BFD"
     },
     {
       "member": "hashimoto",
@@ -670,6 +690,16 @@
       "allDay": true,
       "location": "",
       "eventId": "39onv3ur485jkj8mn63as63l53@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "死亡遊戯更新",
+      "date": "2026-06-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1c5ltuo9sdglmjorqg3bh100hs@google.com"
     },
     {
       "member": "nabe",
