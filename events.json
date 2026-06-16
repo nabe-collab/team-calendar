@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15 09:23",
+  "updated": "2026-06-16 09:24",
   "events": [
     {
       "member": "moriya",
@@ -533,7 +533,7 @@
     },
     {
       "member": "nabe",
-      "title": " 【渡邉】午前半休13.5/18（前期繰越3日＋15日）",
+      "title": " 【渡邉】午前半休13/18（前期繰越3日＋15日）",
       "date": "2026-06-15",
       "startTime": "終日",
       "endTime": "終日",
@@ -692,6 +692,16 @@
       "eventId": "39onv3ur485jkj8mn63as63l53@google.com"
     },
     {
+      "member": "imai",
+      "title": "スタートライン連絡",
+      "date": "2026-06-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3D7CCFD2-F502-4EC2-8767-C7B4694AB451"
+    },
+    {
       "member": "hashimoto",
       "title": "死亡遊戯更新",
       "date": "2026-06-22",
@@ -730,6 +740,16 @@
       "allDay": true,
       "location": "",
       "eventId": "05kvcs280bbe25ev1ks5m3dlia@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "集英社コミックス更新",
+      "date": "2026-06-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4q0ikgeh0g94o598t4sbr3ll54@google.com"
     },
     {
       "member": "hashimoto",
@@ -933,7 +953,7 @@
     },
     {
       "member": "nabe",
-      "title": " 【渡邉】有休12.5/18（前期繰越3日＋15日）",
+      "title": " 【渡邉】有休12/18（前期繰越3日＋15日）",
       "date": "2026-09-04",
       "startTime": "終日",
       "endTime": "終日",
