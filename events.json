@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16 09:24",
+  "updated": "2026-06-17 09:23",
   "events": [
     {
       "member": "moriya",
@@ -592,6 +592,46 @@
       "eventId": "7ej6mveqg4oj85d6s02gr2j9b7@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-17",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1f1pj8eppg2qdftustdshc9m31@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-17",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1f1pj8eppg2qdftustdshc9m31@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-17",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1f1pj8eppg2qdftustdshc9m31@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-17",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1f1pj8eppg2qdftustdshc9m31@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "超感謝フェア 夏2026：社内チェック",
       "date": "2026-06-17",
@@ -602,6 +642,16 @@
       "eventId": "04gcs33jad9opgoo1ouk2ngs3c@google.com"
     },
     {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-17",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1f1pj8eppg2qdftustdshc9m31@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "MGテスト",
       "date": "2026-06-17",
@@ -610,6 +660,26 @@
       "allDay": true,
       "location": "",
       "eventId": "1a2bksk7oqorjv5gt1nckivoni@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-17",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1f1pj8eppg2qdftustdshc9m31@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-17",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1f1pj8eppg2qdftustdshc9m31@google.com"
     },
     {
       "member": "nabe",
@@ -623,10 +693,10 @@
     },
     {
       "member": "imai",
-      "title": "今井病院9:00",
+      "title": "【今井】休みー病院9:00",
       "date": "2026-06-18",
       "startTime": "09:00",
-      "endTime": "10:00",
+      "endTime": "12:00",
       "allDay": false,
       "location": "",
       "eventId": "0875A76C-BBD5-48C4-8BEB-4D801389F854"
