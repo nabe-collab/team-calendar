@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 09:23",
+  "updated": "2026-06-18 09:23",
   "events": [
     {
       "member": "moriya",
@@ -523,7 +523,7 @@
     },
     {
       "member": "inamine",
-      "title": "【稲嶺】半給 3/19",
+      "title": "【稲嶺】午前半給 3/19",
       "date": "2026-06-12",
       "startTime": "終日",
       "endTime": "終日",
@@ -763,7 +763,7 @@
     },
     {
       "member": "imai",
-      "title": "スタートライン連絡",
+      "title": "スタートライン連絡＆銀行確認",
       "date": "2026-06-22",
       "startTime": "終日",
       "endTime": "終日",
@@ -780,6 +780,16 @@
       "allDay": true,
       "location": "",
       "eventId": "1c5ltuo9sdglmjorqg3bh100hs@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 【稲嶺】午後半給 3.5/19",
+      "date": "2026-06-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "52k8m3m5qr8ajb2tjtt823s2cl@google.com"
     },
     {
       "member": "nabe",
@@ -810,6 +820,16 @@
       "allDay": true,
       "location": "",
       "eventId": "05kvcs280bbe25ev1ks5m3dlia@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「さよならアイリスウィッチ」7/10更新：デザイン提出",
+      "date": "2026-06-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "65n46bp0lieb9p71nbvj7bev5c@google.com"
     },
     {
       "member": "hashimoto",
@@ -930,6 +950,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2rshad5ohkholavf15unpck59m@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「さよならアイリスウィッチ」7/10更新：テストアップ",
+      "date": "2026-07-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "554qn7d4lg43mpfp7t8tru0edg@google.com"
     },
     {
       "member": "maruyama",
