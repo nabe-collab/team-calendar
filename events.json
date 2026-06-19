@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18 09:23",
+  "updated": "2026-06-19 09:23",
   "events": [
     {
       "member": "moriya",
@@ -533,16 +533,6 @@
     },
     {
       "member": "nabe",
-      "title": " 【渡邉】午前半休13/18（前期繰越3日＋15日）",
-      "date": "2026-06-15",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "4vhj2gbk2q5oso97ppucn5t3uj@google.com"
-    },
-    {
-      "member": "nabe",
       "title": "【渡邉】COVER_ホロアツサイト_静的初回テスト",
       "date": "2026-06-15",
       "startTime": "終日",
@@ -550,6 +540,16 @@
       "allDay": true,
       "location": "",
       "eventId": "50tj43ggqpmbaa5qi9pa2ftr9c@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】午前半休13/18（前期繰越3日＋15日）",
+      "date": "2026-06-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4vhj2gbk2q5oso97ppucn5t3uj@google.com"
     },
     {
       "member": "kondo",
@@ -803,6 +803,16 @@
     },
     {
       "member": "imai",
+      "title": "仮【今井】Muse Endeavor inc.",
+      "date": "2026-06-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "F769F32F-8D70-4E24-96B7-8260E67BBB62"
+    },
+    {
+      "member": "imai",
       "title": "おまかせサイバーみまもりの便利な使い方",
       "date": "2026-06-23",
       "startTime": "終日",
@@ -820,6 +830,16 @@
       "allDay": true,
       "location": "",
       "eventId": "05kvcs280bbe25ev1ks5m3dlia@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "仮【今井】Muse Endeavor inc.",
+      "date": "2026-06-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4CE1AE7A-6966-4AF3-8976-5270B0AB8D23"
     },
     {
       "member": "maruyama",
@@ -860,6 +880,16 @@
       "allDay": true,
       "location": "",
       "eventId": "1ld0k6f5oeqtb7v17nihpghsuk@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "仮【今井】Muse Endeavor inc.",
+      "date": "2026-06-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1A3A93AE-7113-4692-B4F8-9B5827280307"
     },
     {
       "member": "moriya",
@@ -930,6 +960,16 @@
       "allDay": false,
       "location": "",
       "eventId": "17D91C6F-E65B-47F1-B8C9-FDC1C5B0FA87"
+    },
+    {
+      "member": "moriya",
+      "title": "CMSパーツ初稿",
+      "date": "2026-06-30",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1A072DB7-371A-461E-8EAA-340E3323FA22"
     },
     {
       "member": "imai",
@@ -1003,7 +1043,17 @@
     },
     {
       "member": "kondo",
-      "title": "【近藤】後半休（5/18）",
+      "title": "【近藤】有休（5.5/18）",
+      "date": "2026-07-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "123D47B2-FE70-4396-8C8C-F54222BE786B"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】後半休（6/18）",
       "date": "2026-07-14",
       "startTime": "終日",
       "endTime": "終日",
@@ -1040,6 +1090,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2jp2ntiun5bspn6s796gn0cbk2@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "会社指定夏休み",
+      "date": "2026-08-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0E4B5C5E-C60A-4AD1-9066-62FBB15A399A"
     },
     {
       "member": "imai",
