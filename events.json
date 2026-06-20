@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19 09:23",
+  "updated": "2026-06-20 09:24",
   "events": [
     {
       "member": "moriya",
@@ -762,6 +762,16 @@
       "eventId": "39onv3ur485jkj8mn63as63l53@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】エヴァサイト見積もり＆スケジュール出し",
+      "date": "2026-06-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3g9tmfv2725s33ah7gurp4ickn@google.com"
+    },
+    {
       "member": "imai",
       "title": "スタートライン連絡＆銀行確認",
       "date": "2026-06-22",
@@ -770,6 +780,16 @@
       "allDay": true,
       "location": "",
       "eventId": "3D7CCFD2-F502-4EC2-8767-C7B4694AB451"
+    },
+    {
+      "member": "maruyama",
+      "title": "電撃大賞特設7/10更新：外注に打診",
+      "date": "2026-06-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2pg7qdimes65b96hno9i0385o4@google.com"
     },
     {
       "member": "hashimoto",
@@ -802,14 +822,14 @@
       "eventId": "70rgemmngiu29t1eka9b7pe6gl@google.com"
     },
     {
-      "member": "imai",
-      "title": "仮【今井】Muse Endeavor inc.",
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
       "date": "2026-06-23",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
       "location": "",
-      "eventId": "F769F32F-8D70-4E24-96B7-8260E67BBB62"
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
     },
     {
       "member": "imai",
@@ -822,6 +842,66 @@
       "eventId": "24C128D8-C9A9-4441-BD23-2784F5029018"
     },
     {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-23",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-23",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "新規予定",
+      "date": "2026-06-23",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "69AAEED4-63DC-41CB-AC82-ECE1C8FA6679"
+    },
+    {
+      "member": "moriya",
+      "title": "丸亀定例",
+      "date": "2026-06-23",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "5438ABC2-AEAC-47C6-A1BB-4D2903B34DCE"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-23",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-23",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "【橋本】午後半休15（4.5／40)",
       "date": "2026-06-23",
@@ -832,12 +912,32 @@
       "eventId": "05kvcs280bbe25ev1ks5m3dlia@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-23",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-23",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
+    },
+    {
       "member": "imai",
-      "title": "仮【今井】Muse Endeavor inc.",
+      "title": "【今井】Muse Endeavor inc.",
       "date": "2026-06-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
       "location": "",
       "eventId": "4CE1AE7A-6966-4AF3-8976-5270B0AB8D23"
     },
@@ -873,6 +973,16 @@
     },
     {
       "member": "nabe",
+      "title": "【渡邉】エヴァ貞本画集サイト更新版デザインチェック",
+      "date": "2026-06-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "625qgnsfsu0du8h63an0ne85n0@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "【渡邉】COVER_ホロアツサイト_WP最終テスト",
       "date": "2026-06-26",
       "startTime": "終日",
@@ -880,16 +990,6 @@
       "allDay": true,
       "location": "",
       "eventId": "1ld0k6f5oeqtb7v17nihpghsuk@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "仮【今井】Muse Endeavor inc.",
-      "date": "2026-06-26",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1A3A93AE-7113-4692-B4F8-9B5827280307"
     },
     {
       "member": "moriya",
@@ -972,6 +1072,16 @@
       "eventId": "1A072DB7-371A-461E-8EAA-340E3323FA22"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】エヴァ貞本画集サイト更新版テストアップ",
+      "date": "2026-07-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6lrog63oo6bnm7u1a9o26tk8tg@google.com"
+    },
+    {
       "member": "imai",
       "title": "仮）今井休み",
       "date": "2026-07-01",
@@ -1002,6 +1112,16 @@
       "eventId": "554qn7d4lg43mpfp7t8tru0edg@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】エヴァ貞本画集サイト更新版最終テストアップ",
+      "date": "2026-07-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6t4kpag3fhgb5uk517bga39iq6@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "【丸山】有休 4/20.5",
       "date": "2026-07-03",
@@ -1020,6 +1140,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7682k5531c8ordcqj1talps1cs@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】エヴァ貞本画集サイト更新版公開",
+      "date": "2026-07-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5ogb9c9g3pqlr5k15phipfge05@google.com"
     },
     {
       "member": "nabe",
