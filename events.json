@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22 09:23",
+  "updated": "2026-06-23 09:23",
   "events": [
     {
       "member": "moriya",
@@ -832,26 +832,36 @@
       "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】エリアドライブ_佐藤さんMTG",
+      "date": "2026-06-23",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r5smr0s20463nsqi9ndi5ug32@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-06-23",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
+    },
+    {
       "member": "imai",
       "title": "おまかせサイバーみまもりの便利な使い方",
       "date": "2026-06-23",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
       "location": "",
       "eventId": "24C128D8-C9A9-4441-BD23-2784F5029018"
     },
     {
-      "member": "imai",
-      "title": " 定例打ち合わせ",
-      "date": "2026-06-23",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
-    },
-    {
       "member": "moriya",
       "title": " 定例打ち合わせ",
       "date": "2026-06-23",
@@ -863,7 +873,7 @@
     },
     {
       "member": "moriya",
-      "title": "新規予定",
+      "title": "佐藤さんMTG予定（仮）",
       "date": "2026-06-23",
       "startTime": "13:00",
       "endTime": "14:00",
@@ -932,13 +942,23 @@
       "eventId": "17mqjdkhl5i65beei76q9c4a8i@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】スパイ教室サイト15巻更新版デザインチェック",
+      "date": "2026-06-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7mos9c3a6htfijo5qqhtirdmf4@google.com"
+    },
+    {
       "member": "imai",
       "title": "【今井】Muse Endeavor inc.",
       "date": "2026-06-24",
       "startTime": "16:00",
       "endTime": "17:00",
       "allDay": false,
-      "location": "",
+      "location": "青山一丁目駅",
       "eventId": "4CE1AE7A-6966-4AF3-8976-5270B0AB8D23"
     },
     {
@@ -970,6 +990,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4rqb6dpkl5amj7dd8m821ogilq@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】有休12/18（前期繰越3日＋15日）",
+      "date": "2026-06-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7gqdumr5uiolbjt20dr27397ec@google.com"
     },
     {
       "member": "nabe",
@@ -1032,6 +1062,16 @@
       "eventId": "4nou6pkikfuunjaduc40nmelmt@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】スパイ教室サイト15巻更新版テストアップ",
+      "date": "2026-06-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2ppa957v0qcaa44cuduk5gdo87@google.com"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】前半休（4.5/18）",
       "date": "2026-06-29",
@@ -1080,6 +1120,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6lrog63oo6bnm7u1a9o26tk8tg@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】スパイ教室サイト15巻情報更新版公開",
+      "date": "2026-07-01",
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "4c2aksug4cc50it3517i9sapof@google.com"
     },
     {
       "member": "imai",
@@ -1243,7 +1293,7 @@
     },
     {
       "member": "nabe",
-      "title": " 【渡邉】有休12/18（前期繰越3日＋15日）",
+      "title": " 【渡邉】有休11/18（前期繰越3日＋15日）",
       "date": "2026-09-04",
       "startTime": "終日",
       "endTime": "終日",
