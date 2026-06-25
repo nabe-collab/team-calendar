@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24 09:23",
+  "updated": "2026-06-25 09:23",
   "events": [
     {
       "member": "moriya",
@@ -972,6 +972,26 @@
       "eventId": "65n46bp0lieb9p71nbvj7bev5c@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "【12:00】別マMC「Re:blue」特設：公開",
+      "date": "2026-06-25",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1eetjaogkja8nufhs8llm8viac@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【12:00】32回電撃大賞特設：インデックス更新",
+      "date": "2026-06-25",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1826sm9v5kf5lg7tnbhcclcapb@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "集英社コミックス更新",
       "date": "2026-06-25",
@@ -1212,6 +1232,16 @@
       "eventId": "2fp2b260qd32i5gcaidpe8oeqp@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "砂上メイドメニュー更新",
+      "date": "2026-07-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6dhqfs9pikia8e4202crcf7fhm@google.com"
+    },
+    {
       "member": "nabe",
       "title": " 【渡邉】COVER_ホロアツサイト_本番公開",
       "date": "2026-07-11",
@@ -1250,6 +1280,16 @@
       "allDay": true,
       "location": "",
       "eventId": "15B2B1A5-93DF-4A26-AEB3-5C0313115A86"
+    },
+    {
+      "member": "hashimoto",
+      "title": "集英社サーバーメンテ21:00",
+      "date": "2026-07-28",
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "0thsqevig3g1ci6ad41hddsp59@google.com"
     },
     {
       "member": "imai",
