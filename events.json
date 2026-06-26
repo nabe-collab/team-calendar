@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25 09:23",
+  "updated": "2026-06-26 09:23",
   "events": [
     {
       "member": "moriya",
@@ -1053,7 +1053,17 @@
     },
     {
       "member": "maruyama",
-      "title": "【丸山】午後休 3/20.5",
+      "title": "6月請求書出す",
+      "date": "2026-06-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3knadp5cjtvngaaimef9amb7du@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】後半休 3/20.5",
       "date": "2026-06-26",
       "startTime": "終日",
       "endTime": "終日",
@@ -1090,6 +1100,26 @@
       "allDay": true,
       "location": "",
       "eventId": "2ppa957v0qcaa44cuduk5gdo87@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【Chatworkアシスタント Powered by タクシタ】お打ち合わせ",
+      "date": "2026-06-29",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "https://meet.google.com/nps-hhgv-spu",
+      "eventId": "3v63t3ud7mcmofvj4quj4qjam0@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】チャットワーク",
+      "date": "2026-06-29",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1DC9B381-5DC3-40C8-90B4-C1BD029C6184"
     },
     {
       "member": "kondo",
@@ -1203,6 +1233,16 @@
     },
     {
       "member": "maruyama",
+      "title": "32回電撃大賞特設インデックス：7/10更新テストアップ",
+      "date": "2026-07-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2494386r3l9472jp3ure7of0nj@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "【丸山】有休 5/20.5",
       "date": "2026-07-07",
       "startTime": "終日",
@@ -1230,6 +1270,26 @@
       "allDay": true,
       "location": "",
       "eventId": "2fp2b260qd32i5gcaidpe8oeqp@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】後半休 5.5/20.5",
+      "date": "2026-07-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5mihihlfpihtpm17l9hueq7gt2@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "インデックス、「さよならアイリスウィッチ」7/10更新",
+      "date": "2026-07-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5ba5svetbm09bdif6qhh233r4o@google.com"
     },
     {
       "member": "hashimoto",
@@ -1282,6 +1342,16 @@
       "eventId": "15B2B1A5-93DF-4A26-AEB3-5C0313115A86"
     },
     {
+      "member": "maruyama",
+      "title": "【丸山】前半休 6/20.5",
+      "date": "2026-07-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6hfk11hsk5lgft4emrejf4pjni@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "集英社サーバーメンテ21:00",
       "date": "2026-07-28",
@@ -1303,7 +1373,7 @@
     },
     {
       "member": "maruyama",
-      "title": "【丸山】有休 6/20.5",
+      "title": "【丸山】有休 7/20.5",
       "date": "2026-07-31",
       "startTime": "終日",
       "endTime": "終日",
@@ -1320,6 +1390,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0E4B5C5E-C60A-4AD1-9066-62FBB15A399A"
+    },
+    {
+      "member": "hashimoto",
+      "title": "秋の学園祭2026更新①",
+      "date": "2026-08-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6o1nhi642n3qitlo7h85c6t0s8@google.com"
     },
     {
       "member": "imai",
