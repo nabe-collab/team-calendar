@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26 09:23",
+  "updated": "2026-06-27 09:23",
   "events": [
     {
       "member": "moriya",
@@ -1160,6 +1160,16 @@
       "allDay": false,
       "location": "",
       "eventId": "1A072DB7-371A-461E-8EAA-340E3323FA22"
+    },
+    {
+      "member": "moriya",
+      "title": "丸亀定例",
+      "date": "2026-06-30",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "4AFB367F-A832-4B2F-980C-9A9C0DD8A320"
     },
     {
       "member": "nabe",
