@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 09:23",
+  "updated": "2026-06-30 09:23",
   "events": [
     {
       "member": "moriya",
@@ -1108,7 +1108,7 @@
       "startTime": "12:00",
       "endTime": "13:00",
       "allDay": false,
-      "location": "https://meet.google.com/nps-hhgv-spu",
+      "location": "",
       "eventId": "3v63t3ud7mcmofvj4quj4qjam0@google.com"
     },
     {
@@ -1132,6 +1132,16 @@
       "eventId": "C269BDA3-ECEA-4916-A031-0209D60EA9B1"
     },
     {
+      "member": "nabe",
+      "title": "定例打ち合わせ",
+      "date": "2026-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76eh0duba80qvhsvjj7edkq9au@google.com"
+    },
+    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-06-30",
@@ -1143,13 +1153,23 @@
     },
     {
       "member": "imai",
-      "title": "今井病院13:00",
+      "title": "定例打ち合わせ",
+      "date": "2026-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76eh0duba80qvhsvjj7edkq9au@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】午後休み:病院13時",
       "date": "2026-06-30",
       "startTime": "13:00",
       "endTime": "14:00",
       "allDay": false,
       "location": "",
-      "eventId": "17D91C6F-E65B-47F1-B8C9-FDC1C5B0FA87"
+      "eventId": "8C64F21F-EB50-423A-AEF6-30AC6F981DDC"
     },
     {
       "member": "moriya",
@@ -1163,6 +1183,16 @@
     },
     {
       "member": "moriya",
+      "title": "定例打ち合わせ",
+      "date": "2026-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76eh0duba80qvhsvjj7edkq9au@google.com"
+    },
+    {
+      "member": "moriya",
       "title": "丸亀定例",
       "date": "2026-06-30",
       "startTime": "16:00",
@@ -1170,6 +1200,46 @@
       "allDay": false,
       "location": "",
       "eventId": "4AFB367F-A832-4B2F-980C-9A9C0DD8A320"
+    },
+    {
+      "member": "kondo",
+      "title": "定例打ち合わせ",
+      "date": "2026-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76eh0duba80qvhsvjj7edkq9au@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "定例打ち合わせ",
+      "date": "2026-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76eh0duba80qvhsvjj7edkq9au@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "定例打ち合わせ",
+      "date": "2026-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76eh0duba80qvhsvjj7edkq9au@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "定例打ち合わせ",
+      "date": "2026-06-30",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76eh0duba80qvhsvjj7edkq9au@google.com"
     },
     {
       "member": "nabe",
@@ -1190,16 +1260,6 @@
       "allDay": false,
       "location": "",
       "eventId": "4c2aksug4cc50it3517i9sapof@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "仮）今井休み",
-      "date": "2026-07-01",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "48521288-8F5C-49D3-842C-2B09BF5449CF"
     },
     {
       "member": "nabe",
