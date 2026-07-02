@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 09:23",
+  "updated": "2026-07-02 09:23",
   "events": [
     {
       "member": "nabe",
@@ -10,6 +10,26 @@
       "allDay": true,
       "location": "",
       "eventId": "6lrog63oo6bnm7u1a9o26tk8tg@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "WANGLASS 実装 Digital Oneさん打ち合わせ",
+      "date": "2026-07-01",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7EB86718-3E67-4CF0-A3F3-083F1E8E10F4"
+    },
+    {
+      "member": "moriya",
+      "title": "WANGLASS 実装 Digital Oneさん打ち合わせ",
+      "date": "2026-07-01",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "06AAE054-01AE-4860-8093-C7BC28275371"
     },
     {
       "member": "maruyama",
