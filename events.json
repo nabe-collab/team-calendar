@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02 09:23",
+  "updated": "2026-07-03 09:23",
   "events": [
     {
       "member": "nabe",
@@ -62,16 +62,6 @@
       "eventId": "2rshad5ohkholavf15unpck59m@google.com"
     },
     {
-      "member": "maruyama",
-      "title": "「さよならアイリスウィッチ」7/10更新：テストアップ",
-      "date": "2026-07-02",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "554qn7d4lg43mpfp7t8tru0edg@google.com"
-    },
-    {
       "member": "nabe",
       "title": "【渡邉】エヴァ貞本画集サイト更新版最終テストアップ",
       "date": "2026-07-03",
@@ -85,8 +75,8 @@
       "member": "nabe",
       "title": "【渡邉】スパイ教室サイト15巻情報更新版公開",
       "date": "2026-07-03",
-      "startTime": "12:00",
-      "endTime": "12:30",
+      "startTime": "17:00",
+      "endTime": "17:30",
       "allDay": false,
       "location": "",
       "eventId": "4c2aksug4cc50it3517i9sapof@google.com"
@@ -100,6 +90,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「さよならアイリスウィッチ」7/10更新：テストアップ",
+      "date": "2026-07-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "554qn7d4lg43mpfp7t8tru0edg@google.com"
     },
     {
       "member": "maruyama",
