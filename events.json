@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03 09:23",
+  "updated": "2026-07-04 09:23",
   "events": [
     {
       "member": "nabe",
@@ -92,6 +92,46 @@
       "eventId": "4v2fpi28jeoaaiuc2lltqjo268@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-06",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-06",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-06",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-06",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "「さよならアイリスウィッチ」7/10更新：テストアップ",
       "date": "2026-07-06",
@@ -110,6 +150,46 @@
       "allDay": true,
       "location": "",
       "eventId": "2494386r3l9472jp3ure7of0nj@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-06",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-06",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-06",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "労働保険料：銀行で納付",
+      "date": "2026-07-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "C6C8337E-30B2-428A-BDB2-047DCF603221"
     },
     {
       "member": "maruyama",
@@ -200,16 +280,6 @@
       "allDay": true,
       "location": "",
       "eventId": "D14A0F64-F6DB-4337-8AB6-58B1EE71D7CE"
-    },
-    {
-      "member": "imai",
-      "title": "メクリメクル1周年：公開",
-      "date": "2026-07-15",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "15B2B1A5-93DF-4A26-AEB3-5C0313115A86"
     },
     {
       "member": "nabe",
