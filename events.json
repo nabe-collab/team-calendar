@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06 09:23",
+  "updated": "2026-07-07 09:23",
   "events": [
     {
       "member": "nabe",
@@ -222,6 +222,16 @@
       "eventId": "2fp2b260qd32i5gcaidpe8oeqp@google.com"
     },
     {
+      "member": "moriya",
+      "title": "グランドパレス更新",
+      "date": "2026-07-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "BA38BB92-5E3B-45F7-BA03-10E43E2F9F78"
+    },
+    {
       "member": "maruyama",
       "title": "【丸山】後半休 5.5/20.5",
       "date": "2026-07-10",
@@ -282,6 +292,26 @@
       "eventId": "D14A0F64-F6DB-4337-8AB6-58B1EE71D7CE"
     },
     {
+      "member": "hashimoto",
+      "title": "メンテ：7/15(水)13:30~16:00",
+      "date": "2026-07-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5cu2lboai3brpapceubo8knmdv@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MGテストアップ",
+      "date": "2026-07-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6f7br10utniq68utqun20h4dt1@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】スパイ教室サイトASMR情報更新版公開",
       "date": "2026-07-16",
@@ -292,6 +322,16 @@
       "eventId": "651535s6hddpkpfnerdu5sc9j1@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "MG16発売",
+      "date": "2026-07-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2r74tnifvcl8t9sneacrs25op1@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "【丸山】前半休 6/20.5",
       "date": "2026-07-21",
@@ -300,6 +340,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6hfk11hsk5lgft4emrejf4pjni@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "コミックス発売",
+      "date": "2026-07-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1ff9mkkec731q386t3803jokod@google.com"
     },
     {
       "member": "hashimoto",
@@ -382,6 +432,16 @@
       "eventId": "C06C3529-BE36-465F-94CB-9FA5CD627B35"
     },
     {
+      "member": "hashimoto",
+      "title": "よう実フェスタ初回サイトOPEN",
+      "date": "2026-09-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1h3v996691g6p970mpqhrgnlcs@google.com"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】有休（7.5/18）",
       "date": "2026-09-28",
@@ -410,6 +470,26 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "inamine",
+      "title": " 【稲嶺】有給予定",
+      "date": "2026-11-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5dmcp7g60dul460bpottvevlhl@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "よう実フェスタ開催初日",
+      "date": "2026-11-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2602r4ih798461ehfg18i1p0q7@google.com"
     },
     {
       "member": "imai",
