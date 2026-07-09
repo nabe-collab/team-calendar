@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 09:25",
+  "updated": "2026-07-09 09:23",
   "events": [
     {
       "member": "nabe",
@@ -182,16 +182,6 @@
       "eventId": "2ga6heuf239dlnkr3urph97lcr@google.com"
     },
     {
-      "member": "imai",
-      "title": "労働保険料：銀行で納付",
-      "date": "2026-07-07",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "C6C8337E-30B2-428A-BDB2-047DCF603221"
-    },
-    {
       "member": "maruyama",
       "title": "【丸山】後半休 4.5/20.5",
       "date": "2026-07-07",
@@ -230,6 +220,26 @@
       "allDay": true,
       "location": "",
       "eventId": "082197E3-9242-4F06-848B-69C9EAFCB05D"
+    },
+    {
+      "member": "imai",
+      "title": "労働保険料納付（りそな銀行 中野支店）",
+      "date": "2026-07-09",
+      "startTime": "09:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "C6C8337E-30B2-428A-BDB2-047DCF603221"
+    },
+    {
+      "member": "imai",
+      "title": "FLAMP消防点検：午前(今井",
+      "date": "2026-07-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "D5ADC692-5222-4E3E-8905-6F86E014656A"
     },
     {
       "member": "moriya",
