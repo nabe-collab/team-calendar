@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09 09:23",
+  "updated": "2026-07-10 09:23",
   "events": [
     {
       "member": "nabe",
@@ -232,6 +232,16 @@
       "eventId": "C6C8337E-30B2-428A-BDB2-047DCF603221"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】AD_グランドパレス相模原サイト７月公開",
+      "date": "2026-07-10",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1jluk48r9f02939mgk8o69672i@google.com"
+    },
+    {
       "member": "imai",
       "title": "FLAMP消防点検：午前(今井",
       "date": "2026-07-10",
@@ -245,9 +255,9 @@
       "member": "moriya",
       "title": "グランドパレス更新",
       "date": "2026-07-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
       "location": "",
       "eventId": "BA38BB92-5E3B-45F7-BA03-10E43E2F9F78"
     },
@@ -263,11 +273,11 @@
     },
     {
       "member": "maruyama",
-      "title": "インデックス、「さよならアイリスウィッチ」7/10更新",
+      "title": "【12:00】インデックス、「さよならアイリスウィッチ」7/10更新",
       "date": "2026-07-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
       "location": "",
       "eventId": "5ba5svetbm09bdif6qhh233r4o@google.com"
     },
@@ -342,6 +352,16 @@
       "eventId": "651535s6hddpkpfnerdu5sc9j1@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】AD_昭和音大LPデザインチェック予定",
+      "date": "2026-07-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0630af1to12r21chotu3hfa8m8@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "MG16発売",
       "date": "2026-07-17",
@@ -350,6 +370,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2r74tnifvcl8t9sneacrs25op1@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_昭和音大LPコーディング着手予定",
+      "date": "2026-07-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5u7v4l0d2gv7bjsrrsjdt65ejb@google.com"
     },
     {
       "member": "maruyama",
@@ -362,6 +392,16 @@
       "eventId": "6hfk11hsk5lgft4emrejf4pjni@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】AD_昭和音大LP修正デザインチェック予定",
+      "date": "2026-07-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4n1k2jam13aghl1c2fqrb7nimo@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "コミックス発売",
       "date": "2026-07-23",
@@ -372,6 +412,26 @@
       "eventId": "1ff9mkkec731q386t3803jokod@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】AD_昭和音大LPテストアップ予定",
+      "date": "2026-07-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1p9fstv65tm8fnj9on4l5k4ppv@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "【稲嶺】有給 4.5/19",
+      "date": "2026-07-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "571rivp36c982e6ec8j3ae1laf@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "集英社サーバーメンテ21:00",
       "date": "2026-07-28",
@@ -380,6 +440,26 @@
       "allDay": false,
       "location": "",
       "eventId": "0thsqevig3g1ci6ad41hddsp59@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_昭和音大LP最終テストアップ予定",
+      "date": "2026-07-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0o7oqtfoirjna8t6tj12kcai2h@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_昭和音大LP公開予定",
+      "date": "2026-07-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0fdc6vbp082eoi26kt3u33os3k@google.com"
     },
     {
       "member": "imai",
