@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10 09:23",
+  "updated": "2026-07-11 09:24",
   "events": [
     {
       "member": "nabe",
@@ -273,6 +273,16 @@
     },
     {
       "member": "maruyama",
+      "title": "【12:00】超感謝フェア2026夏：ティザー公開",
+      "date": "2026-07-10",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "55hj764bnbd0koapigujdm4a6n@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "【12:00】インデックス、「さよならアイリスウィッチ」7/10更新",
       "date": "2026-07-10",
       "startTime": "12:00",
@@ -295,9 +305,9 @@
       "member": "nabe",
       "title": " 【渡邉】COVER_ホロアツサイト_本番公開",
       "date": "2026-07-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "allDay": false,
       "location": "",
       "eventId": "6o1gggtsfq3b05nh9k4hs9o642@google.com"
     },
@@ -352,6 +362,16 @@
       "eventId": "651535s6hddpkpfnerdu5sc9j1@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "超感謝フェア2026夏：本番サイト デザイン提出",
+      "date": "2026-07-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1hof4t38r2h7q34a1b2g43i481@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_昭和音大LPデザインチェック予定",
       "date": "2026-07-17",
@@ -360,6 +380,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0630af1to12r21chotu3hfa8m8@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "ULJ特設：デザイン出し",
+      "date": "2026-07-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2ju0houkoubgpguhg2mljegf69@google.com"
     },
     {
       "member": "hashimoto",
