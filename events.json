@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 09:23",
+  "updated": "2026-07-13 09:23",
   "events": [
     {
       "member": "nabe",
@@ -480,6 +480,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0o7oqtfoirjna8t6tj12kcai2h@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】休み",
+      "date": "2026-07-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "CA901C12-1A1B-4B16-B277-CFEC115E2DF3"
     },
     {
       "member": "nabe",
