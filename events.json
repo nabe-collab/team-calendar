@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13 09:23",
+  "updated": "2026-07-14 09:23",
   "events": [
     {
       "member": "nabe",
@@ -322,6 +322,46 @@
       "eventId": "123D47B2-FE70-4396-8C8C-F54222BE786B"
     },
     {
+      "member": "nabe",
+      "title": "定例打ち合わせ",
+      "date": "2026-07-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "定例打ち合わせ",
+      "date": "2026-07-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "定例打ち合わせ",
+      "date": "2026-07-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "丸亀定例",
+      "date": "2026-07-14",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "65BA6131-0B16-403D-B1D6-D9751F1E3638"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】後半休（6.5/18）",
       "date": "2026-07-14",
@@ -330,6 +370,46 @@
       "allDay": true,
       "location": "",
       "eventId": "D14A0F64-F6DB-4337-8AB6-58B1EE71D7CE"
+    },
+    {
+      "member": "kondo",
+      "title": "定例打ち合わせ",
+      "date": "2026-07-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "定例打ち合わせ",
+      "date": "2026-07-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "定例打ち合わせ",
+      "date": "2026-07-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "定例打ち合わせ",
+      "date": "2026-07-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
     },
     {
       "member": "hashimoto",
@@ -380,6 +460,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0630af1to12r21chotu3hfa8m8@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "献花サイト公開日",
+      "date": "2026-07-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "D6D31B55-DBE4-43CA-9992-DA2B0C143C46"
     },
     {
       "member": "maruyama",
