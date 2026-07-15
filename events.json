@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 09:23",
+  "updated": "2026-07-15 09:23",
   "events": [
     {
       "member": "nabe",
@@ -393,6 +393,16 @@
     },
     {
       "member": "hashimoto",
+      "title": "【橋本】出社",
+      "date": "2026-07-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2t7inm9fvojcaejp73f75pu4gc@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "定例打ち合わせ",
       "date": "2026-07-14",
       "startTime": "11:30",
@@ -410,6 +420,16 @@
       "allDay": false,
       "location": "",
       "eventId": "1b7326sl45hj83vn95eq25cpve@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "ME：Xサーバーログイン申請",
+      "date": "2026-07-15",
+      "startTime": "10:50",
+      "endTime": "11:50",
+      "allDay": false,
+      "location": "",
+      "eventId": "B1084D11-F10B-413B-B734-B15796DC18CA"
     },
     {
       "member": "hashimoto",
@@ -442,16 +462,6 @@
       "eventId": "651535s6hddpkpfnerdu5sc9j1@google.com"
     },
     {
-      "member": "maruyama",
-      "title": "超感謝フェア2026夏：本番サイト デザイン提出",
-      "date": "2026-07-16",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1hof4t38r2h7q34a1b2g43i481@google.com"
-    },
-    {
       "member": "nabe",
       "title": "【渡邉】AD_昭和音大LPデザインチェック予定",
       "date": "2026-07-17",
@@ -470,6 +480,16 @@
       "allDay": true,
       "location": "",
       "eventId": "D6D31B55-DBE4-43CA-9992-DA2B0C143C46"
+    },
+    {
+      "member": "maruyama",
+      "title": "超感謝フェア2026夏：本番サイト デザイン提出",
+      "date": "2026-07-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1hof4t38r2h7q34a1b2g43i481@google.com"
     },
     {
       "member": "maruyama",
@@ -494,12 +514,22 @@
     {
       "member": "nabe",
       "title": "【渡邉】AD_昭和音大LPコーディング着手予定",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
       "eventId": "5u7v4l0d2gv7bjsrrsjdt65ejb@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】休み",
+      "date": "2026-07-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7241BF25-1C14-4C5F-85D5-696564CA5B77"
     },
     {
       "member": "maruyama",
@@ -522,6 +552,16 @@
       "eventId": "4n1k2jam13aghl1c2fqrb7nimo@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "【ON】COVER：打ち合わせ",
+      "date": "2026-07-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3l42pjgvsu7n4cpv3enkds6e2l@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "コミックス発売",
       "date": "2026-07-23",
@@ -540,6 +580,16 @@
       "allDay": true,
       "location": "",
       "eventId": "1p9fstv65tm8fnj9on4l5k4ppv@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "電撃大賞32回特設：インデックス更新",
+      "date": "2026-07-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2knh8k4kbftp01aj78v8a3qfv9@google.com"
     },
     {
       "member": "inamine",
@@ -612,6 +662,16 @@
       "eventId": "2jp2ntiun5bspn6s796gn0cbk2@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 【渡邉】有休11/18（前期繰越3日＋15日）",
+      "date": "2026-08-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "sce6onbk6mn1r9r53lkh1epbvk@google.com"
+    },
+    {
       "member": "imai",
       "title": "会社指定夏休み",
       "date": "2026-08-10",
@@ -620,6 +680,26 @@
       "allDay": true,
       "location": "",
       "eventId": "0E4B5C5E-C60A-4AD1-9066-62FBB15A399A"
+    },
+    {
+      "member": "hashimoto",
+      "title": "秋の学園祭テスト",
+      "date": "2026-08-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "71s136eb9acmbrphtud18347ga@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "よう実フェスタ更新①",
+      "date": "2026-08-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2hst3gpbg3hb70agpiklmhmbv6@google.com"
     },
     {
       "member": "hashimoto",
@@ -643,13 +723,13 @@
     },
     {
       "member": "nabe",
-      "title": " 【渡邉】有休11/18（前期繰越3日＋15日）",
+      "title": " 【渡邉】有休10/18（前期繰越3日＋15日）",
       "date": "2026-09-04",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "sce6onbk6mn1r9r53lkh1epbvk@google.com"
+      "eventId": "0ge3hes7alep12dunmvpi0vics@google.com"
     },
     {
       "member": "imai",
@@ -692,6 +772,26 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】COVER_タレントライブ特設サイト公開",
+      "date": "2026-10-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1s7obf7cpkr87a8tl1ll49ov0j@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_タレントライブ特設サイト公開",
+      "date": "2026-10-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5mjpma1v6vc5ug5o9rlri1qcfq@google.com"
+    },
+    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-10-30",
@@ -700,6 +800,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_タレントライブ特設サイト公開",
+      "date": "2026-11-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1jclmopvugfe8begd869tmori9@google.com"
     },
     {
       "member": "inamine",
