@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 09:23",
+  "updated": "2026-07-16 09:23",
   "events": [
     {
       "member": "nabe",
@@ -462,6 +462,26 @@
       "eventId": "651535s6hddpkpfnerdu5sc9j1@google.com"
     },
     {
+      "member": "moriya",
+      "title": " hanes MTG",
+      "date": "2026-07-16",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "709F5568-952B-4961-AF04-4F50D33785C5"
+    },
+    {
+      "member": "moriya",
+      "title": "TACT MTG",
+      "date": "2026-07-16",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "20833F0D-1713-42CF-82FE-505781717CBA"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_昭和音大LPデザインチェック予定",
       "date": "2026-07-17",
@@ -470,6 +490,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0630af1to12r21chotu3hfa8m8@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】デジタル献花サイト公開",
+      "date": "2026-07-17",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "00nb4phm75dghm2fdg93t6hjgq@google.com"
     },
     {
       "member": "moriya",
@@ -523,6 +553,16 @@
     },
     {
       "member": "imai",
+      "title": "スタートライン連絡",
+      "date": "2026-07-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "D678F967-E178-4C75-A093-DA743C6E20D5"
+    },
+    {
+      "member": "imai",
       "title": "【今井】休み",
       "date": "2026-07-21",
       "startTime": "終日",
@@ -552,6 +592,36 @@
       "eventId": "4n1k2jam13aghl1c2fqrb7nimo@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": " 【橋本】有休15（6.5／40)",
+      "date": "2026-07-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3vak745f6o9jnfno3n83jfp6gp@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【聖地EXPO2026】C&S様MTG",
+      "date": "2026-07-23",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rennlhg5mbhsq9mqebtft0mms@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】アニメ&マンガ聖地EXPO",
+      "date": "2026-07-23",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "881E3403-60E6-4C09-9D7C-BCD4F6EDDFDF"
+    },
+    {
       "member": "maruyama",
       "title": "【ON】COVER：打ち合わせ",
       "date": "2026-07-23",
@@ -570,6 +640,16 @@
       "allDay": true,
       "location": "",
       "eventId": "1ff9mkkec731q386t3803jokod@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "【聖地EXPO2026】C&S様MTG",
+      "date": "2026-07-23",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "2rennlhg5mbhsq9mqebtft0mms@google.com"
     },
     {
       "member": "nabe",
@@ -600,6 +680,16 @@
       "allDay": true,
       "location": "",
       "eventId": "571rivp36c982e6ec8j3ae1laf@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【ON渡邉】COVER_新規ライブ「Hakos Baelzライブサイト」キックオフMTG",
+      "date": "2026-07-27",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "https://meet.google.com/xif-cyou-wgy",
+      "eventId": "6djs33q88fu38v67a7vc7r0h3f@google.com"
     },
     {
       "member": "hashimoto",
