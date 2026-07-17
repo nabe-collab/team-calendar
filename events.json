@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 09:23",
+  "updated": "2026-07-17 09:23",
   "events": [
     {
       "member": "nabe",
@@ -760,6 +760,16 @@
       "allDay": true,
       "location": "",
       "eventId": "sce6onbk6mn1r9r53lkh1epbvk@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "電撃32回「いけにえの君主論」初回公開",
+      "date": "2026-08-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0a28ntr7sb5bk41nakdra0o89p@google.com"
     },
     {
       "member": "imai",
