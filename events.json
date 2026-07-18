@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 09:23",
+  "updated": "2026-07-18 09:23",
   "events": [
     {
       "member": "nabe",
@@ -522,16 +522,6 @@
       "eventId": "1hof4t38r2h7q34a1b2g43i481@google.com"
     },
     {
-      "member": "maruyama",
-      "title": "ULJ特設：デザイン出し",
-      "date": "2026-07-17",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2ju0houkoubgpguhg2mljegf69@google.com"
-    },
-    {
       "member": "hashimoto",
       "title": "MG16発売",
       "date": "2026-07-17",
@@ -592,6 +582,26 @@
       "eventId": "4n1k2jam13aghl1c2fqrb7nimo@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "ULJ特設：デザイン出し",
+      "date": "2026-07-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2ju0houkoubgpguhg2mljegf69@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "LUNA文庫：ロゴ初稿提出",
+      "date": "2026-07-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5k1lnodcu33m7e0lvpt1niiod8@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": " 【橋本】有休15（6.5／40)",
       "date": "2026-07-22",
@@ -620,16 +630,6 @@
       "allDay": false,
       "location": "",
       "eventId": "881E3403-60E6-4C09-9D7C-BCD4F6EDDFDF"
-    },
-    {
-      "member": "maruyama",
-      "title": "【ON】COVER：打ち合わせ",
-      "date": "2026-07-23",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3l42pjgvsu7n4cpv3enkds6e2l@google.com"
     },
     {
       "member": "hashimoto",
@@ -662,6 +662,26 @@
       "eventId": "1p9fstv65tm8fnj9on4l5k4ppv@google.com"
     },
     {
+      "member": "moriya",
+      "title": "  marugame MTG",
+      "date": "2026-07-24",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7185B803-7600-49C2-9E3D-DB78EEAA36EE"
+    },
+    {
+      "member": "maruyama",
+      "title": "DIANA文庫：ロゴ初稿提出",
+      "date": "2026-07-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5iuamjqslkjdla0kaj4bh39831@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "電撃大賞32回特設：インデックス更新",
       "date": "2026-07-24",
@@ -683,6 +703,16 @@
     },
     {
       "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "【ON渡邉】COVER_新規ライブ「Hakos Baelzライブサイト」キックオフMTG",
       "date": "2026-07-27",
       "startTime": "14:00",
@@ -690,6 +720,76 @@
       "allDay": false,
       "location": "https://meet.google.com/xif-cyou-wgy",
       "eventId": "6djs33q88fu38v67a7vc7r0h3f@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【ON】COVER：打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3l42pjgvsu7n4cpv3enkds6e2l@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-07-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
     },
     {
       "member": "hashimoto",
