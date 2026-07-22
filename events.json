@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 09:23",
+  "updated": "2026-07-22 09:23",
   "events": [
     {
       "member": "nabe",
@@ -542,6 +542,16 @@
       "eventId": "5u7v4l0d2gv7bjsrrsjdt65ejb@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】AD_昭和音大LPコーディングMTG",
+      "date": "2026-07-21",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ec4vgvmj83j0prqovrdeg7h97@google.com"
+    },
+    {
       "member": "imai",
       "title": "スタートライン連絡",
       "date": "2026-07-21",
@@ -572,6 +582,16 @@
       "eventId": "6hfk11hsk5lgft4emrejf4pjni@google.com"
     },
     {
+      "member": "inamine",
+      "title": "【ON渡邉】AD_昭和音大LPコーディングMTG",
+      "date": "2026-07-21",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1ec4vgvmj83j0prqovrdeg7h97@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_昭和音大LP修正デザインチェック予定",
       "date": "2026-07-22",
@@ -580,6 +600,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4n1k2jam13aghl1c2fqrb7nimo@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "〜14時まで！！32回電撃大賞24日更新：テストアップ",
+      "date": "2026-07-22",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "33nsg5d1d2cnc7kv4vi105ql4u@google.com"
     },
     {
       "member": "maruyama",
@@ -880,6 +910,36 @@
       "allDay": true,
       "location": "",
       "eventId": "0E4B5C5E-C60A-4AD1-9066-62FBB15A399A"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】 有給予定\n",
+      "date": "2026-08-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "78E1706C-B0A0-4D78-B7D8-96E128E2003D"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】 有給予定\n",
+      "date": "2026-08-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "44A734EF-C7D4-4E30-8FDE-3A6CA08110A0"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】 有給予定\n",
+      "date": "2026-08-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "BE0A61E5-FEDB-448D-A671-CB35D85945DD"
     },
     {
       "member": "hashimoto",
