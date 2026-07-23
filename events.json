@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 09:23",
+  "updated": "2026-07-23 09:23",
   "events": [
     {
       "member": "nabe",
@@ -603,17 +603,7 @@
     },
     {
       "member": "maruyama",
-      "title": "〜14時まで！！32回電撃大賞24日更新：テストアップ",
-      "date": "2026-07-22",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "33nsg5d1d2cnc7kv4vi105ql4u@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "ULJ特設：デザイン出し",
+      "title": "ULJ特設：デザイン修正、他ページも出す",
       "date": "2026-07-22",
       "startTime": "終日",
       "endTime": "終日",
@@ -623,13 +613,13 @@
     },
     {
       "member": "maruyama",
-      "title": "LUNA文庫：ロゴ初稿提出",
+      "title": "〜14時まで！！32回電撃大賞24日更新：テストアップ",
       "date": "2026-07-22",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "5k1lnodcu33m7e0lvpt1niiod8@google.com"
+      "eventId": "33nsg5d1d2cnc7kv4vi105ql4u@google.com"
     },
     {
       "member": "hashimoto",
@@ -660,6 +650,16 @@
       "allDay": false,
       "location": "",
       "eventId": "881E3403-60E6-4C09-9D7C-BCD4F6EDDFDF"
+    },
+    {
+      "member": "maruyama",
+      "title": "【午前】LUNA文庫：ロゴ初稿提出",
+      "date": "2026-07-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5k1lnodcu33m7e0lvpt1niiod8@google.com"
     },
     {
       "member": "hashimoto",
@@ -703,7 +703,7 @@
     },
     {
       "member": "maruyama",
-      "title": "DIANA文庫：ロゴ初稿提出",
+      "title": "【午後】DIANA文庫：ロゴ初稿提出",
       "date": "2026-07-24",
       "startTime": "終日",
       "endTime": "終日",
