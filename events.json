@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 09:23",
+  "updated": "2026-07-24 09:23",
   "events": [
     {
       "member": "nabe",
@@ -692,6 +692,16 @@
       "eventId": "1p9fstv65tm8fnj9on4l5k4ppv@google.com"
     },
     {
+      "member": "imai",
+      "title": "午前中銀行確認",
+      "date": "2026-07-24",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "A5A5AED1-DC96-4BC6-82D1-EC655BB9FE22"
+    },
+    {
       "member": "moriya",
       "title": "  marugame MTG",
       "date": "2026-07-24",
@@ -713,11 +723,11 @@
     },
     {
       "member": "maruyama",
-      "title": "電撃大賞32回特設：インデックス更新",
+      "title": "【12:00】電撃大賞32回特設：インデックス更新",
       "date": "2026-07-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
       "location": "",
       "eventId": "2knh8k4kbftp01aj78v8a3qfv9@google.com"
     },
@@ -822,6 +832,46 @@
       "eventId": "6rrbtohe3u18fee2c1vethridv@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】蔡さん_めちゃコミックMTG",
+      "date": "2026-07-28",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmI4M2UyMWQtMDk1OS00N2U1LWJkM2YtMDBkNTMyNjIyZTE0%40thread.v2/0?context=%7b%22Tid%22%3a%22b18d9316-332f-4e26-8833-068c38e786ec%22%2c%22Oid%22%3a%2236aed111-f1c6-4e3e-8e64-1c7cf6480321%22%7d",
+      "eventId": "3pien3q6g4r99s8lgj90jdfbsl@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "めちゃコミック：蔡さん",
+      "date": "2026-07-28",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "0B58A435-0244-4822-BB91-8459479D8635"
+    },
+    {
+      "member": "imai",
+      "title": "仮）マンガ・アニメEXPO：紙媒体",
+      "date": "2026-07-28",
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "A447B54F-226E-4AD4-B11F-5AA92509046E"
+    },
+    {
+      "member": "maruyama",
+      "title": "【ON】めちゃコミック：打ち合わせ（蔡さん）",
+      "date": "2026-07-28",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1gbrhpds57lai1j2ku24dr6q0p@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "集英社サーバーメンテ21:00",
       "date": "2026-07-28",
@@ -850,6 +900,26 @@
       "allDay": true,
       "location": "",
       "eventId": "CA901C12-1A1B-4B16-B277-CFEC115E2DF3"
+    },
+    {
+      "member": "imai",
+      "title": "マンガ・アニメEXPO：紙媒体",
+      "date": "2026-07-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "253952B1-0E4B-465C-B8FE-B95949D377E5"
+    },
+    {
+      "member": "imai",
+      "title": "C&S様お顔合わせ（仮）",
+      "date": "2026-07-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "00aobqgc7pfvan7b9926a5lvsr@google.com"
     },
     {
       "member": "nabe",
@@ -940,6 +1010,16 @@
       "allDay": true,
       "location": "",
       "eventId": "BE0A61E5-FEDB-448D-A671-CB35D85945DD"
+    },
+    {
+      "member": "maruyama",
+      "title": "UJY「只野工業高校の日常」特設：htmlデータ納品？",
+      "date": "2026-08-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3t5gkanbl80sprjs6bhpqvbuqi@google.com"
     },
     {
       "member": "hashimoto",
