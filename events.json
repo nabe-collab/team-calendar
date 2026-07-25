@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 09:23",
+  "updated": "2026-07-25 09:23",
   "events": [
     {
       "member": "nabe",
@@ -922,6 +922,16 @@
       "eventId": "00aobqgc7pfvan7b9926a5lvsr@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "【橋本MTG】1500〜アニメ＆まんが聖地EXPO",
+      "date": "2026-07-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "4l1s2i9opmoqkubkijsp4tatel@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_昭和音大LP公開予定",
       "date": "2026-07-31",
@@ -952,6 +962,16 @@
       "eventId": "2jp2ntiun5bspn6s796gn0cbk2@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "32回電撃大賞7日更新：テストアップ",
+      "date": "2026-08-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2ro5imr0ibr9c24v947firp3dk@google.com"
+    },
+    {
       "member": "nabe",
       "title": " 【渡邉】有休11/18（前期繰越3日＋15日）",
       "date": "2026-08-04",
@@ -960,6 +980,16 @@
       "allDay": true,
       "location": "",
       "eventId": "sce6onbk6mn1r9r53lkh1epbvk@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 【12:00】電撃大賞32回特設：インデックス更新、『いけにえの君主論』公開",
+      "date": "2026-08-07",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "59hcu9k60h4tb9ihavs02s1pa0@google.com"
     },
     {
       "member": "hashimoto",
@@ -1142,6 +1172,26 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "kondo",
+      "title": "【近藤】後半休（n/18）",
+      "date": "2026-11-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "F30ADDA3-1DB1-408D-BD6E-17E60B3ACA14"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】後半休（n/18）",
+      "date": "2026-11-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "B509C22D-0BE9-496B-A7F4-EB0544B4DCBA"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】COVER_タレントライブ特設サイト公開",
       "date": "2026-11-13",
@@ -1180,6 +1230,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】後半休（n/18）",
+      "date": "2026-12-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4B175D20-74CD-4529-9227-3B5E79FB635F"
     },
     {
       "member": "imai",
