@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27 09:23",
+  "updated": "2026-07-28 09:23",
   "events": [
     {
       "member": "nabe",
@@ -713,16 +713,6 @@
     },
     {
       "member": "maruyama",
-      "title": "【午後】DIANA文庫：ロゴ初稿提出",
-      "date": "2026-07-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5iuamjqslkjdla0kaj4bh39831@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "【12:00】電撃大賞32回特設：インデックス更新",
       "date": "2026-07-24",
       "startTime": "12:00",
@@ -793,6 +783,26 @@
     },
     {
       "member": "maruyama",
+      "title": "32回電撃大賞7月：見積もり出す",
+      "date": "2026-07-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6cp9s698mtk33nj1fo0d3rrfce@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【午後】DIANA文庫：ロゴ初稿提出",
+      "date": "2026-07-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5iuamjqslkjdla0kaj4bh39831@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": " 定例打ち合わせ",
       "date": "2026-07-27",
       "startTime": "11:30",
@@ -852,14 +862,14 @@
       "eventId": "0B58A435-0244-4822-BB91-8459479D8635"
     },
     {
-      "member": "imai",
-      "title": "仮）マンガ・アニメEXPO：紙媒体",
+      "member": "maruyama",
+      "title": "UYJ：デザイン修正、大越さんに連絡する",
       "date": "2026-07-28",
-      "startTime": "14:00",
-      "endTime": "18:00",
-      "allDay": false,
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
       "location": "",
-      "eventId": "A447B54F-226E-4AD4-B11F-5AA92509046E"
+      "eventId": "1dtv6adhtrv9if5ds1u5v49cri@google.com"
     },
     {
       "member": "maruyama",
@@ -870,6 +880,16 @@
       "allDay": false,
       "location": "",
       "eventId": "1gbrhpds57lai1j2ku24dr6q0p@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "超感謝フェア7月31日更新：修正しつつテストアップ",
+      "date": "2026-07-28",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "5rc0lph45ps9uo3uhd3ja5vdus@google.com"
     },
     {
       "member": "hashimoto",
@@ -903,6 +923,16 @@
     },
     {
       "member": "imai",
+      "title": "C&S様お顔合わせ（仮）",
+      "date": "2026-07-30",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "00aobqgc7pfvan7b9926a5lvsr@google.com"
+    },
+    {
+      "member": "imai",
       "title": "マンガ・アニメEXPO：紙媒体",
       "date": "2026-07-30",
       "startTime": "15:00",
@@ -912,14 +942,14 @@
       "eventId": "253952B1-0E4B-465C-B8FE-B95949D377E5"
     },
     {
-      "member": "imai",
-      "title": "C&S様お顔合わせ（仮）",
+      "member": "maruyama",
+      "title": "UYJ：コーディング社内チェック",
       "date": "2026-07-30",
-      "startTime": "15:00",
-      "endTime": "16:00",
-      "allDay": false,
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
       "location": "",
-      "eventId": "00aobqgc7pfvan7b9926a5lvsr@google.com"
+      "eventId": "1p0qndfd19o4mjo3f7t5c4d81f@google.com"
     },
     {
       "member": "hashimoto",
@@ -952,6 +982,26 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "moriya",
+      "title": "【森屋】午後半休予定",
+      "date": "2026-07-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "21A042C8-E4AA-4B44-A9B3-1454DA7EFC7C"
+    },
+    {
+      "member": "maruyama",
+      "title": "【COVER】ライブサイト：デザイン社内チェック",
+      "date": "2026-07-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0q560bp82520bsi4qntreluveq@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "【丸山】後半休 6.5/20.5",
       "date": "2026-07-31",
@@ -960,6 +1010,26 @@
       "allDay": true,
       "location": "",
       "eventId": "2jp2ntiun5bspn6s796gn0cbk2@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "ココハナ1日更新",
+      "date": "2026-08-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2q2ds3onbbbj2rmjkeu61e58ji@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "UYJ：初回テストアップ",
+      "date": "2026-08-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1vsnoh1ksfro96nhr1bda0q76u@google.com"
     },
     {
       "member": "maruyama",
@@ -972,6 +1042,16 @@
       "eventId": "2ro5imr0ibr9c24v947firp3dk@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "MG 17テスト",
+      "date": "2026-08-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7tklj00ic18ufk8a8fm9932ube@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】有休11/18（前期繰越3日＋15日）",
       "date": "2026-08-04",
@@ -980,6 +1060,26 @@
       "allDay": true,
       "location": "",
       "eventId": "sce6onbk6mn1r9r53lkh1epbvk@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【COVER】ライブサイト：デザイン初稿提出",
+      "date": "2026-08-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "29vimcbail814l6m2qovum4j9c@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG 17公開",
+      "date": "2026-08-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2m2js0gsbrkj1gmr8iajnpuit3@google.com"
     },
     {
       "member": "maruyama",
