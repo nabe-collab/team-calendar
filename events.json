@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03 09:23",
+  "updated": "2026-08-04 09:24",
   "events": [
     {
       "member": "hashimoto",
@@ -73,16 +73,6 @@
     },
     {
       "member": "maruyama",
-      "title": "UYJ：初回テストアップ",
-      "date": "2026-08-03",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1vsnoh1ksfro96nhr1bda0q76u@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "32回電撃大賞7日更新：テストアップ",
       "date": "2026-08-03",
       "startTime": "終日",
@@ -140,6 +130,26 @@
       "allDay": true,
       "location": "",
       "eventId": "sce6onbk6mn1r9r53lkh1epbvk@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " UYJ：修正版テストアップ",
+      "date": "2026-08-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7bajfp6q1uevkr72bb0aqocr9k@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "つぎラノのご説明mtg",
+      "date": "2026-08-05",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3i7pfk82fjn0a018m9jfve1ot3@google.com"
     },
     {
       "member": "imai",
@@ -282,6 +292,16 @@
       "eventId": "7gl18qhfq6526jkuev31ka5rgq@google.com"
     },
     {
+      "member": "inamine",
+      "title": "【稲嶺】有給 5.5/19",
+      "date": "2026-08-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2nlqc0hheslhulmcd3rbgdps4e@google.com"
+    },
+    {
       "member": "moriya",
       "title": " 【森屋】 有給予定\n",
       "date": "2026-08-13",
@@ -383,16 +403,6 @@
     },
     {
       "member": "hashimoto",
-      "title": "よう実フェスタ更新①",
-      "date": "2026-08-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2hst3gpbg3hb70agpiklmhmbv6@google.com"
-    },
-    {
-      "member": "hashimoto",
       "title": "秋の学園祭2026更新①",
       "date": "2026-08-25",
       "startTime": "終日",
@@ -410,6 +420,16 @@
       "allDay": true,
       "location": "",
       "eventId": "3p3vue25fmnmqo44ebi4lkpc85@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "SAO更新",
+      "date": "2026-08-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4d11c7qthd64rfbisevefdcak9@google.com"
     },
     {
       "member": "imai",
@@ -443,7 +463,7 @@
     },
     {
       "member": "inamine",
-      "title": "【稲嶺】有給 5.5/19",
+      "title": "【稲嶺】有給 6.5/19",
       "date": "2026-09-11",
       "startTime": "終日",
       "endTime": "終日",
