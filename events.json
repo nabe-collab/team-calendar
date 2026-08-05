@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 09:24",
+  "updated": "2026-08-05 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -190,6 +190,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2m2js0gsbrkj1gmr8iajnpuit3@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【次ラノ】MTG1500~",
+      "date": "2026-08-05",
+      "startTime": "14:50",
+      "endTime": "15:20",
+      "allDay": false,
+      "location": "",
+      "eventId": "4nbj3f1ej5l79qdqccl4d8kgfh@google.com"
     },
     {
       "member": "hashimoto",
