@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 09:23",
+  "updated": "2026-08-06 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -152,6 +152,16 @@
       "eventId": "3i7pfk82fjn0a018m9jfve1ot3@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】エリアドライブ_サンクレイドルサイトMTG",
+      "date": "2026-08-05",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "https://teams.microsoft.com/meet/443243411996709?p=E7cNK3tIodk7wlJAE9",
+      "eventId": "307ple2nmgkk6hq85vb26bphs2@google.com"
+    },
+    {
       "member": "imai",
       "title": "つぎラノのご説明mtg",
       "date": "2026-08-05",
@@ -263,6 +273,16 @@
     },
     {
       "member": "hashimoto",
+      "title": "次らの見積もり出し",
+      "date": "2026-08-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7k8i9bgdcns2mutlhharsvp2q9@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "電撃32回「いけにえの君主論」初回公開",
       "date": "2026-08-07",
       "startTime": "終日",
@@ -290,6 +310,16 @@
       "allDay": true,
       "location": "",
       "eventId": "78E1706C-B0A0-4D78-B7D8-96E128E2003D"
+    },
+    {
+      "member": "maruyama",
+      "title": "天海社：メガネ男子の独占愛ロゴ 初稿",
+      "date": "2026-08-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4q6ohnorjjbgm0dq3o84g9fr7g@google.com"
     },
     {
       "member": "maruyama",
