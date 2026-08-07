@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06 09:23",
+  "updated": "2026-08-07 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -242,6 +242,16 @@
       "eventId": "18e919ipfihq633oe83orfmgsu@google.com"
     },
     {
+      "member": "imai",
+      "title": "今井午後休み",
+      "date": "2026-08-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "68E230B1-0F5D-4670-8F2F-163C76775A1C"
+    },
+    {
       "member": "moriya",
       "title": "フェーズ3.1 TACT提出",
       "date": "2026-08-07",
@@ -380,6 +390,16 @@
       "allDay": true,
       "location": "",
       "eventId": "3t5gkanbl80sprjs6bhpqvbuqi@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "今井）ソニー生命電話来る",
+      "date": "2026-08-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4F681A46-BBA4-4E49-98A3-0EECC1B1C18A"
     },
     {
       "member": "hashimoto",
