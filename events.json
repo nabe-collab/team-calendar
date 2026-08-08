@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07 09:23",
+  "updated": "2026-08-08 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -352,6 +352,16 @@
       "eventId": "2nlqc0hheslhulmcd3rbgdps4e@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【ON渡邉】COVER_REGALIA-live_site_MTG",
+      "date": "2026-08-13",
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6jft44uass835a21vih9te57s6@google.com"
+    },
+    {
       "member": "moriya",
       "title": " 【森屋】 有給予定\n",
       "date": "2026-08-13",
@@ -520,6 +530,16 @@
       "allDay": false,
       "location": "",
       "eventId": "C06C3529-BE36-465F-94CB-9FA5CD627B35"
+    },
+    {
+      "member": "hashimoto",
+      "title": "いけにえの君主論：更新",
+      "date": "2026-09-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3ca6rk6h6mmhnlh1vcj5cg6pbd@google.com"
     },
     {
       "member": "inamine",
