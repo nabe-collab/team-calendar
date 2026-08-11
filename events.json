@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10 09:23",
+  "updated": "2026-08-11 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -310,6 +310,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0E4B5C5E-C60A-4AD1-9066-62FBB15A399A"
+    },
+    {
+      "member": "imai",
+      "title": "みずほ銀行:青葉台支店",
+      "date": "2026-08-12",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "127D219F-B396-4DD3-8539-54970F8A53A7"
     },
     {
       "member": "moriya",
