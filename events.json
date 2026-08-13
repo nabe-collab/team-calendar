@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12 09:23",
+  "updated": "2026-08-13 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -323,23 +323,13 @@
     },
     {
       "member": "moriya",
-      "title": " 【森屋】 有給予定\n",
+      "title": " 【森屋】 午前半休 (4/28)\n",
       "date": "2026-08-12",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
       "eventId": "78E1706C-B0A0-4D78-B7D8-96E128E2003D"
-    },
-    {
-      "member": "maruyama",
-      "title": "天海社：メガネ男子の独占愛ロゴ 初稿",
-      "date": "2026-08-12",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "4q6ohnorjjbgm0dq3o84g9fr7g@google.com"
     },
     {
       "member": "maruyama",
@@ -350,6 +340,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7gl18qhfq6526jkuev31ka5rgq@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "天海社：メガネ男子の独占愛ロゴ 初稿",
+      "date": "2026-08-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4q6ohnorjjbgm0dq3o84g9fr7g@google.com"
     },
     {
       "member": "inamine",
@@ -380,6 +380,16 @@
       "allDay": true,
       "location": "",
       "eventId": "44A734EF-C7D4-4E30-8FDE-3A6CA08110A0"
+    },
+    {
+      "member": "maruyama",
+      "title": "12:00 COVER打ち合わせ",
+      "date": "2026-08-13",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "pubmma4iinil773e1brsmujkes@google.com"
     },
     {
       "member": "moriya",
@@ -432,6 +442,16 @@
       "eventId": "71s136eb9acmbrphtud18347ga@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "MG18号テスト",
+      "date": "2026-08-18",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0si398ptbgafkpqn0p49ojjbdd@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】有休10/18（前期繰越3日＋15日）、 8月4日(火)",
       "date": "2026-08-20",
@@ -462,6 +482,16 @@
       "eventId": "2jr0kj9qhkdhknd38dbmfu7q38@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "MG18号発売",
+      "date": "2026-08-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "46irr8l6fv3socdcqg8c98qbno@google.com"
+    },
+    {
       "member": "moriya",
       "title": "フェーズ3.1 PLAID 提出",
       "date": "2026-08-24",
@@ -470,6 +500,16 @@
       "allDay": false,
       "location": "",
       "eventId": "D57E8A79-58F7-474B-936C-608462942051"
+    },
+    {
+      "member": "maruyama",
+      "title": "32回電撃大賞31日更新：テストアップ",
+      "date": "2026-08-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6l5uu885p8esmtsv681gitqpma@google.com"
     },
     {
       "member": "maruyama",
@@ -520,6 +560,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "hashimoto",
+      "title": "いけにえテスト",
+      "date": "2026-09-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5gim6rpttbglf63u1i0923vg2n@google.com"
     },
     {
       "member": "nabe",
