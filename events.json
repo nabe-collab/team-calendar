@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13 09:23",
+  "updated": "2026-08-14 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -333,16 +333,6 @@
     },
     {
       "member": "maruyama",
-      "title": " UYJ「只野工業高校の日常」：タグなど入れ込んで修正最終",
-      "date": "2026-08-12",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7gl18qhfq6526jkuev31ka5rgq@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "天海社：メガネ男子の独占愛ロゴ 初稿",
       "date": "2026-08-12",
       "startTime": "終日",
@@ -368,18 +358,8 @@
       "startTime": "12:00",
       "endTime": "12:30",
       "allDay": false,
-      "location": "",
+      "location": "https://meet.google.com/mky-qqoy-gah",
       "eventId": "6jft44uass835a21vih9te57s6@google.com"
-    },
-    {
-      "member": "moriya",
-      "title": " 【森屋】 有給予定\n",
-      "date": "2026-08-13",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "44A734EF-C7D4-4E30-8FDE-3A6CA08110A0"
     },
     {
       "member": "maruyama",
@@ -390,6 +370,16 @@
       "allDay": false,
       "location": "",
       "eventId": "pubmma4iinil773e1brsmujkes@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "電撃大賞32回特設：8月見積もり出す",
+      "date": "2026-08-13",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1e0gqi36qjmmsar6rb3tave1bu@google.com"
     },
     {
       "member": "moriya",
@@ -440,6 +430,16 @@
       "allDay": true,
       "location": "",
       "eventId": "71s136eb9acmbrphtud18347ga@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "アニメ＆まんが聖地：9/1テキストテストアップ",
+      "date": "2026-08-18",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "B1B5BA9A-157A-44B2-8C4B-092DCF002935"
     },
     {
       "member": "hashimoto",
@@ -503,6 +503,16 @@
     },
     {
       "member": "maruyama",
+      "title": "角川漫画新人大賞9/1更新：テストアップ",
+      "date": "2026-08-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "53isj01ca8g3qg19ojde9ii0bk@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "32回電撃大賞31日更新：テストアップ",
       "date": "2026-08-24",
       "startTime": "終日",
@@ -530,6 +540,26 @@
       "allDay": true,
       "location": "",
       "eventId": "6o1nhi642n3qitlo7h85c6t0s8@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【ME】内部静的テストアップ",
+      "date": "2026-08-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2E23EB4F-4D50-46A3-AE6B-8B5DCEFC8D21"
+    },
+    {
+      "member": "imai",
+      "title": "【ME】先方静的テストアップ＆WP化スタート",
+      "date": "2026-08-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6B091B61-B941-4154-A330-507199DB83DC"
     },
     {
       "member": "maruyama",
@@ -562,6 +592,16 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "imai",
+      "title": "アニメまんが聖地＊サイト：9/1テキスト公開",
+      "date": "2026-09-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6DE6C04E-1D72-48BF-B47A-AFBDEAA13EF4"
+    },
+    {
       "member": "hashimoto",
       "title": "いけにえテスト",
       "date": "2026-09-03",
@@ -580,6 +620,26 @@
       "allDay": true,
       "location": "",
       "eventId": "0ge3hes7alep12dunmvpi0vics@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【ME】WP化テストアップ",
+      "date": "2026-09-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7775FFE0-355A-4CF7-B9F6-DC6C7235E21F"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地＊サイト：10/1新規ページのみデザインチェック",
+      "date": "2026-09-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "16933B5D-6F86-4A7C-A2B2-90F7D3C722C2"
     },
     {
       "member": "imai",
@@ -612,6 +672,36 @@
       "eventId": "0m8v61hf74rh84ac24nhc8upbr@google.com"
     },
     {
+      "member": "imai",
+      "title": "アニメまんが聖地＊サイト：10/1・1回目テストアップ",
+      "date": "2026-09-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "16782683-E019-42CA-A6CB-34972FF35EE8"
+    },
+    {
+      "member": "imai",
+      "title": "【ME】本番公開",
+      "date": "2026-09-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "180CC4DE-055E-4F32-8C6A-67F7E5A90D2D"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地＊サイト：10/1テストアップ",
+      "date": "2026-09-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "FF88447F-D8C0-4BF2-BB72-6BA8D2669A27"
+    },
+    {
       "member": "hashimoto",
       "title": "よう実フェスタ初回サイトOPEN",
       "date": "2026-09-25",
@@ -640,6 +730,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地＊サイト：10/1公開",
+      "date": "2026-10-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4CDE9FB9-FF4F-484D-B404-EA5385A936BD"
     },
     {
       "member": "nabe",
