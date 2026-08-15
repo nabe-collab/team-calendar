@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14 09:23",
+  "updated": "2026-08-15 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -382,16 +382,6 @@
       "eventId": "1e0gqi36qjmmsar6rb3tave1bu@google.com"
     },
     {
-      "member": "moriya",
-      "title": " 【森屋】 有給予定\n",
-      "date": "2026-08-14",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "BE0A61E5-FEDB-448D-A671-CB35D85945DD"
-    },
-    {
       "member": "maruyama",
       "title": "「delulu」：ロゴ初稿デザイン（3〜4案）",
       "date": "2026-08-14",
@@ -412,6 +402,26 @@
       "eventId": "3t5gkanbl80sprjs6bhpqvbuqi@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "集英社：請求書出す",
+      "date": "2026-08-14",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3608g7c2vu3vq67fl5cui0uhl5@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r11furess3002vp5ro1ccqalb@google.com"
+    },
+    {
       "member": "imai",
       "title": "今井）ソニー生命電話来る",
       "date": "2026-08-17",
@@ -422,6 +432,46 @@
       "eventId": "4F681A46-BBA4-4E49-98A3-0EECC1B1C18A"
     },
     {
+      "member": "imai",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r11furess3002vp5ro1ccqalb@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r11furess3002vp5ro1ccqalb@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r11furess3002vp5ro1ccqalb@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r11furess3002vp5ro1ccqalb@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "秋の学園祭テスト",
       "date": "2026-08-17",
@@ -430,6 +480,26 @@
       "allDay": true,
       "location": "",
       "eventId": "71s136eb9acmbrphtud18347ga@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r11furess3002vp5ro1ccqalb@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5r11furess3002vp5ro1ccqalb@google.com"
     },
     {
       "member": "imai",
@@ -450,6 +520,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0si398ptbgafkpqn0p49ojjbdd@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "COVER：コーディング開始",
+      "date": "2026-08-19",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1ljiagtghucs3a9mn321b959kd@google.com"
     },
     {
       "member": "nabe",
