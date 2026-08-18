@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 09:23",
+  "updated": "2026-08-18 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -532,6 +532,16 @@
       "eventId": "1ljiagtghucs3a9mn321b959kd@google.com"
     },
     {
+      "member": "inamine",
+      "title": "【稲嶺】有給 6.5/19",
+      "date": "2026-08-19",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6hl1ebhvkpolb1cqf61n7v1epq@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】有休10/18（前期繰越3日＋15日）、 8月4日(火)",
       "date": "2026-08-20",
@@ -552,6 +562,16 @@
       "eventId": "jsjp6r1lq9qreuiu5k5die8c0o@google.com"
     },
     {
+      "member": "imai",
+      "title": "【今井】午後休み",
+      "date": "2026-08-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "E5850A4F-AE31-44E7-9E84-AF5CA5C0861C"
+    },
+    {
       "member": "maruyama",
       "title": "「delulu」：目次・扉・奥付初稿デザイン、ロゴ修正デザイン",
       "date": "2026-08-20",
@@ -570,6 +590,16 @@
       "allDay": true,
       "location": "",
       "eventId": "46irr8l6fv3socdcqg8c98qbno@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "スタートライン連絡",
+      "date": "2026-08-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "DF9A0DF8-B1C4-45E4-BE5E-3BEE10BDAB64"
     },
     {
       "member": "moriya",
@@ -663,6 +693,16 @@
     },
     {
       "member": "imai",
+      "title": "今井）ソニー生命電話来る",
+      "date": "2026-08-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "47E5989F-27E0-45CF-8E9D-2771F1581075"
+    },
+    {
+      "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-08-31",
       "startTime": "終日",
@@ -743,7 +783,7 @@
     },
     {
       "member": "inamine",
-      "title": "【稲嶺】有給 6.5/19",
+      "title": "【稲嶺】有給 7.5/19",
       "date": "2026-09-11",
       "startTime": "終日",
       "endTime": "終日",
