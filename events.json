@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20 09:23",
+  "updated": "2026-08-21 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -473,6 +473,16 @@
     },
     {
       "member": "hashimoto",
+      "title": " 【橋本】出社",
+      "date": "2026-08-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5o6bun9ajjhd75t7f39q99bfn8@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "秋の学園祭テスト",
       "date": "2026-08-17",
       "startTime": "終日",
@@ -582,16 +592,6 @@
       "eventId": "E5850A4F-AE31-44E7-9E84-AF5CA5C0861C"
     },
     {
-      "member": "maruyama",
-      "title": "「delulu」：目次・扉・奥付初稿デザイン、ロゴ修正デザイン",
-      "date": "2026-08-20",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2jr0kj9qhkdhknd38dbmfu7q38@google.com"
-    },
-    {
       "member": "hashimoto",
       "title": "MG18号発売",
       "date": "2026-08-20",
@@ -610,6 +610,26 @@
       "allDay": true,
       "location": "",
       "eventId": "DF9A0DF8-B1C4-45E4-BE5E-3BEE10BDAB64"
+    },
+    {
+      "member": "maruyama",
+      "title": "大越さんor斉藤さん：電撃コーディング聞く",
+      "date": "2026-08-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6c40a5jqsovc7up987dge3288c@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「delulu」：目次・扉・奥付初稿デザイン、ロゴ修正デザイン",
+      "date": "2026-08-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2jr0kj9qhkdhknd38dbmfu7q38@google.com"
     },
     {
       "member": "moriya",
@@ -672,6 +692,16 @@
       "eventId": "2E23EB4F-4D50-46A3-AE6B-8B5DCEFC8D21"
     },
     {
+      "member": "hashimoto",
+      "title": "SAO更新",
+      "date": "2026-08-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4d11c7qthd64rfbisevefdcak9@google.com"
+    },
+    {
       "member": "imai",
       "title": "【ME】先方静的テストアップ＆WP化スタート",
       "date": "2026-08-28",
@@ -693,13 +723,13 @@
     },
     {
       "member": "hashimoto",
-      "title": "SAO更新",
+      "title": "【橋本】有休15（7.5／40)",
       "date": "2026-08-28",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "4d11c7qthd64rfbisevefdcak9@google.com"
+      "eventId": "6mvi01rr3n3eobrpt7fhal63u5@google.com"
     },
     {
       "member": "imai",
@@ -833,6 +863,16 @@
     },
     {
       "member": "hashimoto",
+      "title": "よう実有償特典更新",
+      "date": "2026-09-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "76earl76pgamhv8045d4e4tchk@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "よう実フェスタ初回サイトOPEN",
       "date": "2026-09-25",
       "startTime": "終日",
@@ -882,6 +922,16 @@
       "eventId": "1s7obf7cpkr87a8tl1ll49ov0j@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "よう実10月中旬店舗特典更新",
+      "date": "2026-10-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3m7khuac5j1u6jn4li0d4hku6v@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】COVER_タレントライブ特設サイト公開",
       "date": "2026-10-11",
@@ -890,6 +940,26 @@
       "allDay": true,
       "location": "",
       "eventId": "5mjpma1v6vc5ug5o9rlri1qcfq@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "よう実連動CPオープン",
+      "date": "2026-10-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0khec3r91r54f6qvnihs6hdf91@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " よう実　３年生編５発売日更新",
+      "date": "2026-10-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7d216ekfku6dqui16n30sufldr@google.com"
     },
     {
       "member": "imai",
