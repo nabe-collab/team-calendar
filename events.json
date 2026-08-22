@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21 09:23",
+  "updated": "2026-08-22 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -632,6 +632,26 @@
       "eventId": "2jr0kj9qhkdhknd38dbmfu7q38@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-08-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-08-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
+    },
+    {
       "member": "moriya",
       "title": "フェーズ3.1 PLAID 提出",
       "date": "2026-08-24",
@@ -640,6 +660,26 @@
       "allDay": false,
       "location": "",
       "eventId": "D57E8A79-58F7-474B-936C-608462942051"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-08-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-08-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
     },
     {
       "member": "maruyama",
@@ -660,6 +700,36 @@
       "allDay": true,
       "location": "",
       "eventId": "6l5uu885p8esmtsv681gitqpma@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-08-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-08-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-08-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
     },
     {
       "member": "maruyama",
@@ -730,6 +800,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6mvi01rr3n3eobrpt7fhal63u5@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【ON渡邉】COVER _新規ライト２サイトキックオフMTG",
+      "date": "2026-08-31",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "https://meet.google.com/fub-kwij-zew",
+      "eventId": "0nhndi609ba5tallru3i1m8pq1@google.com"
     },
     {
       "member": "imai",
