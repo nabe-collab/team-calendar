@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23 09:23",
+  "updated": "2026-08-24 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -760,6 +760,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2E23EB4F-4D50-46A3-AE6B-8B5DCEFC8D21"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】休み",
+      "date": "2026-08-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "21000411-D896-4E1B-ADCF-CF4549953D35"
     },
     {
       "member": "hashimoto",
