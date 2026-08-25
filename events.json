@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24 09:23",
+  "updated": "2026-08-25 09:24",
   "events": [
     {
       "member": "hashimoto",
@@ -612,26 +612,6 @@
       "eventId": "DF9A0DF8-B1C4-45E4-BE5E-3BEE10BDAB64"
     },
     {
-      "member": "maruyama",
-      "title": "大越さんor斉藤さん：電撃コーディング聞く",
-      "date": "2026-08-21",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6c40a5jqsovc7up987dge3288c@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "「delulu」：目次・扉・奥付初稿デザイン、ロゴ修正デザイン",
-      "date": "2026-08-21",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2jr0kj9qhkdhknd38dbmfu7q38@google.com"
-    },
-    {
       "member": "nabe",
       "title": " 定例打ち合わせ",
       "date": "2026-08-24",
@@ -683,16 +663,6 @@
     },
     {
       "member": "maruyama",
-      "title": "角川漫画新人大賞9/1更新：テストアップ",
-      "date": "2026-08-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "53isj01ca8g3qg19ojde9ii0bk@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "32回電撃大賞31日更新：テストアップ",
       "date": "2026-08-24",
       "startTime": "終日",
@@ -732,6 +702,26 @@
       "eventId": "643di0d4hjcm391lga7e4ualhh@google.com"
     },
     {
+      "member": "moriya",
+      "title": "新規予定",
+      "date": "2026-08-25",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "FCDFEC12-FEBE-4FFB-9474-C2716BB8A064"
+    },
+    {
+      "member": "maruyama",
+      "title": "大越さんor斉藤さん：電撃コーディング聞く",
+      "date": "2026-08-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6c40a5jqsovc7up987dge3288c@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "後半 【丸山】後半休 7/20.5",
       "date": "2026-08-25",
@@ -740,6 +730,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0gcj5g7agp93l7ndqc558am0qe@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "角川漫画新人大賞9/1更新：テストアップ",
+      "date": "2026-08-25",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "53isj01ca8g3qg19ojde9ii0bk@google.com"
     },
     {
       "member": "hashimoto",
@@ -763,7 +763,7 @@
     },
     {
       "member": "imai",
-      "title": "【今井】休み",
+      "title": "【今井】午後休み",
       "date": "2026-08-27",
       "startTime": "終日",
       "endTime": "終日",
@@ -780,6 +780,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4d11c7qthd64rfbisevefdcak9@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "阿南さんからhtmlデータ納品予定",
+      "date": "2026-08-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1ue0rp8oipjav74io6kvaehkbl@google.com"
     },
     {
       "member": "imai",
