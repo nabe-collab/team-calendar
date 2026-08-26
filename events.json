@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25 09:24",
+  "updated": "2026-08-26 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -703,7 +703,7 @@
     },
     {
       "member": "moriya",
-      "title": "新規予定",
+      "title": "プラグインアップデート",
       "date": "2026-08-25",
       "startTime": "13:00",
       "endTime": "14:00",
@@ -735,8 +735,8 @@
       "member": "maruyama",
       "title": "角川漫画新人大賞9/1更新：テストアップ",
       "date": "2026-08-25",
-      "startTime": "10:00",
-      "endTime": "11:00",
+      "startTime": "11:00",
+      "endTime": "12:00",
       "allDay": false,
       "location": "",
       "eventId": "53isj01ca8g3qg19ojde9ii0bk@google.com"
@@ -852,6 +852,26 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "maruyama",
+      "title": "DIANA文庫：ロゴ提出（9/7納品）",
+      "date": "2026-08-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7qr2132tc170a34npco8st3c2m@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】ホロアツ_各クローズ対応更新版公開",
+      "date": "2026-09-01",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "76da4f7kav7d3sluiepm73f053@google.com"
+    },
+    {
       "member": "imai",
       "title": "アニメまんが聖地＊サイト：9/1テキスト公開",
       "date": "2026-09-01",
@@ -860,6 +880,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6DE6C04E-1D72-48BF-B47A-AFBDEAA13EF4"
+    },
+    {
+      "member": "maruyama",
+      "title": "32回電撃大賞9月10日更新：テストアップ",
+      "date": "2026-09-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7mq6mjs3133kav90anksmmsv0s@google.com"
     },
     {
       "member": "hashimoto",
@@ -910,6 +940,16 @@
       "allDay": false,
       "location": "",
       "eventId": "C06C3529-BE36-465F-94CB-9FA5CD627B35"
+    },
+    {
+      "member": "maruyama",
+      "title": "32回電撃大賞：インデックス更新、「新編古典恋心中」公開",
+      "date": "2026-09-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6siki20i5k0to8eq8kfmqgh4vi@google.com"
     },
     {
       "member": "hashimoto",
