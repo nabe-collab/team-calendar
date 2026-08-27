@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 09:23",
+  "updated": "2026-08-27 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -713,16 +713,6 @@
     },
     {
       "member": "maruyama",
-      "title": "大越さんor斉藤さん：電撃コーディング聞く",
-      "date": "2026-08-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6c40a5jqsovc7up987dge3288c@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "後半 【丸山】後半休 7/20.5",
       "date": "2026-08-25",
       "startTime": "終日",
@@ -752,18 +742,28 @@
       "eventId": "6o1nhi642n3qitlo7h85c6t0s8@google.com"
     },
     {
-      "member": "imai",
-      "title": "【ME】内部静的テストアップ",
+      "member": "maruyama",
+      "title": " 「delulu」：目次・扉・奥付、修正ロゴデザイン提出",
       "date": "2026-08-26",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "2E23EB4F-4D50-46A3-AE6B-8B5DCEFC8D21"
+      "eventId": "40djsr59r03nd3o7pl1ocaus2f@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「新編古典恋心中」作品特設デザイン初稿提出",
+      "date": "2026-08-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "37dmf4a1024dnk2hbfm0l9mfsa@google.com"
     },
     {
       "member": "imai",
-      "title": "【今井】午後休み",
+      "title": "【今井】休み",
       "date": "2026-08-27",
       "startTime": "終日",
       "endTime": "終日",
@@ -772,14 +772,24 @@
       "eventId": "21000411-D896-4E1B-ADCF-CF4549953D35"
     },
     {
-      "member": "hashimoto",
-      "title": "SAO更新",
+      "member": "maruyama",
+      "title": " 角川漫画新人大賞9/1更新：修正版",
       "date": "2026-08-27",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "4d11c7qthd64rfbisevefdcak9@google.com"
+      "eventId": "6r89d1ie00o4diaid73bfo0rvc@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「アイリスウィッチ」8月31日共通フッター更新：html納品",
+      "date": "2026-08-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7idt1bf75ulpsesntdsip22onh@google.com"
     },
     {
       "member": "nabe",
@@ -793,13 +803,23 @@
     },
     {
       "member": "imai",
-      "title": "【ME】先方静的テストアップ＆WP化スタート",
+      "title": "うちあわせ",
       "date": "2026-08-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "09:00",
+      "endTime": "09:30",
+      "allDay": false,
       "location": "",
-      "eventId": "6B091B61-B941-4154-A330-507199DB83DC"
+      "eventId": "4inf4jmrntkstqkg6rcgtjukne@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】メクリメクル打ち合わせ",
+      "date": "2026-08-28",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7760499C-2876-4546-A6A9-3677D0286160"
     },
     {
       "member": "maruyama",
@@ -813,13 +833,13 @@
     },
     {
       "member": "hashimoto",
-      "title": "【橋本】有休15（7.5／40)",
+      "title": "SAO更新",
       "date": "2026-08-28",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "6mvi01rr3n3eobrpt7fhal63u5@google.com"
+      "eventId": "4d11c7qthd64rfbisevefdcak9@google.com"
     },
     {
       "member": "nabe",
@@ -853,7 +873,7 @@
     },
     {
       "member": "maruyama",
-      "title": "DIANA文庫：ロゴ提出（9/7納品）",
+      "title": "DIANA文庫：ロゴ提出（9/7納品）※金盛さん",
       "date": "2026-08-31",
       "startTime": "終日",
       "endTime": "終日",
@@ -880,6 +900,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6DE6C04E-1D72-48BF-B47A-AFBDEAA13EF4"
+    },
+    {
+      "member": "maruyama",
+      "title": "「新編古典恋心中」初回テストアップ※永徳さんコーディング",
+      "date": "2026-09-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0af2fqhhr0cm5sg0vr9o9en6ce@google.com"
     },
     {
       "member": "maruyama",
@@ -913,16 +943,6 @@
     },
     {
       "member": "imai",
-      "title": "【ME】WP化テストアップ",
-      "date": "2026-09-04",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7775FFE0-355A-4CF7-B9F6-DC6C7235E21F"
-    },
-    {
-      "member": "imai",
       "title": "アニメまんが聖地＊サイト：10/1新規ページのみデザインチェック",
       "date": "2026-09-04",
       "startTime": "終日",
@@ -930,6 +950,26 @@
       "allDay": true,
       "location": "",
       "eventId": "16933B5D-6F86-4A7C-A2B2-90F7D3C722C2"
+    },
+    {
+      "member": "maruyama",
+      "title": " ICE：パピレス社作品ロゴ2件提出（9月末納品）",
+      "date": "2026-09-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5h4qvl1hb76a9h827vdlv6udaq@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " DIANA文庫：ロゴ納品※金盛さん",
+      "date": "2026-09-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0q5breh4dhd5jcqgu3e2rmj49p@google.com"
     },
     {
       "member": "imai",
@@ -980,16 +1020,6 @@
       "allDay": true,
       "location": "",
       "eventId": "16782683-E019-42CA-A6CB-34972FF35EE8"
-    },
-    {
-      "member": "imai",
-      "title": "【ME】本番公開",
-      "date": "2026-09-15",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "180CC4DE-055E-4F32-8C6A-67F7E5A90D2D"
     },
     {
       "member": "imai",
