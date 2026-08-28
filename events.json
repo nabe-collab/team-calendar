@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27 09:23",
+  "updated": "2026-08-28 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -782,16 +782,6 @@
       "eventId": "6r89d1ie00o4diaid73bfo0rvc@google.com"
     },
     {
-      "member": "maruyama",
-      "title": "「アイリスウィッチ」8月31日共通フッター更新：html納品",
-      "date": "2026-08-27",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7idt1bf75ulpsesntdsip22onh@google.com"
-    },
-    {
       "member": "nabe",
       "title": "阿南さんからhtmlデータ納品予定",
       "date": "2026-08-28",
@@ -820,6 +810,16 @@
       "allDay": false,
       "location": "",
       "eventId": "7760499C-2876-4546-A6A9-3677D0286160"
+    },
+    {
+      "member": "maruyama",
+      "title": "8月31日共通フッター更新：html納品",
+      "date": "2026-08-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7idt1bf75ulpsesntdsip22onh@google.com"
     },
     {
       "member": "maruyama",
@@ -903,6 +903,36 @@
     },
     {
       "member": "maruyama",
+      "title": "只野工業高校の日常：9/6更新版テストアップ",
+      "date": "2026-09-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1hrktb72a81lf9k579ga0nmvq9@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】有休15（7.5／40)",
+      "date": "2026-09-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1jbdbfp99b7u79moki1770hoib@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "ココハナ更新",
+      "date": "2026-09-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5633u5b2ci1ectv95gaki24hen@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "「新編古典恋心中」初回テストアップ※永徳さんコーディング",
       "date": "2026-09-02",
       "startTime": "終日",
@@ -910,6 +940,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0af2fqhhr0cm5sg0vr9o9en6ce@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MGテスト",
+      "date": "2026-09-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5k5oo75ksuukp932vmpvdc870o@google.com"
     },
     {
       "member": "maruyama",
@@ -960,6 +1000,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5h4qvl1hb76a9h827vdlv6udaq@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG19号発売",
+      "date": "2026-09-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7m6lsvd5fb711ofooc7ivqrk8r@google.com"
     },
     {
       "member": "maruyama",
