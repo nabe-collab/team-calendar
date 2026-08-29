@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28 09:23",
+  "updated": "2026-08-29 09:23",
   "events": [
     {
       "member": "hashimoto",
@@ -822,16 +822,6 @@
       "eventId": "7idt1bf75ulpsesntdsip22onh@google.com"
     },
     {
-      "member": "maruyama",
-      "title": "「delulu」：目次・扉・奥付、ロゴデザイン納品",
-      "date": "2026-08-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3p3vue25fmnmqo44ebi4lkpc85@google.com"
-    },
-    {
       "member": "hashimoto",
       "title": "SAO更新",
       "date": "2026-08-28",
@@ -850,6 +840,26 @@
       "allDay": false,
       "location": "https://meet.google.com/fub-kwij-zew",
       "eventId": "0nhndi609ba5tallru3i1m8pq1@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3116cui7jpo9pori5llfd1g632@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "銀行午後イチ確認",
+      "date": "2026-08-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "BC2EDDE0-96E8-47D2-81E1-BC3B4C990129"
     },
     {
       "member": "imai",
@@ -872,6 +882,56 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "imai",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3116cui7jpo9pori5llfd1g632@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3116cui7jpo9pori5llfd1g632@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3116cui7jpo9pori5llfd1g632@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "8月の請求書出す（ICE・天海社・集英社・KADOKAWA）",
+      "date": "2026-08-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3519ugk4jec3q82oqkhnc7fb78@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「delulu」：目次・扉・奥付、ロゴデザイン納品",
+      "date": "2026-08-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3p3vue25fmnmqo44ebi4lkpc85@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "DIANA文庫：ロゴ提出（9/7納品）※金盛さん",
       "date": "2026-08-31",
@@ -882,11 +942,81 @@
       "eventId": "7qr2132tc170a34npco8st3c2m@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "【12:00】電撃大賞32回特設：更新",
+      "date": "2026-08-31",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "77ssfa6rk2je49jehng13g6lus@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 【ON】COVER _新規ライト２サイトキックオフMTG",
+      "date": "2026-08-31",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "5tc6r6n57ncdldhld6bnru36m9@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3116cui7jpo9pori5llfd1g632@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "：砂上メイド更新",
+      "date": "2026-08-31",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7mljv8rukagoqsn617v4u0rh4b@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3116cui7jpo9pori5llfd1g632@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "定例打ち合わせ",
+      "date": "2026-08-31",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3116cui7jpo9pori5llfd1g632@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】CCMC_エントリーリンク更新対応版公開",
+      "date": "2026-09-01",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "02q1nm8mb1tta2r07tb9tt028o@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】ホロアツ_各クローズ対応更新版公開",
       "date": "2026-09-01",
-      "startTime": "12:00",
-      "endTime": "13:00",
+      "startTime": "11:45",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "76da4f7kav7d3sluiepm73f053@google.com"
