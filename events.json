@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01 09:23",
+  "updated": "2026-09-02 09:23",
   "events": [
     {
       "member": "nabe",
@@ -32,46 +32,6 @@
       "eventId": "6DE6C04E-1D72-48BF-B47A-AFBDEAA13EF4"
     },
     {
-      "member": "maruyama",
-      "title": "「delulu」：目次・扉・奥付デザイン納品",
-      "date": "2026-09-01",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3p3vue25fmnmqo44ebi4lkpc85@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "只野工業高校の日常：9/6更新版テストアップ",
-      "date": "2026-09-01",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1hrktb72a81lf9k579ga0nmvq9@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "GALLERIAサイト：残りページ作る",
-      "date": "2026-09-01",
-      "startTime": "13:00",
-      "endTime": "14:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "4f4ikiumurdo03nv5u169a5i7l@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "電撃文庫大賞：デザイン修正",
-      "date": "2026-09-01",
-      "startTime": "17:00",
-      "endTime": "18:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "1vj7aqgiq830dfhedd2rm3efff@google.com"
-    },
-    {
       "member": "hashimoto",
       "title": "【橋本】有休15（7.5／40)",
       "date": "2026-09-01",
@@ -100,6 +60,26 @@
       "allDay": true,
       "location": "",
       "eventId": "56DE4151-A8A1-42C9-B3F7-100F6BE3688D"
+    },
+    {
+      "member": "maruyama",
+      "title": "只野工業高校の日常：9/6更新版納品",
+      "date": "2026-09-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1hrktb72a81lf9k579ga0nmvq9@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「delulu」：目次・扉・奥付デザイン納品",
+      "date": "2026-09-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3p3vue25fmnmqo44ebi4lkpc85@google.com"
     },
     {
       "member": "maruyama",
@@ -222,6 +202,16 @@
       "eventId": "2u9p5s70ohflur2bmqldlc31pe@google.com"
     },
     {
+      "member": "maruyama",
+      "title": " COVER：博多こよりサイト内部チェック",
+      "date": "2026-09-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2tkbor0ib2qb949bt5sqa4n3gr@google.com"
+    },
+    {
       "member": "nabe",
       "title": "博衣こより1stライブサイト_デザイン初稿",
       "date": "2026-09-10",
@@ -240,6 +230,16 @@
       "allDay": false,
       "location": "",
       "eventId": "C06C3529-BE36-465F-94CB-9FA5CD627B35"
+    },
+    {
+      "member": "maruyama",
+      "title": "COVER 博衣こより1stLive：初稿デザイン",
+      "date": "2026-09-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "28u02dbln85bgeddod8phsvo9o@google.com"
     },
     {
       "member": "maruyama",
