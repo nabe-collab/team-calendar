@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04 09:23",
+  "updated": "2026-09-05 09:24",
   "events": [
     {
       "member": "nabe",
@@ -173,6 +173,16 @@
     },
     {
       "member": "maruyama",
+      "title": "電撃大賞：「新編古典恋心中」修正",
+      "date": "2026-09-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6pk0gidpk1i6fev9a59g3hap7s@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": " DIANA文庫：ロゴ納品※金盛さん",
       "date": "2026-09-07",
       "startTime": "終日",
@@ -183,7 +193,7 @@
     },
     {
       "member": "hashimoto",
-      "title": "秋の学園祭：サイン会情報公開",
+      "title": "秋の学園祭：12じサイン会情報公開",
       "date": "2026-09-07",
       "startTime": "終日",
       "endTime": "終日",
@@ -204,7 +214,7 @@
     {
       "member": "maruyama",
       "title": " COVER：博多こよりサイト内部チェック",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
