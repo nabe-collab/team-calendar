@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05 09:24",
+  "updated": "2026-09-06 09:23",
   "events": [
     {
       "member": "nabe",
@@ -132,16 +132,6 @@
       "eventId": "0ge3hes7alep12dunmvpi0vics@google.com"
     },
     {
-      "member": "imai",
-      "title": "アニメまんが聖地＊サイト：10/1新規ページのみデザインチェック",
-      "date": "2026-09-04",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "16933B5D-6F86-4A7C-A2B2-90F7D3C722C2"
-    },
-    {
       "member": "maruyama",
       "title": " ICE：パピレス社作品ロゴ2件提出（9月末納品）",
       "date": "2026-09-04",
@@ -210,6 +200,86 @@
       "allDay": true,
       "location": "",
       "eventId": "2u9p5s70ohflur2bmqldlc31pe@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-08",
+      "startTime": "23:30",
+      "endTime": "00:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地【サイト】10/1更新テストアップ",
+      "date": "2026-09-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "16782683-E019-42CA-A6CB-34972FF35EE8"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-08",
+      "startTime": "23:30",
+      "endTime": "00:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-08",
+      "startTime": "23:30",
+      "endTime": "00:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-08",
+      "startTime": "23:30",
+      "endTime": "00:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-08",
+      "startTime": "23:30",
+      "endTime": "00:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-08",
+      "startTime": "23:30",
+      "endTime": "00:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-08",
+      "startTime": "23:30",
+      "endTime": "00:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
     },
     {
       "member": "maruyama",
@@ -292,16 +362,6 @@
       "eventId": "0m8v61hf74rh84ac24nhc8upbr@google.com"
     },
     {
-      "member": "imai",
-      "title": "アニメまんが聖地＊サイト：10/1・1回目テストアップ",
-      "date": "2026-09-14",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "16782683-E019-42CA-A6CB-34972FF35EE8"
-    },
-    {
       "member": "nabe",
       "title": "博衣こより1stライブサイト_デザイン二稿",
       "date": "2026-09-15",
@@ -350,16 +410,6 @@
       "allDay": true,
       "location": "",
       "eventId": "4gqviv9d2nu15svkudl8in2rj3@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "アニメまんが聖地＊サイト：10/1テストアップ",
-      "date": "2026-09-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "FF88447F-D8C0-4BF2-BB72-6BA8D2669A27"
     },
     {
       "member": "nabe",
@@ -453,7 +503,7 @@
     },
     {
       "member": "imai",
-      "title": "アニメまんが聖地＊サイト：10/1公開",
+      "title": "アニメまんが聖地【サイト】10/1公開",
       "date": "2026-10-01",
       "startTime": "終日",
       "endTime": "終日",
