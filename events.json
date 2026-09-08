@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07 09:23",
+  "updated": "2026-09-08 09:23",
   "events": [
     {
       "member": "nabe",
@@ -205,8 +205,8 @@
       "member": "nabe",
       "title": " 定例打ち合わせ",
       "date": "2026-09-08",
-      "startTime": "23:30",
-      "endTime": "00:30",
+      "startTime": "11:30",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
@@ -225,8 +225,8 @@
       "member": "imai",
       "title": " 定例打ち合わせ",
       "date": "2026-09-08",
-      "startTime": "23:30",
-      "endTime": "00:30",
+      "startTime": "11:30",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
@@ -235,8 +235,8 @@
       "member": "moriya",
       "title": " 定例打ち合わせ",
       "date": "2026-09-08",
-      "startTime": "23:30",
-      "endTime": "00:30",
+      "startTime": "11:30",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
@@ -245,18 +245,28 @@
       "member": "kondo",
       "title": " 定例打ち合わせ",
       "date": "2026-09-08",
-      "startTime": "23:30",
-      "endTime": "00:30",
+      "startTime": "11:30",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
     },
     {
       "member": "maruyama",
+      "title": "出社予定",
+      "date": "2026-09-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7noilg9vurbb18c5amsg31841k@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": " 定例打ち合わせ",
       "date": "2026-09-08",
-      "startTime": "23:30",
-      "endTime": "00:30",
+      "startTime": "11:30",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
@@ -265,8 +275,8 @@
       "member": "hashimoto",
       "title": " 定例打ち合わせ",
       "date": "2026-09-08",
-      "startTime": "23:30",
-      "endTime": "00:30",
+      "startTime": "11:30",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
@@ -275,15 +285,25 @@
       "member": "inamine",
       "title": " 定例打ち合わせ",
       "date": "2026-09-08",
-      "startTime": "23:30",
-      "endTime": "00:30",
+      "startTime": "11:30",
+      "endTime": "12:30",
       "allDay": false,
       "location": "",
       "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
     },
     {
+      "member": "nabe",
+      "title": "ハコス・ベールズ1stライブサイトWP版テストアップ",
+      "date": "2026-09-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3ol7aakgtki6j2u399b0p326u2@google.com"
+    },
+    {
       "member": "maruyama",
-      "title": " COVER：博多こよりサイト内部チェック",
+      "title": " COVER：博衣こよりサイト内部チェック",
       "date": "2026-09-09",
       "startTime": "終日",
       "endTime": "終日",
@@ -343,6 +363,16 @@
     },
     {
       "member": "nabe",
+      "title": "ハコス・ベールズ1stライブサイト_WP入力開始",
+      "date": "2026-09-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "447gjmeh16e7tgtod79mdkklkr@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "鷹嶺ルイ1stライブサイト_デザイン二稿",
       "date": "2026-09-11",
       "startTime": "終日",
@@ -373,6 +403,16 @@
     },
     {
       "member": "nabe",
+      "title": "ハコス・ベールズ1stライブサイト_WP最終テスト",
+      "date": "2026-09-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6rfmvrivhf98a99vknah7m4c7r@google.com"
+    },
+    {
+      "member": "nabe",
       "title": " 鷹嶺ルイ1stライブサイト_デザイン最終稿",
       "date": "2026-09-16",
       "startTime": "終日",
@@ -380,6 +420,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6ahd40ab3fjc9hedpahp8gjqf2@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "ハコス・ベールズ1stライブサイト_背景映像反映",
+      "date": "2026-09-18",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "69g1lc4qap8p6o7nvi8rn1kia7@google.com"
     },
     {
       "member": "nabe",
@@ -490,6 +540,16 @@
       "allDay": true,
       "location": "",
       "eventId": "552gdgcvtp5fjt0vfnn3tp316i@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "ハコス・ベールズ1stライブサイト_テスト環境手配",
+      "date": "2026-09-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6q5mta77109qii8r9hnq5r8tjs@google.com"
     },
     {
       "member": "imai",
