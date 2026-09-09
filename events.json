@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08 09:23",
+  "updated": "2026-09-09 09:23",
   "events": [
     {
       "member": "nabe",
@@ -303,6 +303,16 @@
     },
     {
       "member": "maruyama",
+      "title": "32回インデックス：フッターメニュー10日更新のhtml送る",
+      "date": "2026-09-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AD957C29-DD7B-4DC4-A842-41C66C8FACCE"
+    },
+    {
+      "member": "maruyama",
       "title": " COVER：博衣こよりサイト内部チェック",
       "date": "2026-09-09",
       "startTime": "終日",
@@ -323,7 +333,7 @@
     },
     {
       "member": "imai",
-      "title": "【今井】藤が丘病院：血液検査",
+      "title": "【今井】午前休み：病院",
       "date": "2026-09-10",
       "startTime": "08:30",
       "endTime": "09:30",
@@ -694,7 +704,7 @@
     {
       "member": "kondo",
       "title": "【近藤】後半休（n/18）",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
