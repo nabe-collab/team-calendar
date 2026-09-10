@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09 09:23",
+  "updated": "2026-09-10 09:23",
   "events": [
     {
       "member": "nabe",
@@ -322,6 +322,16 @@
       "eventId": "2tkbor0ib2qb949bt5sqa4n3gr@google.com"
     },
     {
+      "member": "inamine",
+      "title": "【稲嶺】午後半休 7.5/19",
+      "date": "2026-09-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7196atf8ck38e94476137fsdcd@google.com"
+    },
+    {
       "member": "nabe",
       "title": "博衣こより1stライブサイト_デザイン初稿",
       "date": "2026-09-10",
@@ -353,11 +363,11 @@
     },
     {
       "member": "maruyama",
-      "title": "32回電撃大賞：インデックス更新、「新編古典恋心中」公開",
+      "title": "【12:00】32回電撃大賞：インデックス更新、「新編古典恋心中」公開",
       "date": "2026-09-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
       "location": "",
       "eventId": "6siki20i5k0to8eq8kfmqgh4vi@google.com"
     },
@@ -393,7 +403,7 @@
     },
     {
       "member": "inamine",
-      "title": "【稲嶺】有給 8/19",
+      "title": "【稲嶺】有給 8.5/19",
       "date": "2026-09-11",
       "startTime": "終日",
       "endTime": "終日",
