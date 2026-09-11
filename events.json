@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10 09:23",
+  "updated": "2026-09-11 09:23",
   "events": [
     {
       "member": "nabe",
@@ -353,6 +353,16 @@
     },
     {
       "member": "maruyama",
+      "title": "DIANA文庫：バナー納品※金盛さん",
+      "date": "2026-09-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "47v1o51gedh46vgpukpsbs15cv@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "COVER 博衣こより1stLive：初稿デザイン",
       "date": "2026-09-10",
       "startTime": "終日",
@@ -400,6 +410,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0l0vibrkl8sc1m5i17illh89r7@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "comic curea 修正",
+      "date": "2026-09-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "62o7pdpa00khr6qnossvmd59m0@google.com"
     },
     {
       "member": "inamine",
@@ -770,6 +790,26 @@
       "allDay": true,
       "location": "",
       "eventId": "4B175D20-74CD-4529-9227-3B5E79FB635F"
+    },
+    {
+      "member": "imai",
+      "title": "藤が丘病院18:00",
+      "date": "2026-12-10",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "E0CBECC6-F7A3-414B-B905-6DC37BDA5884"
+    },
+    {
+      "member": "imai",
+      "title": "藤が丘13:30",
+      "date": "2026-12-22",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "19F49EE2-F807-43B4-A314-E4DD90FE1135"
     },
     {
       "member": "imai",
