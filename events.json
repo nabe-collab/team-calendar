@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 09:23",
+  "updated": "2026-09-12 09:23",
   "events": [
     {
       "member": "nabe",
@@ -413,6 +413,16 @@
     },
     {
       "member": "maruyama",
+      "title": "電撃文庫新人賞32回特設：9月見積もり",
+      "date": "2026-09-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "240r9tff4l48onenpm5ave5dk6@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "comic curea 修正",
       "date": "2026-09-11",
       "startTime": "終日",
@@ -433,6 +443,76 @@
     },
     {
       "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-09-14",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "博衣こより1stライブサイト_デザイン二稿",
       "date": "2026-09-15",
       "startTime": "終日",
@@ -440,6 +520,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6eh5ua3b0h87c9egpleiri1ogb@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "博衣こよりライブサイト：修正デザイン提出",
+      "date": "2026-09-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6lm1oho4agei0sh64vk2sd0p3o@google.com"
     },
     {
       "member": "nabe",
@@ -460,6 +550,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6ahd40ab3fjc9hedpahp8gjqf2@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "新規予定",
+      "date": "2026-09-17",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "99028585-F4C6-4BD1-826F-424030DA63AC"
     },
     {
       "member": "nabe",
