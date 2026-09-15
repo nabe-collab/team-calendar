@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14 09:23",
+  "updated": "2026-09-15 09:23",
   "events": [
     {
       "member": "nabe",
@@ -413,16 +413,6 @@
     },
     {
       "member": "maruyama",
-      "title": "電撃文庫新人賞32回特設：9月見積もり",
-      "date": "2026-09-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "240r9tff4l48onenpm5ave5dk6@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "comic curea 修正",
       "date": "2026-09-11",
       "startTime": "終日",
@@ -480,6 +470,26 @@
       "allDay": false,
       "location": "",
       "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "delulu：請求書出す",
+      "date": "2026-09-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6upcmkmvtmk46ehhgmm1fvffui@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "電撃文庫新人賞32回特設：9月見積もり",
+      "date": "2026-09-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "240r9tff4l48onenpm5ave5dk6@google.com"
     },
     {
       "member": "maruyama",
@@ -553,13 +563,23 @@
     },
     {
       "member": "imai",
-      "title": "新規予定",
+      "title": "【今井】午前休み",
       "date": "2026-09-17",
-      "startTime": "09:00",
-      "endTime": "10:00",
-      "allDay": false,
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
       "location": "",
       "eventId": "99028585-F4C6-4BD1-826F-424030DA63AC"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG20号発売",
+      "date": "2026-09-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2q6cadfdp5r6mctm5utjgj51k1@google.com"
     },
     {
       "member": "nabe",
@@ -840,6 +860,16 @@
       "allDay": true,
       "location": "",
       "eventId": "B509C22D-0BE9-496B-A7F4-EB0544B4DCBA"
+    },
+    {
+      "member": "hashimoto",
+      "title": "ティザー公開",
+      "date": "2026-11-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3fgrkllvlkt25qi72o2is1a014@google.com"
     },
     {
       "member": "nabe",
