@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15 09:23",
+  "updated": "2026-09-16 09:23",
   "events": [
     {
       "member": "nabe",
@@ -600,6 +600,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2a8bj1d6k569jvsa548dn97scl@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "【今井】スタートライン連絡",
+      "date": "2026-09-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "BC343D25-6B29-4B11-A225-8A5C50F16CDC"
     },
     {
       "member": "nabe",
