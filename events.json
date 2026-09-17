@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 09:23",
+  "updated": "2026-09-17 09:23",
   "events": [
     {
       "member": "nabe",
@@ -632,6 +632,26 @@
       "eventId": "4gqviv9d2nu15svkudl8in2rj3@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "32回電撃大賞：9/30更新テストアップ",
+      "date": "2026-09-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3i4lkch1031hhjracfld77nfjb@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "「編古典恋心中」10/9更新：デザイン提出",
+      "date": "2026-09-24",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "EF96178B-A8D9-48A0-8C2A-0C805A716E5A"
+    },
+    {
       "member": "nabe",
       "title": "博衣こより1stライブサイト_下層デザイン最終",
       "date": "2026-09-25",
@@ -732,6 +752,16 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "maruyama",
+      "title": "【10:00】32回電撃大賞更新",
+      "date": "2026-09-30",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "3811CAAC-D8BD-4A00-8CB5-5BC0CC10CE8C"
+    },
+    {
       "member": "imai",
       "title": "アニメまんが聖地【サイト】10/1公開",
       "date": "2026-10-01",
@@ -740,6 +770,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4CDE9FB9-FF4F-484D-B404-EA5385A936BD"
+    },
+    {
+      "member": "maruyama",
+      "title": "「編古典恋心中」10/9更新：テストアップ予定",
+      "date": "2026-10-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "69FD8C9F-A8AA-43B9-8FD0-8C6099AF8B27"
     },
     {
       "member": "nabe",
@@ -790,6 +830,16 @@
       "allDay": true,
       "location": "",
       "eventId": "08jib6lk3a42utik32fe8v2ej8@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "【12:00】「編古典恋心中」更新",
+      "date": "2026-10-09",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "558DA43A-3114-4D4C-95B0-FE7B25D5E1E3"
     },
     {
       "member": "hashimoto",
