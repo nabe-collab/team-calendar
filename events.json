@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 09:23",
+  "updated": "2026-09-18 09:23",
   "events": [
     {
       "member": "nabe",
@@ -570,6 +570,16 @@
       "allDay": true,
       "location": "",
       "eventId": "99028585-F4C6-4BD1-826F-424030DA63AC"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】 午後半休 (5.5/28)\n",
+      "date": "2026-09-17",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "555FBDB8-03A7-4A90-8525-C9C998325110"
     },
     {
       "member": "hashimoto",
