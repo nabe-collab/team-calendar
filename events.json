@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 09:23",
+  "updated": "2026-09-25 09:23",
   "events": [
     {
       "member": "nabe",
@@ -672,6 +672,26 @@
       "eventId": "6mipit6dqjultav6omcn3dnuvo@google.com"
     },
     {
+      "member": "moriya",
+      "title": "  office you",
+      "date": "2026-09-25",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "C3E26A41-2139-4B4E-8333-1BD851708A3B"
+    },
+    {
+      "member": "maruyama",
+      "title": "出社予定",
+      "date": "2026-09-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5bpbo7mjk5cl28othct35c5gqn@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "秋の学園祭：本更新",
       "date": "2026-09-25",
@@ -712,6 +732,16 @@
       "eventId": "5i5mltq3aihfeira93qskhgveu@google.com"
     },
     {
+      "member": "moriya",
+      "title": "LIXIL MTG",
+      "date": "2026-09-28",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "0A4AEAD0-0178-479E-A358-400A08F8A969"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】有休（7.5/18）",
       "date": "2026-09-28",
@@ -720,6 +750,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5D0BF8E6-0D72-4D78-8DC4-EDDBAFF0450D"
+    },
+    {
+      "member": "maruyama",
+      "title": "YJC‐UJ『只野工業高校の日常』特設：デザインFix、コマの順位確定",
+      "date": "2026-09-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "219fjcha95lqvlqpoeoci3jimu@google.com"
     },
     {
       "member": "maruyama",
@@ -783,6 +823,16 @@
     },
     {
       "member": "maruyama",
+      "title": "YJC‐UJ『只野工業高校の日常』特設：テストアップ",
+      "date": "2026-10-01",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5sibmnjsci52icru1qkvsiatgf@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "「編古典恋心中」10/9更新：テストアップ予定",
       "date": "2026-10-01",
       "startTime": "終日",
@@ -822,6 +872,16 @@
       "eventId": "0ct5ihaiivgo5fla1mmsfgo0ln@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "YJC‐UJ『只野工業高校の日常』特設：納品",
+      "date": "2026-10-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "773okcb9j3oubfqpv2f34jmlmj@google.com"
+    },
+    {
       "member": "nabe",
       "title": "博衣こより1stライブサイト_情報入力開始",
       "date": "2026-10-08",
@@ -840,6 +900,16 @@
       "allDay": true,
       "location": "",
       "eventId": "08jib6lk3a42utik32fe8v2ej8@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "YJC‐UJ『只野工業高校の日常』特設：公開",
+      "date": "2026-10-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "41qom4qgbgjcr42d7psma6qjn3@google.com"
     },
     {
       "member": "maruyama",
