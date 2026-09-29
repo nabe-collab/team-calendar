@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28 09:24",
+  "updated": "2026-09-29 09:23",
   "events": [
     {
       "member": "nabe",
@@ -732,6 +732,16 @@
       "eventId": "5i5mltq3aihfeira93qskhgveu@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】COVER_REGALIAサイト公開",
+      "date": "2026-09-28",
+      "startTime": "20:30",
+      "endTime": "21:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "9383c6186e264e6f9474cb7715cdef86@google.com"
+    },
+    {
       "member": "moriya",
       "title": "LIXIL MTG",
       "date": "2026-09-28",
@@ -753,6 +763,16 @@
     },
     {
       "member": "maruyama",
+      "title": "20:30 Hakos Baelz 1st Concert “REGALIA” 特設サイト公開",
+      "date": "2026-09-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "37toipm73tg1ov2f2assr0qek1@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "YJC‐UJ『只野工業高校の日常』特設：デザインFix、コマの順位確定",
       "date": "2026-09-28",
       "startTime": "終日",
@@ -760,16 +780,6 @@
       "allDay": true,
       "location": "",
       "eventId": "219fjcha95lqvlqpoeoci3jimu@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "Hakos Baelz 1st Concert “REGALIA” 特設サイト公開",
-      "date": "2026-09-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "37toipm73tg1ov2f2assr0qek1@google.com"
     },
     {
       "member": "nabe",
@@ -923,6 +933,16 @@
     },
     {
       "member": "nabe",
+      "title": "鷹嶺ルイ1stライブサイト_完成予定日",
+      "date": "2026-10-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1m4q3jbrfpt3dl1ttjp7adcmpl@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "【渡邉】 【渡邉】COVER_鷹嶺ルイ1stライブサイト公開",
       "date": "2026-10-04",
       "startTime": "20:30",
@@ -993,7 +1013,7 @@
     },
     {
       "member": "nabe",
-      "title": "鷹嶺ルイ1stライブサイト_テスト環境移植＆デザインパーツ受け渡し",
+      "title": "鷹嶺ルイ1stライブサイト_テスト環境移植",
       "date": "2026-10-09",
       "startTime": "終日",
       "endTime": "終日",
@@ -1093,7 +1113,7 @@
     },
     {
       "member": "kondo",
-      "title": "【近藤】後半休（n/18）",
+      "title": "【近藤】後半休（8/18）",
       "date": "2026-11-05",
       "startTime": "終日",
       "endTime": "終日",
@@ -1103,7 +1123,7 @@
     },
     {
       "member": "kondo",
-      "title": "【近藤】後半休（n/18）",
+      "title": "【近藤】後半休予定（n/18）",
       "date": "2026-11-12",
       "startTime": "終日",
       "endTime": "終日",
@@ -1180,6 +1200,16 @@
       "allDay": false,
       "location": "",
       "eventId": "E0CBECC6-F7A3-414B-B905-6DC37BDA5884"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】前半休（n/18）",
+      "date": "2026-12-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "14565C7B-024F-43E6-BA38-A6B2C2F96582"
     },
     {
       "member": "imai",
