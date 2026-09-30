@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29 09:23",
+  "updated": "2026-09-30 09:24",
   "events": [
     {
       "member": "nabe",
@@ -833,6 +833,16 @@
     },
     {
       "member": "maruyama",
+      "title": "請求書出す：コミックキュリア、角川漫画新人大賞",
+      "date": "2026-09-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0ut45qbmr97e54afldate6s2tm@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": " 定例打ち合わせ",
       "date": "2026-09-29",
       "startTime": "11:30",
@@ -880,6 +890,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】 午後半休 (6/28)\n",
+      "date": "2026-09-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "F4061B9E-8EDC-41D1-AC7E-DA1138AC37C4"
     },
     {
       "member": "maruyama",
@@ -940,6 +960,36 @@
       "allDay": true,
       "location": "",
       "eventId": "1m4q3jbrfpt3dl1ttjp7adcmpl@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】リゼロ展",
+      "date": "2026-10-02",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "allDay": false,
+      "location": "渋谷BEAMギャラリー",
+      "eventId": "6mtgfv1m3u21devi4gr4rqtseu@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "Reゼロ展",
+      "date": "2026-10-02",
+      "startTime": "18:00",
+      "endTime": "22:00",
+      "allDay": false,
+      "location": "渋谷BEAMギャラリー",
+      "eventId": "4331159A-97A6-4183-9D71-BA09C85F4BCF"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】リゼロ展（渋谷）",
+      "date": "2026-10-02",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "DA12822D-055B-4273-AC45-8D26581C21F5"
     },
     {
       "member": "nabe",
