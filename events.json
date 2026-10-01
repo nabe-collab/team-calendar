@@ -1,915 +1,15 @@
 {
-  "updated": "2026-09-30 09:24",
+  "updated": "2026-10-01 09:23",
   "events": [
     {
       "member": "nabe",
-      "title": "【渡邉】CCMC_エントリーリンク更新対応版公開",
-      "date": "2026-09-01",
-      "startTime": "11:00",
-      "endTime": "11:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "02q1nm8mb1tta2r07tb9tt028o@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "【渡邉】ホロアツ_各クローズ対応更新版公開",
-      "date": "2026-09-01",
-      "startTime": "11:45",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "76da4f7kav7d3sluiepm73f053@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "アニメまんが聖地＊サイト：9/1テキスト公開",
-      "date": "2026-09-01",
+      "title": "REBELLIONサイト：修正対応版確認１",
+      "date": "2026-10-01",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "6DE6C04E-1D72-48BF-B47A-AFBDEAA13EF4"
-    },
-    {
-      "member": "hashimoto",
-      "title": "【橋本】有休15（7.5／40)",
-      "date": "2026-09-01",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1jbdbfp99b7u79moki1770hoib@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "ココハナ更新",
-      "date": "2026-09-01",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5633u5b2ci1ectv95gaki24hen@google.com"
-    },
-    {
-      "member": "moriya",
-      "title": " 【森屋】 有給 (5/28)\n",
-      "date": "2026-09-02",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "56DE4151-A8A1-42C9-B3F7-100F6BE3688D"
-    },
-    {
-      "member": "maruyama",
-      "title": "只野工業高校の日常：9/6更新版納品",
-      "date": "2026-09-02",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1hrktb72a81lf9k579ga0nmvq9@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "「delulu」：目次・扉・奥付デザイン納品",
-      "date": "2026-09-02",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3p3vue25fmnmqo44ebi4lkpc85@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "「新編古典恋心中」初回テストアップ※永徳さんコーディング",
-      "date": "2026-09-02",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0af2fqhhr0cm5sg0vr9o9en6ce@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "MGテスト",
-      "date": "2026-09-02",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5k5oo75ksuukp932vmpvdc870o@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "32回電撃大賞9月10日更新：テストアップ",
-      "date": "2026-09-03",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7mq6mjs3133kav90anksmmsv0s@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "いけにえテスト",
-      "date": "2026-09-03",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5gim6rpttbglf63u1i0923vg2n@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "【渡邉】有休9/18（前期繰越3日＋15日）",
-      "date": "2026-09-04",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0ge3hes7alep12dunmvpi0vics@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": " ICE：パピレス社作品ロゴ2件提出（9月末納品）",
-      "date": "2026-09-04",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5h4qvl1hb76a9h827vdlv6udaq@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "MG19号発売",
-      "date": "2026-09-04",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7m6lsvd5fb711ofooc7ivqrk8r@google.com"
-    },
-    {
-      "member": "inamine",
-      "title": " 【稲嶺】午後半休 7/19",
-      "date": "2026-09-04",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0d003993b862v1909qkktcqtcf@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "電撃大賞：「新編古典恋心中」修正",
-      "date": "2026-09-07",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6pk0gidpk1i6fev9a59g3hap7s@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": " DIANA文庫：ロゴ納品※金盛さん",
-      "date": "2026-09-07",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0q5breh4dhd5jcqgu3e2rmj49p@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "秋の学園祭：12じサイン会情報公開",
-      "date": "2026-09-07",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1pqja0kqqdgrjtn97s0a32ie9i@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "鷹嶺ルイ1stライブサイト_デザインチェック",
-      "date": "2026-09-08",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2u9p5s70ohflur2bmqldlc31pe@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-08",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "アニメまんが聖地【サイト】10/1更新テストアップ",
-      "date": "2026-09-08",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "16782683-E019-42CA-A6CB-34972FF35EE8"
-    },
-    {
-      "member": "imai",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-08",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
-    },
-    {
-      "member": "moriya",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-08",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
-    },
-    {
-      "member": "kondo",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-08",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "出社予定",
-      "date": "2026-09-08",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7noilg9vurbb18c5amsg31841k@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-08",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-08",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
-    },
-    {
-      "member": "inamine",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-08",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "264uh2geoa3e1gslj6hee2rj19@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "ハコス・ベールズ1stライブサイトWP版テストアップ",
-      "date": "2026-09-09",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3ol7aakgtki6j2u399b0p326u2@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "32回インデックス：フッターメニュー10日更新のhtml送る",
-      "date": "2026-09-09",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "AD957C29-DD7B-4DC4-A842-41C66C8FACCE"
-    },
-    {
-      "member": "maruyama",
-      "title": " COVER：博衣こよりサイト内部チェック",
-      "date": "2026-09-09",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2tkbor0ib2qb949bt5sqa4n3gr@google.com"
-    },
-    {
-      "member": "inamine",
-      "title": "【稲嶺】午後半休 7.5/19",
-      "date": "2026-09-09",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7196atf8ck38e94476137fsdcd@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "博衣こより1stライブサイト_デザイン初稿",
-      "date": "2026-09-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5ntdn8t29a05fr6dcsgpe18ffm@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "【今井】午前休み：病院",
-      "date": "2026-09-10",
-      "startTime": "08:30",
-      "endTime": "09:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "C06C3529-BE36-465F-94CB-9FA5CD627B35"
-    },
-    {
-      "member": "maruyama",
-      "title": "DIANA文庫：バナー納品※金盛さん",
-      "date": "2026-09-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "47v1o51gedh46vgpukpsbs15cv@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "COVER 博衣こより1stLive：初稿デザイン",
-      "date": "2026-09-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "28u02dbln85bgeddod8phsvo9o@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "【12:00】32回電撃大賞：インデックス更新、「新編古典恋心中」公開",
-      "date": "2026-09-10",
-      "startTime": "11:00",
-      "endTime": "12:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "6siki20i5k0to8eq8kfmqgh4vi@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "いけにえの君主論：更新",
-      "date": "2026-09-10",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3ca6rk6h6mmhnlh1vcj5cg6pbd@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "ハコス・ベールズ1stライブサイト_WP入力開始",
-      "date": "2026-09-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "447gjmeh16e7tgtod79mdkklkr@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "鷹嶺ルイ1stライブサイト_デザイン二稿",
-      "date": "2026-09-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0l0vibrkl8sc1m5i17illh89r7@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "comic curea 修正",
-      "date": "2026-09-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "62o7pdpa00khr6qnossvmd59m0@google.com"
-    },
-    {
-      "member": "inamine",
-      "title": "【稲嶺】有給 8.5/19",
-      "date": "2026-09-11",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0m8v61hf74rh84ac24nhc8upbr@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-14",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
-    },
-    {
-      "member": "imai",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-14",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
-    },
-    {
-      "member": "moriya",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-14",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
-    },
-    {
-      "member": "kondo",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-14",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "delulu：請求書出す",
-      "date": "2026-09-14",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6upcmkmvtmk46ehhgmm1fvffui@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "電撃文庫新人賞32回特設：9月見積もり",
-      "date": "2026-09-14",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "240r9tff4l48onenpm5ave5dk6@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-14",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-14",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
-    },
-    {
-      "member": "inamine",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-14",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "079j7br7q5i13ipabbbcb60jn2@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "博衣こより1stライブサイト_デザイン二稿",
-      "date": "2026-09-15",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6eh5ua3b0h87c9egpleiri1ogb@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "博衣こよりライブサイト：修正デザイン提出",
-      "date": "2026-09-15",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6lm1oho4agei0sh64vk2sd0p3o@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "ハコス・ベールズ1stライブサイト_WP最終テスト",
-      "date": "2026-09-16",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6rfmvrivhf98a99vknah7m4c7r@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": " 鷹嶺ルイ1stライブサイト_デザイン最終稿",
-      "date": "2026-09-16",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6ahd40ab3fjc9hedpahp8gjqf2@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "【今井】午前休み",
-      "date": "2026-09-17",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "99028585-F4C6-4BD1-826F-424030DA63AC"
-    },
-    {
-      "member": "moriya",
-      "title": " 【森屋】 午後半休 (5.5/28)\n",
-      "date": "2026-09-17",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "555FBDB8-03A7-4A90-8525-C9C998325110"
-    },
-    {
-      "member": "hashimoto",
-      "title": "MG20号発売",
-      "date": "2026-09-17",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2q6cadfdp5r6mctm5utjgj51k1@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "ハコス・ベールズ1stライブサイト_背景映像反映",
-      "date": "2026-09-18",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "69g1lc4qap8p6o7nvi8rn1kia7@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "博衣こより1stライブサイト_デザイン最終",
-      "date": "2026-09-18",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "2a8bj1d6k569jvsa548dn97scl@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "【今井】スタートライン連絡",
-      "date": "2026-09-21",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "BC343D25-6B29-4B11-A225-8A5C50F16CDC"
-    },
-    {
-      "member": "nabe",
-      "title": "鷹嶺ルイ1stライブサイト_WP初回テスト",
-      "date": "2026-09-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "627o3noaic20c1jbkm688cmmsh@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "博衣こより1stライブサイト_下層デザイン初稿",
-      "date": "2026-09-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "4gqviv9d2nu15svkudl8in2rj3@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "32回電撃大賞：9/30更新テストアップ",
-      "date": "2026-09-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3i4lkch1031hhjracfld77nfjb@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "「編古典恋心中」10/9更新：デザイン提出",
-      "date": "2026-09-24",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "EF96178B-A8D9-48A0-8C2A-0C805A716E5A"
-    },
-    {
-      "member": "nabe",
-      "title": "博衣こより1stライブサイト_下層デザイン最終",
-      "date": "2026-09-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6mipit6dqjultav6omcn3dnuvo@google.com"
-    },
-    {
-      "member": "moriya",
-      "title": "  office you",
-      "date": "2026-09-25",
-      "startTime": "13:00",
-      "endTime": "14:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "C3E26A41-2139-4B4E-8333-1BD851708A3B"
-    },
-    {
-      "member": "maruyama",
-      "title": "出社予定",
-      "date": "2026-09-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5bpbo7mjk5cl28othct35c5gqn@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "秋の学園祭：本更新",
-      "date": "2026-09-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5684pu3nqho6bo0tmmnikqaage@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "よう実有償特典更新",
-      "date": "2026-09-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "76earl76pgamhv8045d4e4tchk@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "よう実フェスタ初回サイトOPEN",
-      "date": "2026-09-25",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "1h3v996691g6p970mpqhrgnlcs@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "鷹嶺ルイ1stライブサイト_WP最終テスト",
-      "date": "2026-09-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5i5mltq3aihfeira93qskhgveu@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "【渡邉】COVER_REGALIAサイト公開",
-      "date": "2026-09-28",
-      "startTime": "20:30",
-      "endTime": "21:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "9383c6186e264e6f9474cb7715cdef86@google.com"
-    },
-    {
-      "member": "moriya",
-      "title": "LIXIL MTG",
-      "date": "2026-09-28",
-      "startTime": "14:00",
-      "endTime": "15:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "0A4AEAD0-0178-479E-A358-400A08F8A969"
-    },
-    {
-      "member": "kondo",
-      "title": "【近藤】有休（7.5/18）",
-      "date": "2026-09-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "5D0BF8E6-0D72-4D78-8DC4-EDDBAFF0450D"
-    },
-    {
-      "member": "maruyama",
-      "title": "20:30 Hakos Baelz 1st Concert “REGALIA” 特設サイト公開",
-      "date": "2026-09-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "37toipm73tg1ov2f2assr0qek1@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "YJC‐UJ『只野工業高校の日常』特設：デザインFix、コマの順位確定",
-      "date": "2026-09-28",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "219fjcha95lqvlqpoeoci3jimu@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "博衣こより1stライブサイト_静的htmlテスト",
-      "date": "2026-09-29",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "552gdgcvtp5fjt0vfnn3tp316i@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-29",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "7u37hjrq3je2mls1i5i8il1vak@google.com"
-    },
-    {
-      "member": "imai",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-29",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "7u37hjrq3je2mls1i5i8il1vak@google.com"
-    },
-    {
-      "member": "moriya",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-29",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "7u37hjrq3je2mls1i5i8il1vak@google.com"
-    },
-    {
-      "member": "kondo",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-29",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "7u37hjrq3je2mls1i5i8il1vak@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "請求書出す：コミックキュリア、角川漫画新人大賞",
-      "date": "2026-09-29",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "0ut45qbmr97e54afldate6s2tm@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-29",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "7u37hjrq3je2mls1i5i8il1vak@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-29",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "7u37hjrq3je2mls1i5i8il1vak@google.com"
-    },
-    {
-      "member": "inamine",
-      "title": " 定例打ち合わせ",
-      "date": "2026-09-29",
-      "startTime": "11:30",
-      "endTime": "12:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "7u37hjrq3je2mls1i5i8il1vak@google.com"
-    },
-    {
-      "member": "nabe",
-      "title": "ハコス・ベールズ1stライブサイト_テスト環境手配",
-      "date": "2026-09-30",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6q5mta77109qii8r9hnq5r8tjs@google.com"
-    },
-    {
-      "member": "imai",
-      "title": "乳児院：請求書出す",
-      "date": "2026-09-30",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
-    },
-    {
-      "member": "moriya",
-      "title": " 【森屋】 午後半休 (6/28)\n",
-      "date": "2026-09-30",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "F4061B9E-8EDC-41D1-AC7E-DA1138AC37C4"
-    },
-    {
-      "member": "maruyama",
-      "title": "【10:00】32回電撃大賞更新",
-      "date": "2026-09-30",
-      "startTime": "10:00",
-      "endTime": "11:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "3811CAAC-D8BD-4A00-8CB5-5BC0CC10CE8C"
+      "eventId": "1vu6m3cv8n5k1n8pnh5t3qbd1r@google.com"
     },
     {
       "member": "imai",
@@ -923,13 +23,13 @@
     },
     {
       "member": "maruyama",
-      "title": "YJC‐UJ『只野工業高校の日常』特設：テストアップ",
+      "title": "見積もり出す：電撃大賞",
       "date": "2026-10-01",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "5sibmnjsci52icru1qkvsiatgf@google.com"
+      "eventId": "331id2f15uui567ad9gespr6qq@google.com"
     },
     {
       "member": "maruyama",
@@ -940,6 +40,26 @@
       "allDay": true,
       "location": "",
       "eventId": "69FD8C9F-A8AA-43B9-8FD0-8C6099AF8B27"
+    },
+    {
+      "member": "maruyama",
+      "title": "博依こよりサイト修正",
+      "date": "2026-10-01",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1nka697rcdc48qjfq0kp2pojsg@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "YJC‐UJ『只野工業高校の日常』特設：テストアップ",
+      "date": "2026-10-01",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sibmnjsci52icru1qkvsiatgf@google.com"
     },
     {
       "member": "hashimoto",
@@ -960,6 +80,16 @@
       "allDay": true,
       "location": "",
       "eventId": "1m4q3jbrfpt3dl1ttjp7adcmpl@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "REBELLION_修正対応版確認２",
+      "date": "2026-10-02",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1k0e5215m59gr6cafj5asifqu1@google.com"
     },
     {
       "member": "nabe",
@@ -990,6 +120,16 @@
       "allDay": false,
       "location": "",
       "eventId": "DA12822D-055B-4273-AC45-8D26581C21F5"
+    },
+    {
+      "member": "maruyama",
+      "title": "MF文庫J大賞ページ：スケジュール作成",
+      "date": "2026-10-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "746lintqeiu8dvdg70vkd8vd53@google.com"
     },
     {
       "member": "nabe",
@@ -1365,6 +505,16 @@
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2027-09-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：請求書出す",
+      "date": "2027-10-29",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
