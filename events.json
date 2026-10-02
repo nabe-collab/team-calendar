@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01 09:23",
+  "updated": "2026-10-02 09:23",
   "events": [
     {
       "member": "nabe",
@@ -23,7 +23,7 @@
     },
     {
       "member": "maruyama",
-      "title": "見積もり出す：電撃大賞",
+      "title": "見積もり出す：電撃大賞10月",
       "date": "2026-10-01",
       "startTime": "終日",
       "endTime": "終日",
@@ -33,11 +33,11 @@
     },
     {
       "member": "maruyama",
-      "title": "「編古典恋心中」10/9更新：テストアップ予定",
+      "title": "「編古典恋心中」10/9更新：テストアップ",
       "date": "2026-10-01",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "allDay": false,
       "location": "",
       "eventId": "69FD8C9F-A8AA-43B9-8FD0-8C6099AF8B27"
     },
@@ -123,6 +123,16 @@
     },
     {
       "member": "maruyama",
+      "title": "博依こよりサイト：読み込みの演出",
+      "date": "2026-10-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6hqdhig0p1d0sg56dsatnd9n88@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "MF文庫J大賞ページ：スケジュール作成",
       "date": "2026-10-02",
       "startTime": "終日",
@@ -170,6 +180,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0ct5ihaiivgo5fla1mmsfgo0ln@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "32回電撃大賞10/9更新内容：テストアップ",
+      "date": "2026-10-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "73n01uadc1sjrq3el2dflhg1f2@google.com"
     },
     {
       "member": "maruyama",
