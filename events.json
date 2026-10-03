@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02 09:23",
+  "updated": "2026-10-03 09:23",
   "events": [
     {
       "member": "nabe",
@@ -162,6 +162,56 @@
       "eventId": "6qgbqh4bva7bpr3tl5kfe0h9m2@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-05",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ev8beods2ffsrf7bbb9r3kluf@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-05",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ev8beods2ffsrf7bbb9r3kluf@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-05",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ev8beods2ffsrf7bbb9r3kluf@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-05",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ev8beods2ffsrf7bbb9r3kluf@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-05",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ev8beods2ffsrf7bbb9r3kluf@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "MG21発売",
       "date": "2026-10-05",
@@ -170,6 +220,26 @@
       "allDay": true,
       "location": "",
       "eventId": "7uc4uglb2btd0rv5uf6mikpbqd@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-05",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ev8beods2ffsrf7bbb9r3kluf@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-05",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "2ev8beods2ffsrf7bbb9r3kluf@google.com"
     },
     {
       "member": "nabe",
@@ -183,6 +253,16 @@
     },
     {
       "member": "maruyama",
+      "title": "後半 【丸山】後半休 7.5/20.5",
+      "date": "2026-10-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2tgvvtcc8226fi96hvch7lkf5s@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "32回電撃大賞10/9更新内容：テストアップ",
       "date": "2026-10-06",
       "startTime": "終日",
@@ -190,6 +270,16 @@
       "allDay": true,
       "location": "",
       "eventId": "73n01uadc1sjrq3el2dflhg1f2@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "後半 【丸山】後半休 8/20.5",
+      "date": "2026-10-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4kt1gcg47ug0pf8bpnhng5oj86@google.com"
     },
     {
       "member": "maruyama",
@@ -220,6 +310,26 @@
       "allDay": true,
       "location": "",
       "eventId": "3871gv7g2nf2sbkn9ar5blr1j7@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【ON渡邉】COVER_あやふぶみライブサイト_キックオフMTG",
+      "date": "2026-10-08",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "1v3buuv8g2sndu39g3juf69i83@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "COVER打ち合わせ",
+      "date": "2026-10-08",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "7jhjppfmgi3dr6irg5n95serfg@google.com"
     },
     {
       "member": "nabe",
