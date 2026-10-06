@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05 09:24",
+  "updated": "2026-10-06 09:23",
   "events": [
     {
       "member": "nabe",
@@ -392,6 +392,16 @@
       "eventId": "610v8hqin2f90f69tjtimc1ldq@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "次ラノ②1800更新",
+      "date": "2026-10-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7ae0uiq5frjc8hamcp9eh7au3o@google.com"
+    },
+    {
       "member": "imai",
       "title": "ナザレットの家：長谷川さん連絡くる",
       "date": "2026-10-19",
@@ -410,6 +420,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0khec3r91r54f6qvnihs6hdf91@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "秋の学園祭更新",
+      "date": "2026-10-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "11d5ho4tfdjhbueqqsfdqvkpq4@google.com"
     },
     {
       "member": "hashimoto",
