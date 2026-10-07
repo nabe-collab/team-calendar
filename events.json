@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06 09:23",
+  "updated": "2026-10-07 09:23",
   "events": [
     {
       "member": "nabe",
@@ -293,7 +293,7 @@
     },
     {
       "member": "hashimoto",
-      "title": "0時ココハナニュース更新",
+      "title": "ココハナニュース更新",
       "date": "2026-10-07",
       "startTime": "終日",
       "endTime": "終日",
@@ -400,6 +400,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7ae0uiq5frjc8hamcp9eh7au3o@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "LIXIL MTG",
+      "date": "2026-10-15",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "203A04CE-B3DC-4E04-9039-107AA6F1E4E7"
     },
     {
       "member": "imai",
