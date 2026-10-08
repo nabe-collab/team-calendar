@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07 09:23",
+  "updated": "2026-10-08 09:23",
   "events": [
     {
       "member": "nabe",
@@ -273,16 +273,6 @@
     },
     {
       "member": "maruyama",
-      "title": "後半 【丸山】後半休 8/20.5",
-      "date": "2026-10-07",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "4kt1gcg47ug0pf8bpnhng5oj86@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "YJC‐UJ『只野工業高校の日常』特設：納品",
       "date": "2026-10-07",
       "startTime": "終日",
@@ -290,6 +280,16 @@
       "allDay": true,
       "location": "",
       "eventId": "773okcb9j3oubfqpv2f34jmlmj@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "後半 【丸山】後半休 8/20.5",
+      "date": "2026-10-07",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "4kt1gcg47ug0pf8bpnhng5oj86@google.com"
     },
     {
       "member": "hashimoto",
@@ -353,23 +353,13 @@
     },
     {
       "member": "maruyama",
-      "title": "【12:00】「編古典恋心中」更新",
+      "title": "【12:00】インデックス、「編古典恋心中」更新",
       "date": "2026-10-09",
       "startTime": "12:00",
       "endTime": "13:00",
       "allDay": false,
       "location": "",
       "eventId": "558DA43A-3114-4D4C-95B0-FE7B25D5E1E3"
-    },
-    {
-      "member": "hashimoto",
-      "title": "よう実10月中旬店舗特典更新",
-      "date": "2026-10-09",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3m7khuac5j1u6jn4li0d4hku6v@google.com"
     },
     {
       "member": "nabe",
@@ -410,6 +400,16 @@
       "allDay": false,
       "location": "",
       "eventId": "203A04CE-B3DC-4E04-9039-107AA6F1E4E7"
+    },
+    {
+      "member": "hashimoto",
+      "title": "よう実10月中旬店舗特典更新",
+      "date": "2026-10-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3m7khuac5j1u6jn4li0d4hku6v@google.com"
     },
     {
       "member": "imai",
