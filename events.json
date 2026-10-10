@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09 09:23",
+  "updated": "2026-10-10 09:23",
   "events": [
     {
       "member": "nabe",
@@ -373,13 +373,103 @@
     },
     {
       "member": "maruyama",
-      "title": "COVER_タレントライブ特設サイト公開",
+      "title": "博依こより「Dream Spark」20:30サイレントオープン",
       "date": "2026-10-11",
+      "startTime": "20:30",
+      "endTime": "21:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "610v8hqin2f90f69tjtimc1ldq@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "角川漫画新人賞サイト10/26更新：見積もり提出",
+      "date": "2026-10-12",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "610v8hqin2f90f69tjtimc1ldq@google.com"
+      "eventId": "7pt0urn6m57hb3sgsi5k2hvsaa@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-13",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-13",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-13",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-13",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-13",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-13",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-13",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 【橋本】午後半休15（8.5／40)",
+      "date": "2026-10-14",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2f26brvb8giop1seq5mb23uqat@google.com"
     },
     {
       "member": "hashimoto",
@@ -400,6 +490,26 @@
       "allDay": false,
       "location": "",
       "eventId": "203A04CE-B3DC-4E04-9039-107AA6F1E4E7"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地【サイト】10/16更新",
+      "date": "2026-10-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "49B42DD0-7AF0-4D26-A2D0-02BD4FDA5658"
+    },
+    {
+      "member": "maruyama",
+      "title": "第22回MF文庫J新人賞特設：インデックス初稿デザイン出し",
+      "date": "2026-10-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5f6mqkqis3fili11geld59pn9u@google.com"
     },
     {
       "member": "hashimoto",
@@ -452,6 +562,16 @@
       "eventId": "7d216ekfku6dqui16n30sufldr@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "第22回MF文庫J新人賞特設：作品ページ初稿デザイン出し",
+      "date": "2026-10-26",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3vl3mume7pkkh2bknae5k28rdp@google.com"
+    },
+    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-10-30",
@@ -460,6 +580,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "maruyama",
+      "title": " 第22回MF文庫J新人賞特設：インデックス初回テストアップ",
+      "date": "2026-10-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "45k8gnpcpm3geo7bvndn0amthg@google.com"
     },
     {
       "member": "kondo",
@@ -472,6 +602,16 @@
       "eventId": "F30ADDA3-1DB1-408D-BD6E-17E60B3ACA14"
     },
     {
+      "member": "maruyama",
+      "title": "第22回MF文庫J新人賞特設：作品ページ初回テストアップ",
+      "date": "2026-11-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "53t5c3t9rlqga8op3auo3lcq9f@google.com"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】後半休予定（n/18）",
       "date": "2026-11-12",
@@ -480,6 +620,16 @@
       "allDay": true,
       "location": "",
       "eventId": "B509C22D-0BE9-496B-A7F4-EB0544B4DCBA"
+    },
+    {
+      "member": "maruyama",
+      "title": "第22回MF文庫J新人賞特設：インデックス、作品ページ初回公開",
+      "date": "2026-11-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3dh34tj1psfh31tkc6kg20ctj7@google.com"
     },
     {
       "member": "hashimoto",
@@ -520,6 +670,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2602r4ih798461ehfg18i1p0q7@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "第22回MF文庫J新人賞特設：インデックス、作品ページ更新",
+      "date": "2026-11-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "77drsl6blf5fgj5o7uce7p56jv@google.com"
     },
     {
       "member": "imai",
