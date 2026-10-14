@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 09:23",
+  "updated": "2026-10-14 09:23",
   "events": [
     {
       "member": "nabe",
@@ -123,7 +123,7 @@
     },
     {
       "member": "maruyama",
-      "title": "博依こよりサイト：読み込みの演出",
+      "title": "博衣こよりサイト：読み込みの演出",
       "date": "2026-10-02",
       "startTime": "終日",
       "endTime": "終日",
@@ -373,23 +373,13 @@
     },
     {
       "member": "maruyama",
-      "title": "博依こより「Dream Spark」20:30サイレントオープン",
+      "title": "博衣こより「Dream Spark」20:30サイレントオープン",
       "date": "2026-10-11",
       "startTime": "20:30",
       "endTime": "21:30",
       "allDay": false,
       "location": "",
       "eventId": "610v8hqin2f90f69tjtimc1ldq@google.com"
-    },
-    {
-      "member": "maruyama",
-      "title": "角川漫画新人賞サイト10/26更新：見積もり提出",
-      "date": "2026-10-12",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "7pt0urn6m57hb3sgsi5k2hvsaa@google.com"
     },
     {
       "member": "nabe",
@@ -430,6 +420,16 @@
       "allDay": false,
       "location": "",
       "eventId": "1dbcmj0ejgh3qa2brq2ho1kbji@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "角川漫画新人賞サイト10/26更新：見積もり提出",
+      "date": "2026-10-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7pt0urn6m57hb3sgsi5k2hvsaa@google.com"
     },
     {
       "member": "maruyama",
@@ -522,6 +522,26 @@
       "eventId": "3m7khuac5j1u6jn4li0d4hku6v@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "MG22テスト",
+      "date": "2026-10-16",
+      "startTime": "14:00",
+      "endTime": "14:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "771hdfomf0ng20bjnedglgp2ur@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイトトップデザイン初回確認",
+      "date": "2026-10-19",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6fb8s6ru87gitj4sih7ovsseh6@google.com"
+    },
+    {
       "member": "imai",
       "title": "ナザレットの家：長谷川さん連絡くる",
       "date": "2026-10-19",
@@ -540,6 +560,26 @@
       "allDay": true,
       "location": "",
       "eventId": "0khec3r91r54f6qvnihs6hdf91@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1デザイン確認",
+      "date": "2026-10-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5pim47vtdvq05s8frc5c8mk5mi@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1デザイン戻し",
+      "date": "2026-10-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4v025tbp90fqkdgmbihadiarla@google.com"
     },
     {
       "member": "hashimoto",
@@ -572,6 +612,66 @@
       "eventId": "3vl3mume7pkkh2bknae5k28rdp@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイト下層デザイン確認",
+      "date": "2026-10-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5go87dqpqku6htupjpcalv1rvs@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイトトップデザイン完成",
+      "date": "2026-10-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "39a9lblshu4kovprmdgdh0nr70@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1デザイン修正版確認",
+      "date": "2026-10-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5k456a2hs2bpgvhv9u8efefblg@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイト下層デザイン完成",
+      "date": "2026-10-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6qufe2a5olm2csof09o16tjogr@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイトテストアップ",
+      "date": "2026-10-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2msjnv63dlto91a2bcrpl3v311@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_テイクアンドフォー関連会社サイト2デザイン確認",
+      "date": "2026-10-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0tvjamu0gtrsnkkjv6u7hqapmp@google.com"
+    },
+    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-10-30",
@@ -590,6 +690,26 @@
       "allDay": true,
       "location": "",
       "eventId": "45k8gnpcpm3geo7bvndn0amthg@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 【稲嶺】沖縄行き",
+      "date": "2026-10-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "64osgb9u6l2uog00hfhp3f95i3@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】AD_テイクアンドフォー関連会社サイト2デザイン修正版確認",
+      "date": "2026-11-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6bmekdghvqokb0e13ha4kqicli@google.com"
     },
     {
       "member": "kondo",
@@ -612,14 +732,34 @@
       "eventId": "53t5c3t9rlqga8op3auo3lcq9f@google.com"
     },
     {
-      "member": "kondo",
-      "title": "【近藤】後半休予定（n/18）",
-      "date": "2026-11-12",
+      "member": "nabe",
+      "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1テストアップ確認",
+      "date": "2026-11-06",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "B509C22D-0BE9-496B-A7F4-EB0544B4DCBA"
+      "eventId": "2l4c8qqjcuuf76mi2tjdnrfgoe@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイトWP実装",
+      "date": "2026-11-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4bp3ih0jgp8g1ai0g3mhucc9n4@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイトWP情報入力",
+      "date": "2026-11-11",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "37eah257j5niebh3p7ro7neq2h@google.com"
     },
     {
       "member": "maruyama",
@@ -643,7 +783,7 @@
     },
     {
       "member": "nabe",
-      "title": "【渡邉】COVER_タレントライブ特設サイト公開",
+      "title": "【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイト公開",
       "date": "2026-11-13",
       "startTime": "終日",
       "endTime": "終日",
@@ -652,14 +792,34 @@
       "eventId": "1jclmopvugfe8begd869tmori9@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1テストアップ確認",
+      "date": "2026-11-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3hmcvhb6lahj7ac1bcakl46rva@google.com"
+    },
+    {
       "member": "inamine",
-      "title": " 【稲嶺】有給予定",
+      "title": " 【稲嶺】有給予定 沖縄帰り",
       "date": "2026-11-16",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
       "eventId": "5dmcp7g60dul460bpottvevlhl@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】AD_テイクアンドフォー関連会社サイト2テストアップ確認",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "164ie5p0d5dbt9s1rdh9o6ir9b@google.com"
     },
     {
       "member": "hashimoto",
@@ -680,6 +840,16 @@
       "allDay": true,
       "location": "",
       "eventId": "77drsl6blf5fgj5o7uce7p56jv@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】AD_テイクアンドフォー関連会社サイト納品予定",
+      "date": "2026-11-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "556anlf88hor8qk33f7dl00dt3@google.com"
     },
     {
       "member": "imai",
