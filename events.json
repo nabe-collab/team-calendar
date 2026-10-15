@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 09:23",
+  "updated": "2026-10-15 09:23",
   "events": [
     {
       "member": "nabe",
@@ -572,6 +572,16 @@
       "eventId": "5pim47vtdvq05s8frc5c8mk5mi@google.com"
     },
     {
+      "member": "imai",
+      "title": "スタートライン連絡",
+      "date": "2026-10-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5E129B41-84D5-4633-B5D1-A0484466C930"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1デザイン戻し",
       "date": "2026-10-23",
@@ -580,6 +590,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4v025tbp90fqkdgmbihadiarla@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "今井午前休み",
+      "date": "2026-10-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "160648A6-EFBB-4D10-B068-C922684F7399"
     },
     {
       "member": "hashimoto",
@@ -600,6 +620,16 @@
       "allDay": true,
       "location": "",
       "eventId": "7d216ekfku6dqui16n30sufldr@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 【稲嶺】有給 9.5/19",
+      "date": "2026-10-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4pu0tbpc2thn4iel7l342hdlac@google.com"
     },
     {
       "member": "maruyama",
