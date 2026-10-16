@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 09:23",
+  "updated": "2026-10-16 09:23",
   "events": [
     {
       "member": "nabe",
@@ -492,6 +492,26 @@
       "eventId": "203A04CE-B3DC-4E04-9039-107AA6F1E4E7"
     },
     {
+      "member": "hashimoto",
+      "title": "よう実10月中旬店舗特典更新",
+      "date": "2026-10-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3m7khuac5j1u6jn4li0d4hku6v@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】出社",
+      "date": "2026-10-15",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "67vh5r2m7nakk0fcf3h1pgfpn4@google.com"
+    },
+    {
       "member": "imai",
       "title": "アニメまんが聖地【サイト】10/16更新",
       "date": "2026-10-16",
@@ -513,16 +533,6 @@
     },
     {
       "member": "hashimoto",
-      "title": "よう実10月中旬店舗特典更新",
-      "date": "2026-10-16",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "3m7khuac5j1u6jn4li0d4hku6v@google.com"
-    },
-    {
-      "member": "hashimoto",
       "title": "MG22テスト",
       "date": "2026-10-16",
       "startTime": "14:00",
@@ -530,6 +540,16 @@
       "allDay": false,
       "location": "",
       "eventId": "771hdfomf0ng20bjnedglgp2ur@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "【稲嶺】午後半給 9/19",
+      "date": "2026-10-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1pldp2iusb3b9bd8euhgsrdpll@google.com"
     },
     {
       "member": "nabe",
@@ -623,7 +643,7 @@
     },
     {
       "member": "inamine",
-      "title": " 【稲嶺】有給 9.5/19",
+      "title": " 【稲嶺】有給 10/19",
       "date": "2026-10-23",
       "startTime": "終日",
       "endTime": "終日",
@@ -780,6 +800,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4bp3ih0jgp8g1ai0g3mhucc9n4@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "宇崎ちゃんは遊びたい！公開",
+      "date": "2026-11-09",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "0mc4c8pm3tsbej84c585dai15j@google.com"
     },
     {
       "member": "nabe",
