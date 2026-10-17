@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16 09:23",
+  "updated": "2026-10-17 09:23",
   "events": [
     {
       "member": "nabe",
@@ -530,16 +530,6 @@
       "allDay": true,
       "location": "",
       "eventId": "5f6mqkqis3fili11geld59pn9u@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "MG22テスト",
-      "date": "2026-10-16",
-      "startTime": "14:00",
-      "endTime": "14:30",
-      "allDay": false,
-      "location": "",
-      "eventId": "771hdfomf0ng20bjnedglgp2ur@google.com"
     },
     {
       "member": "inamine",
