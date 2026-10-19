@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18 09:23",
+  "updated": "2026-10-19 09:23",
   "events": [
     {
       "member": "nabe",
@@ -562,6 +562,66 @@
       "eventId": "7FA3F480-269C-465F-A25F-2685EFF82464"
     },
     {
+      "member": "maruyama",
+      "title": "【丸山】後半休 8.5/20.5",
+      "date": "2026-10-19",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "pnpss5ci9331ri406165j252u4@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-20",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sfb7o7otl81julrvl75bupo9h@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-20",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sfb7o7otl81julrvl75bupo9h@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-20",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sfb7o7otl81julrvl75bupo9h@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-20",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sfb7o7otl81julrvl75bupo9h@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-20",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sfb7o7otl81julrvl75bupo9h@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "よう実連動CPオープン",
       "date": "2026-10-20",
@@ -570,6 +630,26 @@
       "allDay": true,
       "location": "",
       "eventId": "0khec3r91r54f6qvnihs6hdf91@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-20",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sfb7o7otl81julrvl75bupo9h@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-20",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "5sfb7o7otl81julrvl75bupo9h@google.com"
     },
     {
       "member": "nabe",
