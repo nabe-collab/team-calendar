@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19 09:23",
+  "updated": "2026-10-20 09:23",
   "events": [
     {
       "member": "nabe",
@@ -670,6 +670,26 @@
       "allDay": true,
       "location": "",
       "eventId": "5E129B41-84D5-4633-B5D1-A0484466C930"
+    },
+    {
+      "member": "imai",
+      "title": "FLAMPガス点検立ち会い13時",
+      "date": "2026-10-21",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "23698428-8A6D-42A9-9B07-84C4FF9ACAD1"
+    },
+    {
+      "member": "maruyama",
+      "title": "角川漫画新人賞：10/26更新テストアップ",
+      "date": "2026-10-21",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4hmanmudnj767m4dij6u51l8v6@google.com"
     },
     {
       "member": "nabe",
