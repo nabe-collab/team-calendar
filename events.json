@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 09:23",
+  "updated": "2026-10-21 09:23",
   "events": [
     {
       "member": "nabe",
@@ -772,6 +772,16 @@
       "eventId": "39a9lblshu4kovprmdgdh0nr70@google.com"
     },
     {
+      "member": "imai",
+      "title": "【今井】ME：対面打ち合わせ",
+      "date": "2026-10-27",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "allDay": false,
+      "location": "外苑前駅、青山一丁目駅",
+      "eventId": "D4D41935-F367-43DA-BA63-AF6EF87F5076"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1デザイン修正版確認",
       "date": "2026-10-28",
@@ -840,6 +850,16 @@
       "allDay": true,
       "location": "",
       "eventId": "64osgb9u6l2uog00hfhp3f95i3@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地【サイト】11/2更新",
+      "date": "2026-11-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "FE51218F-32A0-498C-98D7-C573DAB8CFCE"
     },
     {
       "member": "nabe",
