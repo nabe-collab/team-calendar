@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21 09:23",
+  "updated": "2026-10-22 09:24",
   "events": [
     {
       "member": "nabe",
@@ -782,6 +782,16 @@
       "eventId": "D4D41935-F367-43DA-BA63-AF6EF87F5076"
     },
     {
+      "member": "maruyama",
+      "title": "電撃大賞特設：「編古典恋心中」動画更新",
+      "date": "2026-10-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "12sra00a42orpadk48aotj94la@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1デザイン修正版確認",
       "date": "2026-10-28",
@@ -900,6 +910,26 @@
       "allDay": true,
       "location": "",
       "eventId": "2l4c8qqjcuuf76mi2tjdnrfgoe@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "アニメ＆まんが聖地 EXPO 2026\n",
+      "date": "2026-11-07",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "E243D373-51EC-4D83-955D-9D9FAA9B697F"
+    },
+    {
+      "member": "imai",
+      "title": "アニメ＆まんが聖地 EXPO 2026\n",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": "18:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "FC0AF1AD-91C2-42C3-8BE5-5469FE0D8715"
     },
     {
       "member": "nabe",
