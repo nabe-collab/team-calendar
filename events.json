@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22 09:24",
+  "updated": "2026-10-23 09:23",
   "events": [
     {
       "member": "nabe",
@@ -802,6 +802,16 @@
       "eventId": "5k456a2hs2bpgvhv9u8efefblg@google.com"
     },
     {
+      "member": "imai",
+      "title": "アニメまんが聖地【紙】KPFチラシ表面提出\n",
+      "date": "2026-10-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "F1B102D0-CBEC-4FEB-92BC-00B9FCDBEA52"
+    },
+    {
       "member": "nabe",
       "title": " 【渡邉】COVER_百花繚乱あやふぶみ_ライブ特設サイト下層デザイン完成",
       "date": "2026-10-30",
@@ -830,6 +840,16 @@
       "allDay": true,
       "location": "",
       "eventId": "0tvjamu0gtrsnkkjv6u7hqapmp@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地【紙】KPFチラシ裏面提出\n",
+      "date": "2026-10-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6BB9E907-4BAA-46FC-A078-3663865BA257"
     },
     {
       "member": "imai",
