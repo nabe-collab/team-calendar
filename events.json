@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 09:23",
+  "updated": "2026-10-24 09:23",
   "events": [
     {
       "member": "nabe",
@@ -712,6 +712,16 @@
       "eventId": "160648A6-EFBB-4D10-B068-C922684F7399"
     },
     {
+      "member": "moriya",
+      "title": " 【森屋】 午後半休 (6.5/28)\n",
+      "date": "2026-10-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "B9E2228A-B505-4FB2-B859-93554C681F8D"
+    },
+    {
       "member": "hashimoto",
       "title": "秋の学園祭更新",
       "date": "2026-10-23",
@@ -742,6 +752,56 @@
       "eventId": "4pu0tbpc2thn4iel7l342hdlac@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-26",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0s7rccoik1so3aemmf95l68q8a@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-26",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0s7rccoik1so3aemmf95l68q8a@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-26",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0s7rccoik1so3aemmf95l68q8a@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "オフィスユー更新",
+      "date": "2026-10-26",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "135E1CE8-1E4F-48E5-827F-28BECAA64F73"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-26",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0s7rccoik1so3aemmf95l68q8a@google.com"
+    },
+    {
       "member": "maruyama",
       "title": "第22回MF文庫J新人賞特設：作品ページ初稿デザイン出し",
       "date": "2026-10-26",
@@ -750,6 +810,36 @@
       "allDay": true,
       "location": "",
       "eventId": "3vl3mume7pkkh2bknae5k28rdp@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-26",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0s7rccoik1so3aemmf95l68q8a@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-26",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0s7rccoik1so3aemmf95l68q8a@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-10-26",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0s7rccoik1so3aemmf95l68q8a@google.com"
     },
     {
       "member": "nabe",
@@ -860,6 +950,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "moriya",
+      "title": "MTG 丸亀",
+      "date": "2026-10-30",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "B880E5C3-72F3-4EFD-AD60-93000C0D131D"
     },
     {
       "member": "maruyama",
@@ -1130,6 +1230,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】有休",
+      "date": "2027-01-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0iivivum9hmnsuh3n8n603ird4@google.com"
     },
     {
       "member": "imai",
