@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26 09:23",
+  "updated": "2026-10-27 09:23",
   "events": [
     {
       "member": "nabe",
@@ -862,6 +862,16 @@
       "eventId": "39a9lblshu4kovprmdgdh0nr70@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】あやふぶみサイト_稲嶺とMTG",
+      "date": "2026-10-27",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "meet.google.com/cqj-ytun-vpe",
+      "eventId": "l2cbrooipgtg421fm74mlcd7c8@google.com"
+    },
+    {
       "member": "imai",
       "title": "【今井】ME：対面打ち合わせ",
       "date": "2026-10-27",
@@ -870,6 +880,16 @@
       "allDay": false,
       "location": "外苑前駅、青山一丁目駅",
       "eventId": "D4D41935-F367-43DA-BA63-AF6EF87F5076"
+    },
+    {
+      "member": "imai",
+      "title": "稲嶺ポケットワイファイ渡す",
+      "date": "2026-10-27",
+      "startTime": "16:00",
+      "endTime": "17:00",
+      "allDay": false,
+      "location": "渋谷",
+      "eventId": "AB3C70D7-5090-4AE6-BD04-A9871F7E35E5"
     },
     {
       "member": "maruyama",
@@ -900,6 +920,26 @@
       "allDay": true,
       "location": "",
       "eventId": "F1B102D0-CBEC-4FEB-92BC-00B9FCDBEA52"
+    },
+    {
+      "member": "maruyama",
+      "title": "ICE：DIANA文庫11/2納品ロゴ 初稿デザイン",
+      "date": "2026-10-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "7flhuosvgl6c2feiada4qiv18a@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "ICE：LUNA文庫11/2納品ロゴ 初稿デザイン",
+      "date": "2026-10-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "20f1n10jd0smr174ev4k3kcd6h@google.com"
     },
     {
       "member": "nabe",
