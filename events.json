@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27 09:23",
+  "updated": "2026-10-28 09:25",
   "events": [
     {
       "member": "nabe",
@@ -875,8 +875,8 @@
       "member": "imai",
       "title": "【今井】ME：対面打ち合わせ",
       "date": "2026-10-27",
-      "startTime": "15:00",
-      "endTime": "16:00",
+      "startTime": "15:30",
+      "endTime": "16:30",
       "allDay": false,
       "location": "外苑前駅、青山一丁目駅",
       "eventId": "D4D41935-F367-43DA-BA63-AF6EF87F5076"
@@ -910,6 +910,16 @@
       "allDay": true,
       "location": "",
       "eventId": "5k456a2hs2bpgvhv9u8efefblg@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地【サイト】11/2テストアップ",
+      "date": "2026-10-28",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "8462B7D6-19E0-414B-8ACF-55F94719D37A"
     },
     {
       "member": "imai",
