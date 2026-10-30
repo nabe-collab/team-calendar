@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 09:24",
+  "updated": "2026-10-30 09:23",
   "events": [
     {
       "member": "nabe",
@@ -1020,6 +1020,16 @@
       "allDay": true,
       "location": "",
       "eventId": "45k8gnpcpm3geo7bvndn0amthg@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "うちあわせ",
+      "date": "2026-10-30",
+      "startTime": "13:00",
+      "endTime": "13:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "0on5th5pcnmhmkrtj6sea5f266@google.com"
     },
     {
       "member": "inamine",
