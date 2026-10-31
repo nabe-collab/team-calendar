@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 09:23",
+  "updated": "2026-10-31 09:23",
   "events": [
     {
       "member": "nabe",
@@ -1003,6 +1003,16 @@
     },
     {
       "member": "moriya",
+      "title": " 【森屋】 午後半休 (7/28)\n",
+      "date": "2026-10-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "D49FEB20-AD10-4B57-BC1A-38B4EC09E34E"
+    },
+    {
+      "member": "moriya",
       "title": "MTG 丸亀",
       "date": "2026-10-30",
       "startTime": "14:00",
@@ -1042,14 +1052,84 @@
       "eventId": "64osgb9u6l2uog00hfhp3f95i3@google.com"
     },
     {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-02",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
+    },
+    {
       "member": "imai",
-      "title": "アニメまんが聖地【サイト】11/2更新",
+      "title": "アニメまんが聖地【サイト】12時更新",
       "date": "2026-11-02",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
       "eventId": "FE51218F-32A0-498C-98D7-C573DAB8CFCE"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-02",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-02",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-02",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-02",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-02",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-02",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
     },
     {
       "member": "nabe",
@@ -1250,6 +1330,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4B175D20-74CD-4529-9227-3B5E79FB635F"
+    },
+    {
+      "member": "imai",
+      "title": "ラノベ展ティザー公開",
+      "date": "2026-12-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6816538D-5A9D-4958-B4D7-1CBA817BA146"
     },
     {
       "member": "imai",
