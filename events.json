@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02 09:23",
+  "updated": "2026-11-03 09:23",
   "events": [
     {
       "member": "nabe",
@@ -53,6 +53,36 @@
     },
     {
       "member": "maruyama",
+      "title": " ICE：「乙女な公爵令嬢は理想の王子と結ばれたい」納品",
+      "date": "2026-11-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6r34dbviburr2hirhbo38j87f6@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " ICE：「私は美味しい褒賞娘」納品",
+      "date": "2026-11-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0daqksp84d8if55ssnfnmmjp8e@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 第22回MF文庫J新人賞特設：修正対応",
+      "date": "2026-11-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "45k8gnpcpm3geo7bvndn0amthg@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": " 定例打ち合わせ",
       "date": "2026-11-02",
       "startTime": "11:30",
@@ -60,6 +90,16 @@
       "allDay": false,
       "location": "",
       "eventId": "48e5ssqifc6cd4qrk7jvnb1vec@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】出社",
+      "date": "2026-11-02",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "07adti984vfcmncie21d6hc1bf@google.com"
     },
     {
       "member": "hashimoto",
@@ -92,6 +132,16 @@
       "eventId": "6bmekdghvqokb0e13ha4kqicli@google.com"
     },
     {
+      "member": "imai",
+      "title": "ナザレットの家：長谷川さん連絡くる",
+      "date": "2026-11-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "F91F1EC9-0C01-473E-B4B8-A5763D7520DD"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】後半休（8/18）",
       "date": "2026-11-05",
@@ -112,6 +162,16 @@
       "eventId": "53t5c3t9rlqga8op3auo3lcq9f@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "MFテストアップ",
+      "date": "2026-11-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6i0uef54pp8qivulsdvqprs6qi@google.com"
+    },
+    {
       "member": "nabe",
       "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1テストアップ確認",
       "date": "2026-11-06",
@@ -120,6 +180,26 @@
       "allDay": true,
       "location": "",
       "eventId": "2l4c8qqjcuuf76mi2tjdnrfgoe@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】午前半休15（9／40)",
+      "date": "2026-11-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "157etictcjbuk896l4shabt6va@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "AOZ_sp7テスト",
+      "date": "2026-11-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3fq5tloir1eme09bc29ee5o5rn@google.com"
     },
     {
       "member": "imai",
@@ -153,6 +233,16 @@
     },
     {
       "member": "hashimoto",
+      "title": "次ラノテストアップ",
+      "date": "2026-11-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0sh6vs9aq7phf8dkfoorj92nbh@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "宇崎ちゃんは遊びたい！公開",
       "date": "2026-11-09",
       "startTime": "11:00",
@@ -183,7 +273,7 @@
     },
     {
       "member": "hashimoto",
-      "title": "ティザー公開",
+      "title": "MFティザー公開",
       "date": "2026-11-12",
       "startTime": "終日",
       "endTime": "終日",
@@ -212,6 +302,36 @@
       "eventId": "3hmcvhb6lahj7ac1bcakl46rva@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "AOZ_sp8テスト",
+      "date": "2026-11-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "04lc796ik72ue9bgt85b8kacr3@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "AOZ_sp7公開",
+      "date": "2026-11-13",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3p3rv77agfnhbcf3bh13mj4u8q@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "次ラノ更新1200（ノミネート公開）",
+      "date": "2026-11-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "31tcpotl89ls7c30lu8q4pf8dq@google.com"
+    },
+    {
       "member": "inamine",
       "title": " 【稲嶺】有給予定 沖縄帰り",
       "date": "2026-11-16",
@@ -230,6 +350,36 @@
       "allDay": true,
       "location": "",
       "eventId": "164ie5p0d5dbt9s1rdh9o6ir9b@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "秋の学園祭更新：1200",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5glv3bkkhe3dvge0fv5tho8pc0@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "AOZ_sp9テスト",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2umrl6uj8s4sloaedh2a5ahhqv@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "AOZ_sp8公開",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "638gaj7e16eenphfjo88n7e8i0@google.com"
     },
     {
       "member": "hashimoto",
@@ -260,6 +410,16 @@
       "allDay": true,
       "location": "",
       "eventId": "556anlf88hor8qk33f7dl00dt3@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "AOZ_sp9公開",
+      "date": "2026-11-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6ks1prmkmen2nc2m20l814l5ak@google.com"
     },
     {
       "member": "imai",
