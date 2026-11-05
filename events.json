@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 09:23",
+  "updated": "2026-11-05 09:23",
   "events": [
     {
       "member": "nabe",
@@ -132,6 +132,16 @@
       "eventId": "6bmekdghvqokb0e13ha4kqicli@google.com"
     },
     {
+      "member": "moriya",
+      "title": " 【森屋】 午前半休 (7.5/28)\n",
+      "date": "2026-11-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "565AF078-5147-43F6-BE6F-DE0B392D4961"
+    },
+    {
       "member": "imai",
       "title": "ナザレットの家：長谷川さん連絡くる",
       "date": "2026-11-05",
@@ -140,6 +150,16 @@
       "allDay": true,
       "location": "",
       "eventId": "F91F1EC9-0C01-473E-B4B8-A5763D7520DD"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】 有給 (8.5/28)\n",
+      "date": "2026-11-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4135044B-3778-4C83-9BD8-7781164DC9FB"
     },
     {
       "member": "kondo",
@@ -180,6 +200,26 @@
       "allDay": true,
       "location": "",
       "eventId": "2l4c8qqjcuuf76mi2tjdnrfgoe@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "アニメまんが聖地【紙】KPFチラシ後送分もらう\n",
+      "date": "2026-11-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "05CCFBC7-DAD8-43D4-950B-06B9BEC2687F"
+    },
+    {
+      "member": "moriya",
+      "title": "AA=",
+      "date": "2026-11-06",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "E9ACE408-0028-43C3-BB2E-7B4E70208F3C"
     },
     {
       "member": "hashimoto",
@@ -502,6 +542,16 @@
       "eventId": "0iivivum9hmnsuh3n8n603ird4@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": "【橋本】午後半休",
+      "date": "2027-01-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1fpdmkd17ptq21ru6tnidm799v@google.com"
+    },
+    {
       "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2027-01-29",
@@ -510,6 +560,16 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "hashimoto",
+      "title": "【橋本】有休",
+      "date": "2027-01-29",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1ik67bvlgk5a038cdc1ij48oti@google.com"
     },
     {
       "member": "imai",
