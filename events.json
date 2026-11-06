@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 09:23",
+  "updated": "2026-11-06 09:24",
   "events": [
     {
       "member": "nabe",
@@ -182,16 +182,6 @@
       "eventId": "53t5c3t9rlqga8op3auo3lcq9f@google.com"
     },
     {
-      "member": "hashimoto",
-      "title": "MFテストアップ",
-      "date": "2026-11-05",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "6i0uef54pp8qivulsdvqprs6qi@google.com"
-    },
-    {
       "member": "nabe",
       "title": "【渡邉】AD_テイクアンドフォー関連会社サイト1テストアップ確認",
       "date": "2026-11-06",
@@ -200,6 +190,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2l4c8qqjcuuf76mi2tjdnrfgoe@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "乳児院：入稿手続き",
+      "date": "2026-11-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "84E3076E-3361-480D-BECB-81352956FF08"
     },
     {
       "member": "imai",
@@ -220,6 +220,16 @@
       "allDay": false,
       "location": "",
       "eventId": "E9ACE408-0028-43C3-BB2E-7B4E70208F3C"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MFテストアップ",
+      "date": "2026-11-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6i0uef54pp8qivulsdvqprs6qi@google.com"
     },
     {
       "member": "hashimoto",
