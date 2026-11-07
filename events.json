@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 09:24",
+  "updated": "2026-11-07 09:23",
   "events": [
     {
       "member": "nabe",
@@ -282,6 +282,16 @@
       "eventId": "4bp3ih0jgp8g1ai0g3mhucc9n4@google.com"
     },
     {
+      "member": "nabe",
+      "title": "第33回電撃大賞エンブレム、メダルデザイン提出",
+      "date": "2026-11-09",
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "493c8455bd32481dabeb179eab3b493c@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "次ラノテストアップ",
       "date": "2026-11-09",
@@ -300,6 +310,76 @@
       "allDay": false,
       "location": "",
       "eventId": "0mc4c8pm3tsbej84c585dai15j@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-10",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "3q99plurcrt8oioh350g4bfh4k@google.com"
+    },
+    {
+      "member": "imai",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-10",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "3q99plurcrt8oioh350g4bfh4k@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-10",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "3q99plurcrt8oioh350g4bfh4k@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-10",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "3q99plurcrt8oioh350g4bfh4k@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-10",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "3q99plurcrt8oioh350g4bfh4k@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-10",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "3q99plurcrt8oioh350g4bfh4k@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": " 定例打ち合わせ",
+      "date": "2026-11-10",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "3q99plurcrt8oioh350g4bfh4k@google.com"
     },
     {
       "member": "nabe",
