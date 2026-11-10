@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 09:23",
+  "updated": "2026-11-10 09:24",
   "events": [
     {
       "member": "nabe",
@@ -223,6 +223,16 @@
     },
     {
       "member": "hashimoto",
+      "title": "【橋本】午前半休15（8.5／40)",
+      "date": "2026-11-06",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "157etictcjbuk896l4shabt6va@google.com"
+    },
+    {
+      "member": "hashimoto",
       "title": "MFテストアップ",
       "date": "2026-11-06",
       "startTime": "終日",
@@ -230,16 +240,6 @@
       "allDay": true,
       "location": "",
       "eventId": "6i0uef54pp8qivulsdvqprs6qi@google.com"
-    },
-    {
-      "member": "hashimoto",
-      "title": "【橋本】午前半休15（9／40)",
-      "date": "2026-11-06",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "157etictcjbuk896l4shabt6va@google.com"
     },
     {
       "member": "hashimoto",
@@ -392,6 +392,16 @@
       "eventId": "37eah257j5niebh3p7ro7neq2h@google.com"
     },
     {
+      "member": "kondo",
+      "title": "【近藤】後半休（8.5/18）",
+      "date": "2026-11-12",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "32FDA1AD-D084-42B7-9FC3-06AEBE7331BB"
+    },
+    {
       "member": "maruyama",
       "title": "第22回MF文庫J新人賞特設：インデックス、作品ページ初回公開",
       "date": "2026-11-12",
@@ -473,6 +483,16 @@
     },
     {
       "member": "nabe",
+      "title": " 【渡邉】COVER_mekPark-LPデザインチェック",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "36vggsgd0kgj0p5v1am77qgc0u@google.com"
+    },
+    {
+      "member": "nabe",
       "title": "【渡邉】AD_テイクアンドフォー関連会社サイト2テストアップ確認",
       "date": "2026-11-20",
       "startTime": "終日",
@@ -533,6 +553,16 @@
     },
     {
       "member": "nabe",
+      "title": " 【渡邉】COVER_mekPark-LPテストアップ",
+      "date": "2026-11-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4fc81funh81nmkpvamprdp9c9v@google.com"
+    },
+    {
+      "member": "nabe",
       "title": " 【渡邉】AD_テイクアンドフォー関連会社サイト納品予定",
       "date": "2026-11-27",
       "startTime": "終日",
@@ -562,6 +592,16 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "nabe",
+      "title": " 【渡邉】COVER_mekPark-LP最終テストアップ",
+      "date": "2026-12-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4tit0gheurjra2t5mch1ed2nrl@google.com"
+    },
+    {
       "member": "kondo",
       "title": "【近藤】後半休（n/18）",
       "date": "2026-12-04",
@@ -570,6 +610,26 @@
       "allDay": true,
       "location": "",
       "eventId": "4B175D20-74CD-4529-9227-3B5E79FB635F"
+    },
+    {
+      "member": "nabe",
+      "title": " 【渡邉】COVER_mekPark-LP完成",
+      "date": "2026-12-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "18da3b6h02b57pb9agf8jmdm30@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "【渡邉】COVER_mekPark-LP公開",
+      "date": "2026-12-09",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "0g33c4fothlfft3t0ksv8qrovo@google.com"
     },
     {
       "member": "imai",
