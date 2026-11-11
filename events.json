@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10 09:24",
+  "updated": "2026-11-11 09:24",
   "events": [
     {
       "member": "nabe",
@@ -462,6 +462,16 @@
       "eventId": "3p3rv77agfnhbcf3bh13mj4u8q@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "【丸山】有休 10/20.5",
+      "date": "2026-11-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1fs7iso0e1mkq6clv57n52e22q@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "次ラノ更新1200（ノミネート公開）",
       "date": "2026-11-16",
@@ -473,13 +483,23 @@
     },
     {
       "member": "inamine",
-      "title": " 【稲嶺】有給予定 沖縄帰り",
+      "title": "【稲嶺】有給 11/19 沖縄帰り",
       "date": "2026-11-16",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
       "eventId": "5dmcp7g60dul460bpottvevlhl@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "MG24発売",
+      "date": "2026-11-19",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "3vsimd70larsi0jlgjki1v79oj@google.com"
     },
     {
       "member": "nabe",
@@ -572,6 +592,16 @@
       "eventId": "556anlf88hor8qk33f7dl00dt3@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "【丸山】有休 11/20.5",
+      "date": "2026-11-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2jgd99fjhk30d86qhq2jgf1bl5@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "AOZ_sp9公開",
       "date": "2026-11-27",
@@ -610,6 +640,16 @@
       "allDay": true,
       "location": "",
       "eventId": "4B175D20-74CD-4529-9227-3B5E79FB635F"
+    },
+    {
+      "member": "inamine",
+      "title": "【稲嶺】有給 12/19",
+      "date": "2026-12-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2uom3dbsrcevk1i96m5t6gt1ug@google.com"
     },
     {
       "member": "nabe",
@@ -670,6 +710,16 @@
       "allDay": false,
       "location": "",
       "eventId": "19F49EE2-F807-43B4-A314-E4DD90FE1135"
+    },
+    {
+      "member": "maruyama",
+      "title": "【丸山】有休 12/20.5",
+      "date": "2026-12-23",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2qccchgt6e34fg8oeouvf4327q@google.com"
     },
     {
       "member": "imai",
