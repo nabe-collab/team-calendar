@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 09:24",
+  "updated": "2026-11-12 09:23",
   "events": [
     {
       "member": "nabe",
@@ -673,6 +673,16 @@
     },
     {
       "member": "imai",
+      "title": "今井：午後休み",
+      "date": "2026-12-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "4EFAECA8-73DD-4AB1-BF5E-E6C559F31074"
+    },
+    {
+      "member": "imai",
       "title": "ラノベ展ティザー公開",
       "date": "2026-12-10",
       "startTime": "終日",
@@ -680,16 +690,6 @@
       "allDay": true,
       "location": "",
       "eventId": "6816538D-5A9D-4958-B4D7-1CBA817BA146"
-    },
-    {
-      "member": "imai",
-      "title": "藤が丘病院18:00",
-      "date": "2026-12-10",
-      "startTime": "18:00",
-      "endTime": "19:00",
-      "allDay": false,
-      "location": "",
-      "eventId": "E0CBECC6-F7A3-414B-B905-6DC37BDA5884"
     },
     {
       "member": "kondo",
