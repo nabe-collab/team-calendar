@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 09:23",
+  "updated": "2026-11-13 09:23",
   "events": [
     {
       "member": "nabe",
@@ -403,11 +403,11 @@
     },
     {
       "member": "maruyama",
-      "title": "第22回MF文庫J新人賞特設：インデックス、作品ページ初回公開",
+      "title": "【12:00】第22回MF文庫J新人賞特設：インデックス、作品ページ初回公開",
       "date": "2026-11-12",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
       "location": "",
       "eventId": "3dh34tj1psfh31tkc6kg20ctj7@google.com"
     },
@@ -522,6 +522,26 @@
       "eventId": "164ie5p0d5dbt9s1rdh9o6ir9b@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "22回MF文庫J新人賞特設：更新",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "116i5hahfhqc6f4qo0mvrsmpmo@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "「偽装カップル」更新①",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "1amn8nmn9730ifhiu3kggccd58@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "秋の学園祭更新：1200",
       "date": "2026-11-20",
@@ -570,6 +590,16 @@
       "allDay": true,
       "location": "",
       "eventId": "77drsl6blf5fgj5o7uce7p56jv@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "「偽装カップル」更新②",
+      "date": "2026-11-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "22j76vqb9gupttlbdhoji9rol2@google.com"
     },
     {
       "member": "nabe",
