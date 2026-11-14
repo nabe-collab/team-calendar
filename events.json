@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 09:23",
+  "updated": "2026-11-14 09:23",
   "events": [
     {
       "member": "nabe",
@@ -490,6 +490,76 @@
       "allDay": true,
       "location": "",
       "eventId": "5dmcp7g60dul460bpottvevlhl@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-17",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
     },
     {
       "member": "hashimoto",
