@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14 09:23",
+  "updated": "2026-11-15 09:24",
   "events": [
     {
       "member": "nabe",
@@ -460,6 +460,16 @@
       "allDay": true,
       "location": "",
       "eventId": "3p3rv77agfnhbcf3bh13mj4u8q@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": " 【森屋】 有給 (9.5/28)\n",
+      "date": "2026-11-16",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6A6962C8-30F3-4DFD-BCFC-D899EFC93743"
     },
     {
       "member": "maruyama",
