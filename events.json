@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 09:24",
+  "updated": "2026-11-17 09:23",
   "events": [
     {
       "member": "nabe",
@@ -683,6 +683,16 @@
     },
     {
       "member": "nabe",
+      "title": "渡邉】午後半休8.5/18（前期繰越3日＋15日）",
+      "date": "2026-11-27",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5m0f45bnmv8s4v61lv8llpmssp@google.com"
+    },
+    {
+      "member": "nabe",
       "title": " 【渡邉】COVER_mekPark-LPテストアップ",
       "date": "2026-11-27",
       "startTime": "終日",
@@ -720,6 +730,16 @@
       "allDay": true,
       "location": "",
       "eventId": "6ks1prmkmen2nc2m20l814l5ak@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "渡邉】有休7.5/18（前期繰越3日＋15日）",
+      "date": "2026-11-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "2lrfjvtdrc70eaf856q0plthlg@google.com"
     },
     {
       "member": "imai",
