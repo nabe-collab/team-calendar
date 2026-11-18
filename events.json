@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17 09:23",
+  "updated": "2026-11-18 09:23",
   "events": [
     {
       "member": "nabe",
@@ -572,6 +572,36 @@
       "eventId": "1s6h6kaj9vhtg20o08vrk23ea4@google.com"
     },
     {
+      "member": "nabe",
+      "title": "【渡邉】 ICE三津田さんMTG",
+      "date": "2026-11-19",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "https://meet.google.com/oyn-jfqd-qmy",
+      "eventId": "3seehi5u1cig6p6dldh1s0pl8n@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "ICE三津田さん",
+      "date": "2026-11-19",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "EC209F23-3239-4380-A7A1-AD1917E6E416"
+    },
+    {
+      "member": "kondo",
+      "title": "【近藤】ICE打ち合わせ14時",
+      "date": "2026-11-19",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "A56ADEA4-0609-4229-8942-9D3DF7571F2E"
+    },
+    {
       "member": "hashimoto",
       "title": "MG24発売",
       "date": "2026-11-19",
@@ -600,6 +630,16 @@
       "allDay": true,
       "location": "",
       "eventId": "164ie5p0d5dbt9s1rdh9o6ir9b@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "ラノベ展：デザインアップ",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AD1A3FC1-EE66-4B9A-9FBC-761ECD6487C1"
     },
     {
       "member": "maruyama",
@@ -660,6 +700,16 @@
       "allDay": true,
       "location": "",
       "eventId": "2602r4ih798461ehfg18i1p0q7@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "ME：TOPテストアップ",
+      "date": "2026-11-25",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "A067DE7E-D9D3-450F-B03F-26EB679D650D"
     },
     {
       "member": "maruyama",
@@ -782,6 +832,16 @@
       "eventId": "2uom3dbsrcevk1i96m5t6gt1ug@google.com"
     },
     {
+      "member": "imai",
+      "title": "ME:ページテストアップ",
+      "date": "2026-12-07",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "AC4AF1BD-F37A-4C62-B946-A4C3180C5C68"
+    },
+    {
       "member": "nabe",
       "title": " 【渡邉】COVER_mekPark-LP完成",
       "date": "2026-12-08",
@@ -790,6 +850,16 @@
       "allDay": true,
       "location": "",
       "eventId": "18da3b6h02b57pb9agf8jmdm30@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "ラノベ展：テストアップ",
+      "date": "2026-12-08",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "65833445-4B25-41AC-878B-DD3E87046C15"
     },
     {
       "member": "nabe",
@@ -803,6 +873,16 @@
     },
     {
       "member": "imai",
+      "title": "ラノベ展：ティザー公開",
+      "date": "2026-12-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6816538D-5A9D-4958-B4D7-1CBA817BA146"
+    },
+    {
+      "member": "imai",
       "title": "今井：午後休み",
       "date": "2026-12-10",
       "startTime": "終日",
@@ -813,13 +893,13 @@
     },
     {
       "member": "imai",
-      "title": "ラノベ展ティザー公開",
-      "date": "2026-12-10",
+      "title": "ME:WP化",
+      "date": "2026-12-17",
       "startTime": "終日",
       "endTime": "終日",
       "allDay": true,
       "location": "",
-      "eventId": "6816538D-5A9D-4958-B4D7-1CBA817BA146"
+      "eventId": "4983BEF5-100F-4D08-82BB-44667DB0F9DA"
     },
     {
       "member": "kondo",
@@ -853,6 +933,26 @@
     },
     {
       "member": "imai",
+      "title": "川谷さん藤川さん",
+      "date": "2026-12-28",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "allDay": false,
+      "location": "",
+      "eventId": "53F2675E-1A22-4221-BA1F-08C7E3CC410C"
+    },
+    {
+      "member": "imai",
+      "title": "年末年始休暇（会社指定）",
+      "date": "2026-12-30",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "D510413E-D766-4966-BFE1-A6A778DA79D5"
+    },
+    {
+      "member": "imai",
       "title": "乳児院：請求書出す",
       "date": "2026-12-30",
       "startTime": "終日",
@@ -860,6 +960,36 @@
       "allDay": true,
       "location": "",
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
+    },
+    {
+      "member": "imai",
+      "title": "年末年始休暇（会社指定）",
+      "date": "2026-12-31",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "6AD918C0-6A1B-4765-8CD7-87C73392518B"
+    },
+    {
+      "member": "imai",
+      "title": "年末年始休暇（会社指定）",
+      "date": "2027-01-04",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "CE0DA4AE-379A-4B56-B69B-A7612799D65F"
+    },
+    {
+      "member": "imai",
+      "title": "年末年始休暇（会社指定）",
+      "date": "2027-01-05",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "A0D8BD64-6969-4091-A069-322124610FAB"
     },
     {
       "member": "hashimoto",
