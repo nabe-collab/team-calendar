@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 09:24",
+  "updated": "2026-11-20 09:23",
   "events": [
     {
       "member": "nabe",
@@ -492,6 +492,16 @@
       "eventId": "31tcpotl89ls7c30lu8q4pf8dq@google.com"
     },
     {
+      "member": "hashimoto",
+      "title": " 【橋本】出社",
+      "date": "2026-11-16",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "20ubjcl6ghcejpntgkrsejfcgs@google.com"
+    },
+    {
       "member": "inamine",
       "title": "【稲嶺】有給 11/19 沖縄帰り",
       "date": "2026-11-16",
@@ -632,6 +642,16 @@
       "eventId": "2vukurfgd0hbv2klbkcgt5stvk@google.com"
     },
     {
+      "member": "maruyama",
+      "title": "めちゃコミック：打ち合わせ",
+      "date": "2026-11-19",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "6pts79hh016sou6kps4ac67j6s@google.com"
+    },
+    {
       "member": "hashimoto",
       "title": "MG24発売",
       "date": "2026-11-19",
@@ -680,6 +700,16 @@
       "allDay": false,
       "location": "",
       "eventId": "3AEC2554-66BD-4CE5-B152-4EFD9A5EEA3A"
+    },
+    {
+      "member": "maruyama",
+      "title": "天海社「MARIS文庫」見積もり、スケジュール出す",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "5hf8ds57oog6dl2fs2bvefgr3a@google.com"
     },
     {
       "member": "maruyama",
