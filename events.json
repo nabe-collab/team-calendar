@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 09:23",
+  "updated": "2026-11-21 09:23",
   "events": [
     {
       "member": "nabe",
@@ -623,16 +623,6 @@
     },
     {
       "member": "maruyama",
-      "title": "Unnamed Memory：スケジュール出す",
-      "date": "2026-11-19",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
-      "location": "",
-      "eventId": "59k8d5v7bh14nocc51tuv18nf2@google.com"
-    },
-    {
-      "member": "maruyama",
       "title": "ICE 打ち合わせ",
       "date": "2026-11-19",
       "startTime": "14:00",
@@ -703,6 +693,16 @@
     },
     {
       "member": "maruyama",
+      "title": "Unnamed Memory：スケジュール出す",
+      "date": "2026-11-20",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "59k8d5v7bh14nocc51tuv18nf2@google.com"
+    },
+    {
+      "member": "maruyama",
       "title": "天海社「MARIS文庫」見積もり、スケジュール出す",
       "date": "2026-11-20",
       "startTime": "終日",
@@ -725,9 +725,9 @@
       "member": "maruyama",
       "title": "22回MF文庫J新人賞特設：更新",
       "date": "2026-11-20",
-      "startTime": "終日",
-      "endTime": "終日",
-      "allDay": true,
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "allDay": false,
       "location": "",
       "eventId": "116i5hahfhqc6f4qo0mvrsmpmo@google.com"
     },
@@ -790,6 +790,76 @@
       "allDay": true,
       "location": "",
       "eventId": "2602r4ih798461ehfg18i1p0q7@google.com"
+    },
+    {
+      "member": "nabe",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1qf2ks9mb8j9f4e88vn0l6ub3k@google.com"
+    },
+    {
+      "member": "imai",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1qf2ks9mb8j9f4e88vn0l6ub3k@google.com"
+    },
+    {
+      "member": "moriya",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1qf2ks9mb8j9f4e88vn0l6ub3k@google.com"
+    },
+    {
+      "member": "kondo",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1qf2ks9mb8j9f4e88vn0l6ub3k@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1qf2ks9mb8j9f4e88vn0l6ub3k@google.com"
+    },
+    {
+      "member": "hashimoto",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1qf2ks9mb8j9f4e88vn0l6ub3k@google.com"
+    },
+    {
+      "member": "inamine",
+      "title": "定例打ち合わせ",
+      "date": "2026-11-24",
+      "startTime": "11:30",
+      "endTime": "12:30",
+      "allDay": false,
+      "location": "",
+      "eventId": "1qf2ks9mb8j9f4e88vn0l6ub3k@google.com"
     },
     {
       "member": "imai",
