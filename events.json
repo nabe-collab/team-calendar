@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 09:23",
+  "updated": "2026-11-24 09:25",
   "events": [
     {
       "member": "nabe",
@@ -1108,7 +1108,7 @@
       "startTime": "18:00",
       "endTime": "23:00",
       "allDay": false,
-      "location": "季節料理 有酒, 日本、〒158-0094 東京都世田谷区玉川３丁目１０−８ B1",
+      "location": "https://tabelog.com/tokyo/A1317/A131708/13220249/",
       "eventId": "5chkmdtb1r62jdkfrtjhe2sf73@google.com"
     },
     {
@@ -1118,7 +1118,7 @@
       "startTime": "18:00",
       "endTime": "21:00",
       "allDay": false,
-      "location": "",
+      "location": "焼鳥 BABE\n〒158-0094, 東京都世田谷区, 玉川3丁目9-10 1F",
       "eventId": "53F2675E-1A22-4221-BA1F-08C7E3CC410C"
     },
     {
