@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 09:23",
+  "updated": "2026-11-27 09:23",
   "events": [
     {
       "member": "nabe",
@@ -1002,6 +1002,16 @@
       "eventId": "AE458F51-D675-4468-A70A-27D89006DAF6"
     },
     {
+      "member": "maruyama",
+      "title": "めちゃコミック：ロゴデザイン１",
+      "date": "2026-12-03",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "28dolpqtt3en7la3r3itf1r4t8@google.com"
+    },
+    {
       "member": "nabe",
       "title": " 【渡邉】COVER_mekPark-LP最終テストアップ",
       "date": "2026-12-04",
@@ -1090,6 +1100,26 @@
       "allDay": true,
       "location": "",
       "eventId": "4EFAECA8-73DD-4AB1-BF5E-E6C559F31074"
+    },
+    {
+      "member": "maruyama",
+      "title": " 「Unnamed Memory」初回テストアップ",
+      "date": "2026-12-10",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "06qdv4ejkulqh1ksc98ledjl7s@google.com"
+    },
+    {
+      "member": "maruyama",
+      "title": "めちゃコミック：ロゴデザイン2",
+      "date": "2026-12-15",
+      "startTime": "終日",
+      "endTime": "終日",
+      "allDay": true,
+      "location": "",
+      "eventId": "68kp2cs310si11ejc8al6h62v1@google.com"
     },
     {
       "member": "imai",
